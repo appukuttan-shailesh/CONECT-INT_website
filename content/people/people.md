@@ -29,7 +29,7 @@ content:
   - Alumni
 
 design:
-  show_interests: false
+  show_interests: true
   show_role: false
   show_social: true
 ---
