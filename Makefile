@@ -10,7 +10,14 @@ sync:
 
 gitpages:
 	git pull
-	echo ">>> Commit changes to source repo to GitHub..."
+	hugo
 	msg="rebuilding site `date`"
+	echo ">>> Commit changes to source repo to GitHub..."
+	git add .
 	git commit -m "$msg"
 	git push
+	cd public
+	git add .
+	git commit -m "Build website"
+	git push origin master
+	cd ..
