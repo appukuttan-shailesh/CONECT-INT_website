@@ -17,6 +17,7 @@ gitpages:
 	git commit -m "Build website" -a
 	git push
 	cd public
+	git checkout main
 	git add .
 	git commit -m "Build website" -a
 	git push origin main
