@@ -247,7 +247,7 @@ plugins_js  = []
   #   "mapbox": OpenStreetMap (Mapbox)
   provider = "mapnik"
   api_key = ""
-  zoom = 15
+  zoom = 10
 
 ############################
 ## Marketing
