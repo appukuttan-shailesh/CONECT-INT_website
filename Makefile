@@ -1,4 +1,4 @@
-default: gitpages
+default: pages
 
 sync:
 	rsync -av ../hugo_academic/content/post/2020-09-11_seminaire-thomas-serre content/event
@@ -8,13 +8,8 @@ sync:
 	rsync -av ../hugo_academic/content/authors/anna-montagnini content/authors
 	rsync -av ../hugo_academic/content/authors/emmanuel-dauce content/authors
 
-gitpages:
-	git pull
-	hugo
-	msg="rebuilding site `date`"
-	echo ">>> Commit changes to source repo to GitHub..."
-	git add .
-	git commit -m "Build website" -a
-	git push origin main
-	cd public; git checkout main ; 	git add . ; 	git commit -m "Build website" -a ; 	git push origin main
-	
+pages:
+	git pull ; 	hugo ; 	git add . ; git commit -m "Build website" -a ; git push origin main
+
+deploy: pages
+	cd public; git checkout main ; git add . ; git commit -m "Build website" -a ; git push origin main
