@@ -9,7 +9,7 @@ sync:
 	rsync -av ../hugo_academic/content/authors/emmanuel-dauce content/authors
 
 pages:
-	git pull ; 	hugo ; 	git add . ; git commit -m "Build website" -a ; git push origin main
+	git pull ; hugo ; git add . ; git commit -m "Build website" -a ; git push origin main
 
 deploy: pages
 	cd public; git checkout main ; git add . ; git commit -m "Build website" -a ; git push origin main
