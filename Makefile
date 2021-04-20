@@ -15,10 +15,6 @@ gitpages:
 	echo ">>> Commit changes to source repo to GitHub..."
 	git add .
 	git commit -m "Build website" -a
-	git push
-	cd public
-	git checkout main
-	git add .
-	git commit -m "Build website" -a
 	git push origin main
-	cd ..
+	cd public; git checkout main ; 	git add . ; 	git commit -m "Build website" -a ; 	git push origin main
+	
