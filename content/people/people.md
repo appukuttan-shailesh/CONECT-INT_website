@@ -18,6 +18,7 @@ content:
   user_groups:
   - Mentors
   - Collaborators
+  - Researcher
   - Current Students
   - Former Students
   - Principal Investigators
@@ -26,7 +27,7 @@ content:
   - Administration
   - Visitors
   - Alumni
-  
+
 design:
   show_interests: false
   show_role: false
