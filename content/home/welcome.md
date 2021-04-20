@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Computational Neuroscience Center - INT"
+title: ""
 subtitle: ""
 hero_media: welcome.jpg
 # https://unsplash.com/photos/so1L3jsdD3Y
