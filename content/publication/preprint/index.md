@@ -61,5 +61,5 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-TOTO was here
+
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

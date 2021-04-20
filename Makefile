@@ -14,10 +14,10 @@ gitpages:
 	msg="rebuilding site `date`"
 	echo ">>> Commit changes to source repo to GitHub..."
 	git add .
-	git commit -m "$msg"
+	git commit -m "$msg" -a
 	git push
 	cd public
 	git add .
-	git commit -m "Build website"
+	git commit -m "Build website" -a
 	git push origin master
 	cd ..
