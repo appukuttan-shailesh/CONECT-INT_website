@@ -1,5 +1,5 @@
 ---
-title: CONECT kick-off
+title: What is CONECT ?
 date: 2021-04-29
 ---
 
