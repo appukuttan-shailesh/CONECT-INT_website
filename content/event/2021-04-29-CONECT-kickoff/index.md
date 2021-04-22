@@ -18,4 +18,4 @@ First meeting of the CONECT group.
 
 * 15:00 - 15:30 - pause / café
 * 15:30 - 16:30 - scientific presentation:
- * Rufin van Rullen (TBC)
+ * Rufin van Rullen (TBC) https://arxiv.org/pdf/2104.05575.pdf
