@@ -1,5 +1,5 @@
 ---
-title: What is CONECT ?
+title: Why CONECT ?
 date: 2021-04-21
 ---
 
