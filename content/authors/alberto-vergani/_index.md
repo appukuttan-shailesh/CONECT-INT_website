@@ -32,7 +32,7 @@ education:
 tags:
 - phd-icn
 user_groups:
-- Current Students
+- CONECT
 ---
 
 # Project description: Visual computations using Spatio-temporal Diffusion Kernels and Traveling Waves

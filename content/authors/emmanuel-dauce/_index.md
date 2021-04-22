@@ -4,7 +4,7 @@ authors:
 title: Emmanuel Daucé
 superuser: false
 user_groups:
-- Collaborators
+- CONECT
 social:
 - icon: github
   icon_pack: fab

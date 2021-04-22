@@ -4,7 +4,7 @@ authors:
 title: Frédéric Chavane
 superuser: false
 user_groups:
-- Collaborators
+- CONECT
 social:
 - icon: researchgate
   icon_pack: ai
