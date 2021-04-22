@@ -1,5 +1,5 @@
 ---
-title: 2021-04-23 : PhDProgram course in computational neuroscience
+title: '2021-04-23 PhDProgram course in computational neuroscience'
 date: 2021-04-23
 ---
 
