@@ -1,9 +1,9 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: CONECT kick-off
 date: 2021-04-29
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+First meeting of the CONECT group.
 
 <!--more-->
 
