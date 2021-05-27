@@ -2,7 +2,7 @@
 authors:
 - andrea-brovelli
 title: Andrea Brovelli
-role: CNRS researcher in Cognitive Computational Neuroscience at the INT.
+role: CNRS researcher in Cognitive Computational Neuroscience at the INT
 social:
 - icon: github
   icon_pack: fab
@@ -16,6 +16,9 @@ social:
 - icon: external-link-alt
   icon_pack: fas
   link: http://andrea-brovelli.net/
+- icon: external-link-alt
+  icon_pack: fas
+  link: https://brainets.github.io/
 
 
 user_groups:
