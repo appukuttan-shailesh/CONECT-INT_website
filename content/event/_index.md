@@ -11,4 +11,15 @@ view: 2
 header:
   caption: ""
   image: ""
+
+content:
+  count: 5
+  filters:
+    author: ""
+    category: ""
+    exclude_future: false
+    publication_type: ""
+    tag: ""
+  order: desc
+
 ---
