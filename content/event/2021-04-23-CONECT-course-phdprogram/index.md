@@ -1,7 +1,7 @@
 ---
 title: '2021-04-23 : PhDProgram course in computational neuroscience'
 date: 2021-04-23
-summary: Everything You Always Wanted to Know About Computational Models in Neuroscience (But Were Afraid to Ask): a course provided within the NeuroSchool PhD Program.
+summary: 'Everything You Always Wanted to Know About Computational Models in Neuroscience (But Were Afraid to Ask): a course provided within the NeuroSchool PhD Program.'
 ---
 
 
