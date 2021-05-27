@@ -15,7 +15,6 @@ tags:
 - events
 title: '2020-09-11 : Feedforward and feedback processes in visual recognition (T Serre)'
 ---
-# 2020-09-11 : "Feedforward and feedback processes in visual recognition" by Thomas Serre
 
 During a seminar at the Institute of Neurosciences Timone in Marseille, [Thomas Serre](http://serre-lab.clps.brown.edu/) will present his recent work on "Feedforward and feedback processes in visual recognition":
 
