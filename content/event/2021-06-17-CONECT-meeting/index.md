@@ -1,6 +1,7 @@
 ---
 title: '2021-06-17: CONECT meeting #3'
 date: 2021-06-17 14:00:00
+publishDate: 2021-05-27 09:00:00
 
 ---
 
