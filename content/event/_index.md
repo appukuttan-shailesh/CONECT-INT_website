@@ -15,11 +15,9 @@ header:
 content:
   count: 5
   filters:
-    author: ""
-    category: ""
     exclude_future: false
-    publication_type: ""
-    tag: ""
+    exclude_featured: false
+    exclude_past: false
   order: desc
 
 ---
