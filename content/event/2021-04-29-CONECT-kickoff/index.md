@@ -1,6 +1,6 @@
 ---
-title: CONECT kick-off - talk by Rufin van Rullen
-date: 2021-04-23
+title: '2021-04-29: CONECT kick-off - talk by Rufin van Rullen'
+date: 2021-04-29
 
 ---
 

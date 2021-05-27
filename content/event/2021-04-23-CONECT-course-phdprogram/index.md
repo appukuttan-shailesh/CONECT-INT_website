@@ -1,9 +1,9 @@
 ---
-title: '2021-04-23 PhDProgram course in computational neuroscience'
+title: '2021-04-23 : PhDProgram course in computational neuroscience'
 date: 2021-04-23
+summary: Everything You Always Wanted to Know About Computational Models in Neuroscience (But Were Afraid to Ask): a course provided within the NeuroSchool PhD Program.
 ---
 
-Everything You Always Wanted to Know About Computational Models in Neuroscience (But Were Afraid to Ask): a course provided within the NeuroSchool PhD Program.
 
 <!--more-->
 
@@ -20,13 +20,11 @@ Computational neuroscience is an expanding field that is proving to be essential
   * Friday, April 23, 2021; 9:00-12:30
   * Objective: Applying the Theory on the eBrains platform
   * https://github.com/albertoarturovergani/CNT-2021
-  * zoom link = https://univ-amu-fr.zoom.us/j/94280459110?pwd=b25zQytlQ1dIK0x2OTU5OXQ3dzFEZz09
 
 2. _Hands-on practice_
   * Friday, April 23, 2021; 14:00-17:00
   * Objective: replicating Mainen & Sejnowski (1995)
   * github : https://github.com/CONECT-INT/2021-04-23_PhDProgram-course-in-computational-neurosciences/
-  * zoom link : https://univ-amu-fr.zoom.us/j/95013129562?pwd=UEY5YThLaTUxQU0vWDFrUHNteTRqQT09  
   * AMETICE :  https://ametice.univ-amu.fr/course/view.php?id=72868#section-4
 
 <!--more-->
