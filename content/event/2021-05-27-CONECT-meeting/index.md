@@ -1,6 +1,6 @@
 ---
 title: '2021-05-27: CONECT meeting - talk by Matthias Pessiglione'
-date: 2021-05-27
+date: 2021-05-27 14:00:00
 
 ---
 
