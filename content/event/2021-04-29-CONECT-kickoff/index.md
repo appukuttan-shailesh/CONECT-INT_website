@@ -1,10 +1,10 @@
 ---
-title: CONECT kick-off
+title: CONECT kick-off - talk by Rufin van Rullen
 date: 2021-04-23
-draft: true
+
 ---
 
-First meeting of the CONECT group.
+First meeting of the CONECT group for the thursday meeting devoted to the kick-off of these initiatives for INT3. It consists of an internal meeting (14:00-15:00) and of talk open to the institute (15:00-16:00).
 
 <!--more-->
 
@@ -17,5 +17,7 @@ First meeting of the CONECT group.
   * forecast student training day - 2022
 
 * 15:00 - 15:30 - pause / café
-* 15:30 - 16:30 - scientific presentation:
- * Rufin van Rullen (TBC) https://arxiv.org/pdf/2104.05575.pdf
+
+* 15:30 - 16:30 - scientific presentation by [Rufin van Rullen](http://cerco.cnrs.fr/pagesp/rufin/) on his recent work :
+
+  - *R VanRullen, A Alamia* [GAttANet: Global attention agreement for convolutional neural networks](https://arxiv.org/abs/2104.05575) - arXiv preprint arXiv:2104.05575, 2021
