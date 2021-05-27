@@ -3,8 +3,9 @@ title: '2021-04-23 PhDProgram course in computational neuroscience'
 date: 2021-04-23
 ---
 
-# Everything You Always Wanted to Know About Computational Models in Neuroscience (But Were Afraid to Ask).
-## NeuroSchool PhD Program
+Everything You Always Wanted to Know About Computational Models in Neuroscience (But Were Afraid to Ask): a course provided within the NeuroSchool PhD Program.
+
+<!--more-->
 
 Computational neuroscience is an expanding field that is proving to be essential in neurosciences. The aim of this short intensive course will be to provide a common background in computational neuroscience. The course, after a brief historical overview of the field, will focus on the description of a few selected modelling and theoretical approaches that are currently developed, including details about their limits and advantages, and that can be applied to different scales of analysis (from the single neuron to the whole brain). In addition, we will provide a theoretical and a practical session on artificial neuronal networks of spiking neurons.
 
