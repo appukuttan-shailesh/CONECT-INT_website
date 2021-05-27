@@ -4,7 +4,7 @@ date: 2021-04-29
 
 ---
 
-First meeting of the CONECT group for the thursday meeting devoted to the kick-off of these initiatives for INT3. It consists of an internal meeting (14:00-15:00) and of talk open to the institute (15:00-16:00).
+First meeting of the CONECT group for the Thursday meeting devoted to the kick-off of these initiatives for INT3. It consists of an internal meeting (14:00-15:00) and of a talk open to the institute (15:00-16:00).
 
 <!--more-->
 
