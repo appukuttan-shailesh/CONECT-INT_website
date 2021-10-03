@@ -1,6 +1,6 @@
 ---
 title: Objectives of CONECT
-date: 2021-04-21
+date: 2021-09-21
 authors:
 - david-hansel
 - laurent-u-perrinet
@@ -10,7 +10,6 @@ authors:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: conect
-draft: true
 ---
 
 Neuroscience is in revolution: Over the past decade, tremendous technological advances across several disciplines have dramatically expanded the frontiers of experimentally accessible neuroscientific facts.

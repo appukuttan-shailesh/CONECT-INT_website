@@ -78,6 +78,10 @@ This approach is therefore complementary but distinct in its purpose from neuroi
 
 ---
 
+##  Actors of CoNeCt
+
+---
+
 # Questions?
 
 [https://conect-int.github.io](https://conect-int.github.io)

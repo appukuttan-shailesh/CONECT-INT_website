@@ -1,6 +1,6 @@
 ---
 title: Actors of CONECT
-date: 2021-04-21
+date: 2021-06-21
 authors:
 - laurent-u-perrinet
 # Markdown Slides (optional).
@@ -9,11 +9,10 @@ authors:
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: conect
-draft: true
 ---
 
 
-Within INT, many components of CONECT already exist, either carried by researchers in computational neurosciences or as themes strongly anchored in this field. A survey of the current situation reveals the existence of projects at different scales:
+Within INT, many components of CONECT already exist, either carried by researchers in computational neurosciences or as themes strongly anchored in this field. A survey of the current situation reveals the existence of projects at different scales.
 
 <!--more-->
 
