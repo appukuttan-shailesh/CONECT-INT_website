@@ -26,6 +26,7 @@ CONECT aims to serve as an incubator within INT to promote the use of methodolog
   * create **social moments**: breakfasts, happy hours, retreat, pizza day,
   * **general public** : semaine du cerveau, the conversation
 * [x] **train students and staff** and attract young researchers:
+
   * [x] Master level:
     * create a space for sharing Master's or thesis subjects to be distributed in the SdV doctoral schools but also to the "hard" sciences (ED info, engineering schools),
       * In addition to training in neurosciences, we could try to build on
@@ -35,6 +36,7 @@ CONECT aims to serve as an incubator within INT to promote the use of methodolog
       * [ ] valider en réunion CE (**Frédéric Chavane**)
       * [ ] call for proposal - receive candidatures (09/2021 - 12/2021)
       * [ ] start (01/2022)
+
   * PhDs and above:
     * The aim of this program is to help post-doctoral students to set up post-doctoral fellowships or to help them apply for jobs related to computational neurosciences (IR, CR, MdC, private sector, ...) ;
     * courses ? training (theoretical) - see that of PhDprogram
@@ -45,6 +47,7 @@ CONECT aims to serve as an incubator within INT to promote the use of methodolog
 * **structuring the network** of computational neurosciences at INT, on Timone, on AMU and in France & International:
   * SAB début 2022 - HCERES Juin 2022
     * SWOT
+
   * participate in the development of INT³ Projects by actively participating in the development of requests for means (ANR, Carnot Institute, foundations),
     * Projects in general, in particular the 'Transient' Project
     * cooperate in writing grants specific to computational neuroscience for actors of CONECT (CRCNS, ...) and related to CONECT (eBrains, PEPR Neurosciences computationnelles, ...)
@@ -52,6 +55,7 @@ CONECT aims to serve as an incubator within INT to promote the use of methodolog
   * to elaborate a development strategy involving academic partners (bio-robotics, neurology, cognitive development, ...) and private partners (start-ups, new information technology sector, ...)
     * opening to Marseille and outside (Destexhe)
     * International
+	
 * **increase the visibility** and attractiveness of INT in computational neurosciences
   * communicate through a dedicated space on <https://conect-int.github.io/> to share CONECT's activities, regularly updated by a newsletter,
   * Develop collaboration and visibility on AMU through the creation of a biannual conference at CIRM
