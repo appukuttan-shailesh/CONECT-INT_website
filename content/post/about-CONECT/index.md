@@ -4,7 +4,7 @@ date: 2021-04-21
 authors:
 - david-hansel
 - laurent-u-perrinet
-
+slides: conect
 ---
 
 Neuroscience is in revolution: Over the past decade, tremendous technological advances across several disciplines have dramatically expanded the frontiers of experimentally accessible neuroscientific facts.

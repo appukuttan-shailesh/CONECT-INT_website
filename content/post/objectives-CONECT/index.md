@@ -1,5 +1,5 @@
 ---
-title: Why CONECT ?
+title: Objectives of CONECT
 date: 2021-04-21
 authors:
 - david-hansel

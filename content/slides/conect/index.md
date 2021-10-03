@@ -29,7 +29,7 @@ slides:
 
 ---
 
-## A revolution over the past decade: Tremendous technological advances:
+## Tremendous technological advances over the past decade
 
 - two photon imaging
 - large population recording-array technologies
@@ -38,6 +38,8 @@ slides:
 - large volume circuit reconstructions
 
 {{< speaker_note >}}
+Tremendous technological advances:
+
 - These experiments have begun to produce a huge amount of data, on a broad spectrum of temporal and spatial scales,
 - providing finer and more quantitative descriptions of the biological reality than we would have been able to dream of only a decade ago.
 {{< /speaker_note >}}
@@ -46,8 +48,8 @@ slides:
 
 ## A transdisciplinary revolution
 
-- across several disciplines (physics, biology, robotics, psychiatry)
-- and multiple scales (from short to long-term, from micro to macro, from theory to biology)
+- across several disciplines (physics, genetics, biology, robotics, psychiatry, ..)
+- and multiple scales (from micro to macro, from short to long-term, from theory to biology)
 - new frontiers and {{% fragment %}}...new challenges{{% /fragment %}}
 
 {{< speaker_note >}}
@@ -60,17 +62,18 @@ slides:
 
 ---
 
-##  Actions
+##  CoNeCt: **Co**mputational **Ne**uroscience **C**en**t**er
 
-- across several disciplines (physics, biology, robotics, psychiatry)
-- and multiple scales (from short to long-term, from micro to macro, from theory to biology)
-- new frontiers and {{% fragment %}}...new challenges{{% /fragment %}}
+- close collaboration between experimentalists and theoreticians
+- share state-of-the-art (experimentalists well aware of theoretical approaches, experimental techniques for theoreticians)
+- complementary in its purpose from neuroinformatics... {{% fragment %}}but distinct{{% /fragment %}}
 
 {{< speaker_note >}}
--  daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics
-- to provide a conceptual bridge between abstract principles of brain function and their biological implementations within neural circuits.
-- This revolution is accompanied by a parallel revolution in the domain of Artificial Intelligence. An exponential number of algorithms in sensory processing, such as image classification, or reinforcement learning have realized practical tools which have replaced the classical tools we were using on a daily basis by a novel range of intelligent tools of a new generation.
-- **This is the context in which we are creating CONECT.**
+- We are convinced that close collaboration between experimentalists and theoreticians in neuroscience is essential to develop mechanistic as well as quantitative understandings of how the brain performs its functions. This is in fact a primary motivating force in establishing this center.
+- However, for such collaborations to be effective, experimentalists must be well aware of the approaches and challenges in modeling while theoreticians must be well acquainted with the experimental techniques, their power and the challenges they present.
+- CoNeCt has also the ambition to contribute to the training of a new generation of neuroscientists who will have all these qualities.
+
+This approach is therefore complementary but distinct in its purpose from neuroinformatics (creation of tools for analyzing neuroscientific data) or artificial intelligence (creation of algorithms inspired by the functioning of the brain). The field of computational neuroscience is still young but its community is now structured in an autonomous community with strong interaction with the other branches of neuroscience. It is this autonomy that we want to foster at INT.
 {{< /speaker_note >}}
 
 ---
@@ -84,132 +87,3 @@ slides:
 [Discuss](https://framateam.org/int-marseille/channels/conect)
 
 ---
-
-## Controls
-
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
-
----
-
-## Code Highlighting
-
-Inline code: `variable`
-
-Code block:
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
-
----
-
-## Math
-
-In-line math: $x + y = z$
-
-Block math:
-
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
-
----
-
-## Fragments
-
-Make content appear incrementally
-
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
-
-Press `Space` to play!
-
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-
----
-
-A fragment can accept two optional parameters:
-
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
-
----
-
-## Speaker Notes
-
-Add speaker notes to your presentation
-
-```markdown
-{{%/* speaker_note */%}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{%/* /speaker_note */%}}
-```
-
-Press the `S` key to view the speaker notes!
-
-{{< speaker_note >}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{< /speaker_note >}}
-
----
-
-## Themes
-
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
-
----
-
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
-
----
-
-{{< slide background-image="/media/boards.jpg" >}}
-
-## Custom Slide
-
-Customize the slide style and background
-
-```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
-
----
-
-## Custom CSS Example
-
-Let's make headers navy colored.
-
-Create `assets/css/reveal_custom.css` with:
-
-```css
-.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-```
