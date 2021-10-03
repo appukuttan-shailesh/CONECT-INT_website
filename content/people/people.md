@@ -23,3 +23,10 @@ design:
   show_role: false
   show_social: true
 ---
+
+
+Within INT, many such components already exist, either carried by researchers in computational neurosciences or as themes strongly anchored in this field. A survey of the current situation reveals the existence of projects around different scales.
+
+{{< cite page="/post/actors-CONECT" view="4" >}}
+
+[A post]({{< relref "/post/actors-CONECT" >}})
