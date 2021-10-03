@@ -1,14 +1,14 @@
 ---
 title: Actors of CONECT
 date: 2021-06-21
-authors:
-- laurent-u-perrinet
+#authors:
+#- laurent-u-perrinet
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: conect
+#slides: conect
 ---
 
 

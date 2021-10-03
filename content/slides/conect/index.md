@@ -78,7 +78,13 @@ This approach is therefore complementary but distinct in its purpose from neuroi
 
 ---
 
-##  Actors of CoNeCt
+##  Actions of CoNeCt
+
+* {{< cite page="/post/actors-CONECT" view="1" >}}
+
+* Events: {{< cite page="/event" view="1" >}}
+
+* Objectives: {{< cite page="/post/objectives-CONECT" view="1" >}}
 
 ---
 
