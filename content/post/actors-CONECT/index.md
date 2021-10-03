@@ -12,7 +12,7 @@ date: 2021-06-21
 weight: 20
 ---
 
-Within INT, many components of CONECT already exist, either carried by researchers in computational neurosciences or as themes strongly anchored in this field. A survey of the current situation reveals the existence of projects at different scales.
+Within the INT, many components of CONECT already exist, either carried by researchers in computational neurosciences or as themes strongly anchored in this field. A survey of the current situation reveals the existence of projects at different scales.
 
 * [Contact](/contact) us to be added!
 
