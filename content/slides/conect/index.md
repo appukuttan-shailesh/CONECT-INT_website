@@ -87,11 +87,31 @@ This approach is therefore complementary but distinct in its purpose from neuroi
 
 * {{< cite page="/post/objectives-CONECT" view="1" >}}
 
+* [Methodology](https://amubox.univ-amu.fr/f/867023067)
+
 
 {{< speaker_note >}}
 - Actors
 - we already organized events within or outside INT
 - objectives : exist
+{{< /speaker_note >}}
+
+
+---
+
+##  Objectives of CoNeCt
+
+* to create a space for scientific discussion and animation
+
+* train students and staff and attract young researchers:
+
+* structuring the network of computational neurosciences at INT, on Timone, on AMU and in France & International
+
+
+{{< speaker_note >}}
+- lots of work - bottom approach so far
+- no action taken
+- lots of work - existence of top-down initiatives
 {{< /speaker_note >}}
 
 ---
