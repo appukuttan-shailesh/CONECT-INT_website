@@ -9,25 +9,49 @@ categories: []
 date: "2019-02-05T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: "simple"  # Reveal JS theme name
+  theme: "white"  # Reveal JS theme name
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: "github"  # Highlight JS theme name  
 ---
 
-# CONECT
+# CoNeCt
 ## the **Co**mputational **Ne**uroscience **C**en**t**er @ INT
 
 [https://conect-int.github.io](https://conect-int.github.io)
 
+
+{{< speaker_note >}}
+- CONECT with one N
+- Press `S` key to view
+{{< /speaker_note >}}
 ---
 
-## Features
+## A revolution over the past decade: Tremendous technological advances:
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+- two photon imaging,
+- large population recording-array technologies,
+- optogenetic circuit control tools,
+- transgenic manipulations as well as
+- large volume circuit reconstructions
+
+{{< speaker_note >}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{< /speaker_note >}}
+
+---
+
+## A transdisciplinary revolution
+
+{{% fragment %}}
+- across several disciplines (physics, biology psychiatry)
+- and multiple scales
+- new frontiers and
+{{% /fragment %}}
+{{% fragment %}}
+- ...new challenges
+{{% /fragment %}}
 
 ---
 
