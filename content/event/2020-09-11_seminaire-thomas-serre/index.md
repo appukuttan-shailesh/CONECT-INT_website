@@ -9,8 +9,8 @@ image:
   preview_only: false
 lastmod: 2020-09-04 06:00:00
 projects: []
-subtitle: A seminar by [Thomas Serre](http://serre-lab.clps.brown.edu/) at the Institute of Neurosciences Timone in Marseille.
-summary: A seminar by Thomas Serre at the Institute of Neurosciences Timone in Marseille.
+subtitle: 'A seminar by [Thomas Serre](http://serre-lab.clps.brown.edu/) at the Institute of Neurosciences Timone in Marseille.'
+summary: 'A seminar by Thomas Serre at the Institute of Neurosciences Timone in Marseille.'
 tags:
 - events
 title: '2020-09-11 : Feedforward and feedback processes in visual recognition (T Serre)'
