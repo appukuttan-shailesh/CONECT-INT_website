@@ -25,7 +25,9 @@ slides:
 - 3-in-1: Create, Present, and Publish your slides
 - Supports speaker notes
 - Mobile friendly slides
-
+- [x] Write math example
+  - [x] Write diagram example
+- [ ] Do something else
 ---
 
 ## Controls
