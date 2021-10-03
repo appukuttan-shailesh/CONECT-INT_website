@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: CONECT: Computational Neuroscience Center.
+summary: 'CONECT: Computational Neuroscience Center.'
 authors: []
 tags: []
 categories: []
