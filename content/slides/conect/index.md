@@ -13,6 +13,7 @@ slides:
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: "github"  # Highlight JS theme name  
+
 ---
 {{< slide background-image="/media/open-book.jpg" >}}
 
@@ -82,9 +83,16 @@ This approach is therefore complementary but distinct in its purpose from neuroi
 
 * {{< cite page="/post/actors-CONECT" view="1" >}}
 
-* Events: {{< cite page="/event" view="1" >}}
+* [Past events](/event) and future
 
-* Objectives: {{< cite page="/post/objectives-CONECT" view="1" >}}
+* {{< cite page="/post/objectives-CONECT" view="1" >}}
+
+
+{{< speaker_note >}}
+- Actors
+- we already organized events within or outside INT
+- objectives : exist
+{{< /speaker_note >}}
 
 ---
 
