@@ -14,6 +14,7 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: "github"  # Highlight JS theme name  
 ---
+{{< slide background-image="/images/open-book.jpg" >}}
 
 # CoNeCt
 ## the **Co**mputational **Ne**uroscience **C**en**t**er @ INT
@@ -30,33 +31,57 @@ slides:
 
 ## A revolution over the past decade: Tremendous technological advances:
 
-- two photon imaging,
-- large population recording-array technologies,
-- optogenetic circuit control tools,
-- transgenic manipulations as well as
+- two photon imaging
+- large population recording-array technologies
+- optogenetic circuit control tools
+- transgenic manipulations
 - large volume circuit reconstructions
 
 {{< speaker_note >}}
-- Only the speaker can read these notes
-- These experiments have begun to produce a huge amount of data, on a broad spectrum of temporal and spatial scales, providing finer and more quantitative descriptions of the biological reality than we would have been able to dream of only a decade ago.
+- These experiments have begun to produce a huge amount of data, on a broad spectrum of temporal and spatial scales,
+- providing finer and more quantitative descriptions of the biological reality than we would have been able to dream of only a decade ago.
 {{< /speaker_note >}}
 
 ---
 
 ## A transdisciplinary revolution
 
-{{% fragment %}}
 - across several disciplines (physics, biology, robotics, psychiatry)
-- and multiple scales
-- new frontiers and
-{{% /fragment %}}
-{{% fragment %}}
-- ...new challenges
-{{% /fragment %}}
+- and multiple scales (from short to long-term, from micro to macro, from theory to biology)
+- new frontiers and {{% fragment %}}...new challenges{{% /fragment %}}
 
 {{< speaker_note >}}
-- The daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics to provide a conceptual bridge between abstract principles of brain function and their biological implementations within neural circuits. This revolution is accompanied by a parallel revolution in the domain of Artificial Intelligence. An exponential number of algorithms in sensory processing, such as image classification, or reinforcement learning have realized practical tools which have replaced the classical tools we were using on a daily basis by a novel range of intelligent tools of a new generation. **This is the context in which we are creating CONECT.**
+-  daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics
+- to provide a conceptual bridge between abstract principles of brain function and their biological implementations within neural circuits.
+- This revolution is accompanied by a parallel revolution in the domain of Artificial Intelligence. An exponential number of algorithms in sensory processing, such as image classification, or reinforcement learning have realized practical tools which have replaced the classical tools we were using on a daily basis by a novel range of intelligent tools of a new generation.
+- **This is the context in which we are creating CONECT.**
 {{< /speaker_note >}}
+
+
+---
+
+##  Actions
+
+- across several disciplines (physics, biology, robotics, psychiatry)
+- and multiple scales (from short to long-term, from micro to macro, from theory to biology)
+- new frontiers and {{% fragment %}}...new challenges{{% /fragment %}}
+
+{{< speaker_note >}}
+-  daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics
+- to provide a conceptual bridge between abstract principles of brain function and their biological implementations within neural circuits.
+- This revolution is accompanied by a parallel revolution in the domain of Artificial Intelligence. An exponential number of algorithms in sensory processing, such as image classification, or reinforcement learning have realized practical tools which have replaced the classical tools we were using on a daily basis by a novel range of intelligent tools of a new generation.
+- **This is the context in which we are creating CONECT.**
+{{< /speaker_note >}}
+
+---
+
+# Questions?
+
+[https://conect-int.github.io](https://conect-int.github.io)
+
+[Contact us!](mailto://int-conect@univ-amu.fr)
+
+[Discuss](https://framateam.org/int-marseille/channels/conect)
 
 ---
 
@@ -188,11 +213,3 @@ Create `assets/css/reveal_custom.css` with:
   color: navy;
 }
 ```
-
----
-
-# Questions?
-
-[Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
-
-[Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
