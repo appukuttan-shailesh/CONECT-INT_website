@@ -1,21 +1,24 @@
 ---
 title: Slides
 summary: 'CONECT: Computational Neuroscience Center.'
-authors: []
+authors:
+- david-hansel
+- laurent-u-perrinet
 tags: []
 categories: []
 date: "2019-02-05T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: black
+  theme: "white"  # Reveal JS theme name
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
-  highlight_style: dracula
+  highlight_style: "github"  # Highlight JS theme name  
 ---
 
-# CONECT: the **Co**mputational **Ne**uroscience **C**en**t**er @ INT
+# CONECT
+## the **Co**mputational **Ne**uroscience **C**en**t**er @ INT
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
+[https://conect-int.github.io](https://conect-int.github.io)
 
 ---
 
