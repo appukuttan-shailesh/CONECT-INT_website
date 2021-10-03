@@ -14,6 +14,8 @@ date: 2021-06-21
 
 Within INT, many components of CONECT already exist, either carried by researchers in computational neurosciences or as themes strongly anchored in this field. A survey of the current situation reveals the existence of projects at different scales.
 
+* [Current actors](/people) - [Contact](/contact) us to be added! 
+
 <!--more-->
 
 * from the cellular to the network level

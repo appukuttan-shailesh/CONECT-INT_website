@@ -30,7 +30,7 @@ slides:
 
 ---
 
-## Tremendous technological advances over the past decade
+## Tremendous technological advances
 
 - two photon imaging
 - large population recording-array technologies
@@ -39,7 +39,7 @@ slides:
 - large volume circuit reconstructions
 
 {{< speaker_note >}}
-Tremendous technological advances:
+Tremendous technological advances over the past decade
 
 - These experiments have begun to produce a huge amount of data, on a broad spectrum of temporal and spatial scales,
 - providing finer and more quantitative descriptions of the biological reality than we would have been able to dream of only a decade ago.
@@ -51,7 +51,7 @@ Tremendous technological advances:
 
 - across several disciplines (physics, genetics, biology, robotics, psychiatry, ..)
 - and multiple scales (from micro to macro, from short to long-term, from theory to biology)
-- new frontiers and {{% fragment %}}...new challenges{{% /fragment %}}
+- new frontiers{{% fragment %}}... and new challenges{{% /fragment %}}
 
 {{< speaker_note >}}
 -  daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics

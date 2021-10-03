@@ -33,6 +33,7 @@ slides:
 - [x] Write math example
   - [x] Write diagram example
 - [ ] Do something else
+
 ---
 
 ## Controls
