@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Computational Neuroscience Center - INT."
+description = "CONECT = Computational Neuroscience Center - INT."
 
 ############################
 ## Site Features
@@ -75,6 +75,8 @@ privacy_pack = false
 
 # Show related content at the bottom of pages?
 show_related = {post = true, project = true, publication = true, talk = true}
+
+reading_time = false
 
 ############################
 ## Contact details
