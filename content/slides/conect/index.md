@@ -25,6 +25,7 @@ slides:
 - CONECT with one N
 - Press `S` key to view
 {{< /speaker_note >}}
+
 ---
 
 ## A revolution over the past decade: Tremendous technological advances:
@@ -37,7 +38,7 @@ slides:
 
 {{< speaker_note >}}
 - Only the speaker can read these notes
-- Press `S` key to view
+- These experiments have begun to produce a huge amount of data, on a broad spectrum of temporal and spatial scales, providing finer and more quantitative descriptions of the biological reality than we would have been able to dream of only a decade ago.
 {{< /speaker_note >}}
 
 ---
@@ -45,13 +46,17 @@ slides:
 ## A transdisciplinary revolution
 
 {{% fragment %}}
-- across several disciplines (physics, biology psychiatry)
+- across several disciplines (physics, biology, robotics, psychiatry)
 - and multiple scales
 - new frontiers and
 {{% /fragment %}}
 {{% fragment %}}
 - ...new challenges
 {{% /fragment %}}
+
+{{< speaker_note >}}
+- The daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics to provide a conceptual bridge between abstract principles of brain function and their biological implementations within neural circuits. This revolution is accompanied by a parallel revolution in the domain of Artificial Intelligence. An exponential number of algorithms in sensory processing, such as image classification, or reinforcement learning have realized practical tools which have replaced the classical tools we were using on a daily basis by a novel range of intelligent tools of a new generation. **This is the context in which we are creating CONECT.**
+{{< /speaker_note >}}
 
 ---
 
