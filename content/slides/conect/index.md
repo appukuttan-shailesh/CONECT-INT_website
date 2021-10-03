@@ -14,7 +14,7 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: "github"  # Highlight JS theme name  
 ---
-{{< slide background-image="/images/open-book.jpg" >}}
+{{< slide background-image="/media/open-book.jpg" >}}
 
 # CoNeCt
 ## the **Co**mputational **Ne**uroscience **C**en**t**er @ INT
@@ -82,8 +82,6 @@ This approach is therefore complementary but distinct in its purpose from neuroi
 
 [https://conect-int.github.io](https://conect-int.github.io)
 
-[Contact us!](mailto://int-conect@univ-amu.fr)
+[Contact us @ int-conect@univ-amu.fr!](mailto://int-conect@univ-amu.fr)
 
-[Discuss](https://framateam.org/int-marseille/channels/conect)
-
----
+[Let's discuss on Mattermost](https://framateam.org/int-marseille/channels/conect)
