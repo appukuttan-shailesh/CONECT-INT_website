@@ -83,9 +83,9 @@ This approach is therefore complementary but distinct in its purpose from neuroi
 
 * {{< cite page="/post/actors-CONECT" view="1" >}}
 
-* [Past events](/event) and future
-
 * {{< cite page="/post/objectives-CONECT" view="1" >}}
+
+* [Past events](/event) and future
 
 * [Methodology](https://amubox.univ-amu.fr/f/867023067)
 
