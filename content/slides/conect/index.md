@@ -77,6 +77,24 @@ Tremendous technological advances over the past decade
 This approach is therefore complementary but distinct in its purpose from neuroinformatics (creation of tools for analyzing neuroscientific data) or artificial intelligence (creation of algorithms inspired by the functioning of the brain). The field of computational neuroscience is still young but its community is now structured in an autonomous community with strong interaction with the other branches of neuroscience. It is this autonomy that we want to foster at INT.
 {{< /speaker_note >}}
 
+
+---
+
+##  Objectives of CoNeCt
+
+* to create a space for scientific discussion and animation
+
+* train students and staff and attract young researchers:
+
+* structuring the network of computational neurosciences at INT, on Timone, on AMU and in France & International
+
+
+{{< speaker_note >}}
+- lots of work - bottom approach so far
+- no action taken
+- lots of work - existence of top-down initiatives
+{{< /speaker_note >}}
+
 ---
 
 ##  Actions of CoNeCt
@@ -96,23 +114,6 @@ This approach is therefore complementary but distinct in its purpose from neuroi
 - objectives : exist
 {{< /speaker_note >}}
 
-
----
-
-##  Objectives of CoNeCt
-
-* to create a space for scientific discussion and animation
-
-* train students and staff and attract young researchers:
-
-* structuring the network of computational neurosciences at INT, on Timone, on AMU and in France & International
-
-
-{{< speaker_note >}}
-- lots of work - bottom approach so far
-- no action taken
-- lots of work - existence of top-down initiatives
-{{< /speaker_note >}}
 
 ---
 
