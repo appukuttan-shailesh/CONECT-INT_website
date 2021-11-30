@@ -24,7 +24,7 @@ During a seminar at the Institute of Neurosciences Timone in Marseille, [Matteo 
 
 
 * when: Friday 10th of December at 11am
-* where: Salle Laurent Vinay at 11:00
+* where: Salle Laurent Vinay at the [Institute of Neurosciences Timone](https://www.int.univ-amu.fr/contact).
 
 {{% callout note %}}
 PhD candidate [Matteo Saponati](https://github.com/matteosaponati)  is a student at [Ernst Strüngmann Institute (ESI) for Neuroscience - IMPRS for Neural Circuits](https://www.esi-frankfurt.de/research/vinck-lab/).
