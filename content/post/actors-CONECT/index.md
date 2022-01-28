@@ -22,7 +22,7 @@ Within the INT, many components of CONECT already exist, either carried by resea
   * deciphering the biophysical principles underlying robustness of neuronal activity using quantitative genotype-to-phenotype mapping strategies and realistic neuronal model databases (Jean-Marc **Goaillard** and Fabien Tell).
   * dynamics and function of small and large-scale neural networks (Laurent **Perrinet** with Frédéric Chavane, *David Hansel, Carl van Vreeswijk*)
 * from networks to mesoscopic levels :
-  * Bayesian inference and predictive process models (Anna **Montagnini**, Emmanuel Daucé and Laurent Perrinet), reinforcement learning, action selection, decision [Andrea Brovelli](../authors/andrea-brovelli) and Emmanuel Daucé), link with attentional mechanisms (Guilhem Ibos)
+  * Bayesian inference and predictive process models (Anna **Montagnini**, Emmanuel Daucé and Laurent Perrinet), reinforcement learning, action selection, decision [Andrea Brovelli](../author/andrea-brovelli) and Emmanuel Daucé), link with attentional mechanisms (Guilhem Ibos)
   * information theory and functional connectivity for the analysis of cognitive brain networks (Andrea **Brovelli** and Bruno Giordano)
   * deep learning for data processing(Bruno **Giordano**), deep learning + neuroimaging (*in voice perception*) (Charly Lamothe) computational neuroscience and data processing in neuroinformatics (Sylvain Takerkart, NIT platform)
 * at brain level
