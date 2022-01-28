@@ -20,9 +20,9 @@ Within the INT, many components of CONECT already exist, either carried by resea
 
 * from the cellular to the network level
   * deciphering the biophysical principles underlying robustness of neuronal activity using quantitative genotype-to-phenotype mapping strategies and realistic neuronal model databases (**Jean-Marc Goaillard** and Fabien Tell).
-  * dynamics and function of small and large-scale neural networks (**[Laurent Perrinet]({{< relref "/author/laurent-u-perrinet" >}})** with [Frédéric Chavane](../../author/frederic-y-chavane), *[David Hansel](../../author/david-hansel), Carl van Vreeswijk*)
+  * dynamics and function of small and large-scale neural networks (**[Laurent Perrinet]({{< relref "/authors/laurent-u-perrinet" >}})** with [Frédéric Chavane](../../author/frederic-y-chavane), *[David Hansel](../../author/david-hansel), Carl van Vreeswijk*)
 * from networks to mesoscopic levels :
-  * Bayesian inference and predictive process models (**[Anna Montagnini](../../author/anna-montagnini)**, [Emmanuel Daucé](../../author/emmanuel-dauce) and [Laurent Perrinet]({{< relref "/author/laurent-u-perrinet" >}})), reinforcement learning, action selection, decision [Andrea Brovelli](../../author/andrea-brovelli) and [Emmanuel Daucé](../../author/emmanuel-dauce)), link with attentional mechanisms (Guilhem Ibos)
+  * Bayesian inference and predictive process models (**[Anna Montagnini](../../author/anna-montagnini)**, [Emmanuel Daucé](../../author/emmanuel-dauce) and [Laurent Perrinet]({{< relref "/authors/laurent-u-perrinet" >}})), reinforcement learning, action selection, decision [Andrea Brovelli](../../author/andrea-brovelli) and [Emmanuel Daucé](../../author/emmanuel-dauce)), link with attentional mechanisms (Guilhem Ibos)
   * information theory and functional connectivity for the analysis of cognitive brain networks (**[Andrea Brovelli](../../author/andrea-brovelli)** and [Bruno Giordano](../../author/bruno-giordano))
   * deep learning for data processing (**[Bruno Giordano](../../author/bruno-giordano)**), deep learning + neuroimaging (*in voice perception*) (Charly Lamothe) computational neuroscience and data processing in neuroinformatics (Sylvain Takerkart, NIT platform)
 * at brain level
