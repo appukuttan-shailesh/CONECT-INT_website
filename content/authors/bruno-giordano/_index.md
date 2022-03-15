@@ -1,6 +1,6 @@
 ---
 authors:
-- olivier-coulon
+- bruno-giordano
 title: Bruno L. Giordano
 role: CNRS Researcher, INT
 social:
@@ -16,8 +16,7 @@ social:
 - icon: external-link-alt
   icon_pack: fas
   link: https://brungio.github.io/index.htm
-
-
+active: false
 user_groups:
 - CONECT
 ---
