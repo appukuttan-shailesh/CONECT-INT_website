@@ -19,4 +19,4 @@ advanced:
   css_class:
 ---
 
-The Computational Neuroscience Center (CONECT) aims to serve as an incubator within the INT to promote theoretical and computational neuroscience. It serves as a catalyst for the creation and maturation of new inter-disciplinary projects within the institute. Everybody is welcome to join in the meetings and the exchanges that will occur among the group.
+The Computational Neuroscience Center (CONECT) aims to serve as an incubator within the INT to promote theoretical and computational neuroscience. It serves as a catalyst for the creation and maturation of new inter-disciplinary projects within and with the institute. Everybody is welcome to join in the meetings and the exchanges that will occur among the group.
