@@ -13,3 +13,5 @@ social:
 user_groups:
 - CONECT
 ---
+
+Julien Lefevre is an associate professor in computer science at Aix-Marseille University. For more than ten years he has worked in developping computational models to study brain morphogenesis by combining approaches from applied mathematics, image and geometric information processing. For a couple of years he has addressed the environmental footprint of computation in the group Ecoinfo.
