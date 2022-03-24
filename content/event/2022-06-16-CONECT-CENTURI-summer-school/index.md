@@ -28,7 +28,7 @@ Data that will be shared by the teaching staff, under the BIDS standard data org
 
 - publicly available recordings from the motor cortex (M1/PMd) during an instructed reach-to-grasp task (https://www.nature.com/articles/sdata201855, available at the following URL in BIDS: https://gin.g-node.org/sprenger/multielectrode_grasp/src/bep_animalephys)
 
-https://www.biorxiv.org/content/10.1101/2021.03.30.437692v4 : V1, gratings-like, natural stimulations : extracellular electrophy recordings in cat V1
+- https://www.biorxiv.org/content/10.1101/2021.03.30.437692v4 : V1, gratings-like, natural stimulations : extracellular electrophy recordings in cat V1
 
 ## Methods
 
