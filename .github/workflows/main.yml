@@ -33,12 +33,6 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
 
-      - name: Install JS dependencies
-        run: rm -rf node_modules && yarn install --frozen-lockfile
-
-      - name: Check for linting errors
-        run: yarn run lint
-
   hugo:
     runs-on: ubuntu-latest
     steps:
