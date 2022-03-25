@@ -1,36 +1,57 @@
 # This is a basic workflow to help you get started with Actions
+# based on https://github.com/Chrede88/cjsolsen.com/blob/master/.github/workflows/main.yml
+
 
 name: Build site and deploy to GitHub
 
- Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
-  Build_and_Deploy:
-    runs-on: ubuntu-18.04
+  build:
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        os: [ubuntu-latest]
+        node-version: [15.x]
+
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
-      with:
-        submodules: true  # Fetch Hugo themes (true OR recursive)
-        fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  # Fetch any Git submodules (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-    # Sets up Hugo
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
-      with:
-        hugo-version: '0.87.0'
-        extended: true
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node-version }}
 
-    # Builds repo
-    - name: Build Hugo
-      run: hugo --minify
-      env:
-        HUGO#PARAMS#MAP#api_key: ${{ secrets.GMAPS }}
+      - name: Install JS dependencies
+        run: rm -rf node_modules && yarn install --frozen-lockfile
 
-    # Deploys built website to GitHub pages
-    - name: Deploy to GitHub pages
-      run: hugo deploy --force --maxDeletes -1 --invalidateCDN
+      - name: Check for linting errors
+        run: yarn run lint
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  hugo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  # Fetch any Git submodules (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.95.0'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
