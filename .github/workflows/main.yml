@@ -36,3 +36,7 @@ jobs:
     # Deploys built website to GitHub pages
     - name: Deploy to GitHub pages
       run: hugo deploy --force --maxDeletes -1 --invalidateCDN
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@v4.2.5
+      with:
+        folder: public # The folder the action should deploy.
