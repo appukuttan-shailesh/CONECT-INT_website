@@ -13,7 +13,7 @@ slides:
   highlight_style: dracula
 ---
 
-# Toto Creates slides in Markdown with Wowchemy
+# Tutu Creates slides in Markdown with Wowchemy
 
 [Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
 

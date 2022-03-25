@@ -49,3 +49,24 @@ jobs:
 
       - name: Build
         run: hugo --minify
+
+      - name: Build site and push to release branch
+        uses: aormsby/hugo-deploy-to-pages@v2.1
+        id: build_step  # <<for outputs>>
+        with:
+          source_branch: 'main'
+          #release_branch: 'bon-voyage'
+          submodule_release_branch: 'subbed' # <<only provide if you are publishing to directory with git submodule>>
+          # full_rebuild: true
+          hugo_publish_directory: 'public' #  <<publish to another directory if needed>>
+          # hugo_build_options: '-D --minify --ignoreCache' <<hugo build cis customizable>>
+          # commit_message: "I love this action."
+          # test_mode: true <<enable to run a few verification tests before your first live run>>
+
+          # <<lots of other options!>>
+
+      - name: Check if new build was made
+        if: steps.build.outputs.was_new_build_created == 'true'
+        run: echo "YAAASSSS new build."
+        if: steps.build.outputs.was_new_build_created == 'false'
+        run: echo "NOOOOOOO new build."
