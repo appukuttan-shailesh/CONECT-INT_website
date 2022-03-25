@@ -110,4 +110,3 @@ jobs:
 
       - name: Build
         run: hugo --minify
-        working-directory: public
