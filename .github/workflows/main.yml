@@ -1,45 +1,8 @@
 # This is a basic workflow to help you get started with Actions
 # based on https://github.com/Chrede88/cjsolsen.com/blob/master/.github/workflows/main.yml
-
+# https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/.github/workflows/build-test-site.yaml
 
 name: Build site and deploy to GitHub
-
-#  Controls when the action will run. Triggers the workflow on push or pull request
-# # events but only for the master branch
-# on:
-#   push:
-#     branches: [ main ]
-#
-# jobs:
-#   Build_and_Deploy:
-#     runs-on: ubuntu-18.04
-#     steps:
-#     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-#     - uses: actions/checkout@v2
-#       with:
-#         submodules: true  # Fetch Hugo themes (true OR recursive)
-#         fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-#
-#     # Sets up Hugo
-#     - name: Setup Hugo
-#       uses: peaceiris/actions-hugo@v2
-#       with:
-#         hugo-version: '0.87.0'
-#         extended: true
-#
-#     # Builds repo
-#     - name: Build Hugo
-#       run: hugo --minify
-#       env:
-#         HUGO#PARAMS#MAP#api_key: ${{ secrets.GMAPS }}
-#
-#     # Deploys built website to GitHub pages
-#     - name: Deploy 🚀
-#       uses: JamesIves/github-pages-deploy-action@v4.2.5
-#       with:
-#         folder: public # The folder the action should deploy.
-#         branch: main
-
 
 on:
   push:
@@ -74,25 +37,6 @@ jobs:
 
       - name: Check for linting errors
         run: yarn run lint
-
-#  format:
-#    runs-on: ubuntu-latest
-#
-#    steps:
-#      - name: Checkout
-#        uses: actions/checkout@v2
-#        with:
-#          # Make sure the actual branch is checked out when running on pull requests
-#          ref: ${{ github.head_ref }}
-#
-#      - name: Prettify code
-#        uses: creyD/prettier_action@v3.1
-#        with:
-#          prettier_options: '--write wowchemy/*.{css,js,json,md,scss} wowchemy/**/*.{css,js,json,md,scss}' # Match package.json
-#          prettier_version: '2.2.1' # Match package.json
-#          commit_message: 'refactor: format code'
-#        env:
-#          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   hugo:
     runs-on: ubuntu-latest
