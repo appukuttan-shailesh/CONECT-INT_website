@@ -34,8 +34,6 @@ jobs:
         HUGO#PARAMS#MAP#api_key: ${{ secrets.GMAPS }}
 
     # Deploys built website to GitHub pages
-    - name: Deploy to GitHub pages
-      run: hugo deploy --force --maxDeletes -1 --invalidateCDN
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@v4.2.5
       with:
