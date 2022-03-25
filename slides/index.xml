@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Slides | CONECT | Computational Neuroscience Center @ INT</title><link>https://conect-int.github.io/slides/</link><atom:link href="https://conect-int.github.io/slides/index.xml" rel="self" type="application/rss+xml"/><description>Slides</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate><item><title>Slides</title><link>https://conect-int.github.io/slides/conect/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://conect-int.github.io/slides/conect/</guid><description>
+&lt;section data-noprocess data-shortcode-slide
+data-background-image="/media/open-book.jpg"
+>
+&lt;h1 id="conect">CoNeCt&lt;/h1>
+&lt;h2 id="the-computational-neuroscience-center--int">the &lt;strong>Co&lt;/strong>mputational &lt;strong>Ne&lt;/strong>uroscience &lt;strong>C&lt;/strong>en&lt;strong>t&lt;/strong>er @ INT&lt;/h2>
+&lt;p>&lt;a href="https://conect-int.github.io" target="_blank" rel="noopener">https://conect-int.github.io&lt;/a>&lt;/p>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>CONECT with one N&lt;/li>
+&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="tremendous-technological-advances">Tremendous technological advances&lt;/h2>
+&lt;ul>
+&lt;li>two photon imaging&lt;/li>
+&lt;li>large population recording-array technologies&lt;/li>
+&lt;li>optogenetic circuit control tools&lt;/li>
+&lt;li>transgenic manipulations&lt;/li>
+&lt;li>large volume circuit reconstructions&lt;/li>
+&lt;/ul>
+&lt;aside class="notes">
+&lt;p>Tremendous technological advances over the past decade&lt;/p>
+&lt;ul>
+&lt;li>These experiments have begun to produce a huge amount of data, on a broad spectrum of temporal and spatial scales,&lt;/li>
+&lt;li>providing finer and more quantitative descriptions of the biological reality than we would have been able to dream of only a decade ago.&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="a-transdisciplinary-revolution">A transdisciplinary revolution&lt;/h2>
+&lt;ul>
+&lt;li>across several disciplines (physics, genetics, biology, robotics, psychiatry, ..)&lt;/li>
+&lt;li>and multiple scales (from micro to macro, from short to long-term, from theory to biology)&lt;/li>
+&lt;li>new frontiers&lt;span class="fragment " >
+&amp;hellip; and new challenges
+&lt;/span>&lt;/li>
+&lt;/ul>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics&lt;/li>
+&lt;li>to provide a conceptual bridge between abstract principles of brain function and their biological implementations within neural circuits.&lt;/li>
+&lt;li>This revolution is accompanied by a parallel revolution in the domain of Artificial Intelligence. An exponential number of algorithms in sensory processing, such as image classification, or reinforcement learning have realized practical tools which have replaced the classical tools we were using on a daily basis by a novel range of intelligent tools of a new generation.&lt;/li>
+&lt;li>&lt;strong>This is the context in which we are creating CONECT.&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="conect-computational-neuroscience-center">CoNeCt: &lt;strong>Co&lt;/strong>mputational &lt;strong>Ne&lt;/strong>uroscience &lt;strong>C&lt;/strong>en&lt;strong>t&lt;/strong>er&lt;/h2>
+&lt;ul>
+&lt;li>close collaboration between experimentalists and theoreticians&lt;/li>
+&lt;li>share state-of-the-art (experimentalists well aware of theoretical approaches, experimental techniques for theoreticians)&lt;/li>
+&lt;li>complementary in its purpose from neuroinformatics&amp;hellip; &lt;span class="fragment " >
+but distinct
+&lt;/span>&lt;/li>
+&lt;/ul>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>We are convinced that close collaboration between experimentalists and theoreticians in neuroscience is essential to develop mechanistic as well as quantitative understandings of how the brain performs its functions. This is in fact a primary motivating force in establishing this center.&lt;/li>
+&lt;li>However, for such collaborations to be effective, experimentalists must be well aware of the approaches and challenges in modeling while theoreticians must be well acquainted with the experimental techniques, their power and the challenges they present.&lt;/li>
+&lt;li>CoNeCt has also the ambition to contribute to the training of a new generation of neuroscientists who will have all these qualities.&lt;/li>
+&lt;/ul>
+&lt;p>This approach is therefore complementary but distinct in its purpose from neuroinformatics (creation of tools for analyzing neuroscientific data) or artificial intelligence (creation of algorithms inspired by the functioning of the brain). The field of computational neuroscience is still young but its community is now structured in an autonomous community with strong interaction with the other branches of neuroscience. It is this autonomy that we want to foster at INT.
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="objectives-of-conect">Objectives of CoNeCt&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>to create a space for scientific discussion and animation&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>train students and staff and attract young researchers:&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>structuring the network of computational neurosciences at INT, on Timone, on AMU and in France &amp;amp; International&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>lots of work - bottom approach so far&lt;/li>
+&lt;li>no action taken&lt;/li>
+&lt;li>lots of work - existence of top-down initiatives&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="actions-of-conect">Actions of CoNeCt&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;div class="view-list-item">
+&lt;i class="far fa-newspaper pub-icon" aria-hidden="true">&lt;/i>
+&lt;a href="https://conect-int.github.io/post/actors-conect/" >Actors of CONECT&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;div class="view-list-item">
+&lt;i class="far fa-newspaper pub-icon" aria-hidden="true">&lt;/i>
+&lt;a href="https://conect-int.github.io/post/objectives-conect/" >Objectives of CONECT&lt;/a>
+&lt;/div>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://conect-int.github.io/event">Past events&lt;/a> and future&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://amubox.univ-amu.fr/f/867023067" target="_blank" rel="noopener">Methodology&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Actors&lt;/li>
+&lt;li>we already organized events within or outside INT&lt;/li>
+&lt;li>objectives : exist&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h1 id="questions">Questions?&lt;/h1>
+&lt;p>&lt;a href="https://conect-int.github.io" target="_blank" rel="noopener">https://conect-int.github.io&lt;/a>&lt;/p>
+&lt;p>&lt;a href="mailto://int-conect@univ-amu.fr">Contact us @ int-conect@univ-amu.fr!&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://framateam.org/int-marseille/channels/conect" target="_blank" rel="noopener">Let&amp;rsquo;s discuss on Mattermost&lt;/a>&lt;/p></description></item><item><title>Slides</title><link>https://conect-int.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://conect-int.github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Efficiently write slides in Markdown&lt;/li>
+&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
+&lt;li>Supports speaker notes&lt;/li>
+&lt;li>Mobile friendly slides&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="list-checkboxes">list checkboxes&lt;/h2>
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Write math example
+&lt;ul>
+&lt;li>&lt;input checked="" disabled="" type="checkbox"> Write diagram example&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> Do something else&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="controls">Controls&lt;/h2>
+&lt;ul>
+&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
+&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
+&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
+&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
+&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
+&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
+&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
+&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
+&lt;li>&lt;a href="https://github.com/hakimel/reveal.js#pdf-export" target="_blank" rel="noopener">PDF Export&lt;/a>: &lt;code>E&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
+&lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
+&lt;p>Code block:&lt;/p>
+&lt;pre>&lt;code class="language-python">porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+print(&amp;quot;Eating...&amp;quot;)
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h2 id="math">Math&lt;/h2>
+&lt;p>In-line math: $x + y = z$&lt;/p>
+&lt;p>Block math:&lt;/p>
+&lt;p>$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p>
+&lt;hr>
+&lt;h2 id="fragments">Fragments&lt;/h2>
+&lt;p>Make content appear incrementally&lt;/p>
+&lt;pre>&lt;code>{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code>&lt;/pre>
+&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
+&lt;p>&lt;span class="fragment " >
+One
+&lt;/span>
+&lt;span class="fragment " >
+&lt;strong>Two&lt;/strong>
+&lt;/span>
+&lt;span class="fragment " >
+Three
+&lt;/span>&lt;/p>
+&lt;hr>
+&lt;p>A fragment can accept two optional parameters:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>class&lt;/code>: use a custom style (requires definition in custom CSS)&lt;/li>
+&lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
+&lt;p>Add speaker notes to your presentation&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code>&lt;/pre>
+&lt;p>Press the &lt;code>S&lt;/code> key to view the speaker notes!&lt;/p>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Only the speaker can read these notes&lt;/li>
+&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;ul>
+&lt;li>black: Black background, white text, blue links (default)&lt;/li>
+&lt;li>white: White background, black text, blue links&lt;/li>
+&lt;li>league: Gray background, white text, blue links&lt;/li>
+&lt;li>beige: Beige background, dark text, brown links&lt;/li>
+&lt;li>sky: Blue background, thin dark text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>night: Black background, thick white text, orange links&lt;/li>
+&lt;li>serif: Cappuccino background, gray text, brown links&lt;/li>
+&lt;li>simple: White background, black text, blue links&lt;/li>
+&lt;li>solarized: Cream-colored background, dark green text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;section data-noprocess data-shortcode-slide
+data-background-image="/media/boards.jpg"
+>
+&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
+&lt;p>Customize the slide style and background&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
+&lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
+&lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
+&lt;pre>&lt;code class="language-css">.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+color: navy;
+}
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h1 id="questions">Questions?&lt;/h1>
+&lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item></channel></rss>

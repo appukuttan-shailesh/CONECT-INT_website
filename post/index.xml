@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About CONECT | CONECT | Computational Neuroscience Center @ INT</title><link>https://conect-int.github.io/post/</link><atom:link href="https://conect-int.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>About CONECT</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© The [CONECT group](https://conect-int.github.io/people/)</copyright><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate><image><url>https://conect-int.github.io/images/icon_hu7e281b73228ab43411ccffce0f285528_35679_512x512_fill_lanczos_center_3.png</url><title>About CONECT</title><link>https://conect-int.github.io/post/</link></image><item><title>Why CONECT?</title><link>https://conect-int.github.io/post/about-conect/</link><pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate><guid>https://conect-int.github.io/post/about-conect/</guid><description>&lt;p>Neuroscience is in revolution: Over the past decade, tremendous technological advances across several disciplines have dramatically expanded the frontiers of experimentally accessible neuroscientific facts.&lt;/p>
+&lt;p>Bridging across different spatial and temporal scales, combination of in vivo two photon imaging, large population recording-array technologies, optogenetic circuit control tools, transgenic manipulations as well as large volume circuit reconstructions are now used to examine the function, structure and dynamics of neural networks on an unprecedented level of detail and precision. Current applications of these novel techniques include sensory information processing, motor production, neural correlates of learning, memory and decision making as well as mechanisms of dysfunctions and disease. These experiments have begun to produce a huge amount of data, on a broad spectrum of temporal and spatial scales, providing finer and more quantitative descriptions of the biological reality than we would have been able to dream of only a decade ago. The daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics to provide a conceptual bridge between abstract principles of brain function and their biological implementations within neural circuits. This revolution is accompanied by a parallel revolution in the domain of Artificial Intelligence. An exponential number of algorithms in sensory processing, such as image classification, or reinforcement learning have realized practical tools which have replaced the classical tools we were using on a daily basis by a novel range of intelligent tools of a new generation. This is the context in which we are creating CONECT.&lt;/p>
+&lt;p>We are convinced that &lt;em>&lt;strong>the close collaboration between experimentalists and theoreticians in neuroscience is essential to develop mechanistic as well as quantitative understandings of how the brain performs its functions&lt;/strong>&lt;/em>. This is in fact a primary motivating force in establishing this center. However, for such collaborations to be effective, experimentalists must be well aware of the approaches and challenges in modeling while theoreticians must be well acquainted with the experimental techniques, their power and the challenges they present. CONECT has also the ambition to contribute to the training of a new generation of neuroscientists who will have all these qualities.&lt;/p>
+&lt;p>This approach is therefore complementary but distinct in its purpose from neuroinformatics (creation of tools for analyzing neuroscientific data) or artificial intelligence (creation of algorithms inspired by the functioning of the brain). The field of computational neuroscience is still young but its community is now structured in an autonomous community with strong interaction with the other branches of neuroscience. It is this autonomy that we want to foster at INT.&lt;/p></description></item><item><title>Actors of CONECT</title><link>https://conect-int.github.io/post/actors-conect/</link><pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate><guid>https://conect-int.github.io/post/actors-conect/</guid><description>&lt;p>Within the INT, many components of CONECT already exist, either carried by researchers in computational neurosciences or as themes strongly anchored in this field. A survey of the current situation reveals the existence of projects at different scales.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://conect-int.github.io/contact">Contact&lt;/a> us to be added!&lt;/li>
+&lt;/ul>
+&lt;ul>
+&lt;li>from the cellular to the network level
+&lt;ul>
+&lt;li>deciphering the biophysical principles underlying robustness of neuronal activity using quantitative genotype-to-phenotype mapping strategies and realistic neuronal model databases (&lt;strong>Jean-Marc Goaillard&lt;/strong> and Fabien Tell).&lt;/li>
+&lt;li>dynamics and function of small and large-scale neural networks (&lt;strong>&lt;a href="https://conect-int.github.io/author/laurent-u-perrinet/">Laurent Perrinet&lt;/a>&lt;/strong> with &lt;a href="../../author/frederic-y-chavane">Frédéric Chavane&lt;/a>, &lt;em>&lt;a href="../../author/david-hansel">David Hansel&lt;/a>, Carl van Vreeswijk&lt;/em>)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>from networks to mesoscopic levels :
+&lt;ul>
+&lt;li>Bayesian inference and predictive process models (&lt;strong>&lt;a href="../../author/anna-montagnini">Anna Montagnini&lt;/a>&lt;/strong>, &lt;a href="../../author/emmanuel-dauce">Emmanuel Daucé&lt;/a> and &lt;a href="https://conect-int.github.io/author/laurent-u-perrinet/">Laurent Perrinet&lt;/a>), reinforcement learning, action selection, decision &lt;a href="../../author/andrea-brovelli">Andrea Brovelli&lt;/a> and &lt;a href="../../author/emmanuel-dauce">Emmanuel Daucé&lt;/a>), link with attentional mechanisms (Guilhem Ibos)&lt;/li>
+&lt;li>information theory and functional connectivity for the analysis of cognitive brain networks (&lt;strong>&lt;a href="../../author/andrea-brovelli">Andrea Brovelli&lt;/a>&lt;/strong> and &lt;a href="../../author/bruno-giordano">Bruno Giordano&lt;/a>)&lt;/li>
+&lt;li>deep learning for data processing (&lt;strong>&lt;a href="../../author/bruno-giordano">Bruno Giordano&lt;/a>&lt;/strong>), deep learning + neuroimaging (&lt;em>in voice perception&lt;/em>) (Charly Lamothe) computational neuroscience and data processing in neuroinformatics (Sylvain Takerkart, NIT platform)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>at brain level
+&lt;ul>
+&lt;li>brain anatomy, particularly as applied to the formation of cortical folding (Julien Lefèvre with Guillaume Auzias, Sylvain Takerkart and &lt;strong>&lt;a href="../../author/olivier-coulon">Olivier Coulon&lt;/a>&lt;/strong>),&lt;/li>
+&lt;li>the development of prognostic models of the evolution of certain pathologies (Lionel Velly, &lt;strong>Sylvain Takerkart&lt;/strong>),&lt;/li>
+&lt;li>develop the collaboration of theoretical neurosciences with neuroinformatics, notably with the &lt;a href="http://www.int.univ-amu.fr/spip.php?page=plateform&amp;amp;equipe=CRISE&amp;amp;lang=fr" target="_blank" rel="noopener">NIT&lt;/a> (&lt;strong>Sylvain Takerkart&lt;/strong>, Guillaume Auzias)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>A structuring of these different components through a center (independent of existing and future teams) would be a major asset to reach a new stage in the creation of INT³.&lt;/p></description></item><item><title>Objectives of CONECT</title><link>https://conect-int.github.io/post/objectives-conect/</link><pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate><guid>https://conect-int.github.io/post/objectives-conect/</guid><description>&lt;p>CONECT aims to serve as an incubator within INT to promote the use of methodologies developed in computational and theoretical neuroscience. It is not a service platform, but a catalyst for the creation and maturation of new multi-approach projects within INT.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>to &lt;strong>create a space for scientific discussion and animation&lt;/strong> :&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Journal Clubs&lt;/strong> dedicated to transversal aspects guided by advances in computational neurosciences, and occasionally a &amp;ldquo;BrainHack&amp;rdquo; to lift locks on the use of tools and means implemented at INT or on AMU (mesocentre), should explicitly state specialization levels (from &amp;ldquo;safe&amp;rdquo; for persons not directly in the field to more specialized levels).
+&lt;ul>
+&lt;li>&lt;strong>Data club / Theory club&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>identify and propose &lt;strong>INT seminars&lt;/strong> in computational neurosciences&lt;/li>
+&lt;li>organization of &lt;strong>debates&lt;/strong> on theoretical aspects related to neuroscience&lt;/li>
+&lt;li>&lt;strong>communicate&lt;/strong>: youtube (on the model of &lt;em>&lt;a href="https://www.youtube.com/channel/UCCSIveazurb4qrNIV7KV9fg" target="_blank" rel="noopener">WWTNS&lt;/a>&lt;/em>), twitter, facebook, share our own publications&lt;/li>
+&lt;li>create &lt;strong>social moments&lt;/strong>: breakfasts, happy hours, retreat, pizza day,&lt;/li>
+&lt;li>&lt;strong>general public&lt;/strong> : semaine du cerveau, the conversation&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> &lt;strong>train students and staff&lt;/strong> and attract young researchers:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> Master level:&lt;/p>
+&lt;ul>
+&lt;li>create a space for sharing Master&amp;rsquo;s or thesis subjects to be distributed in the SdV doctoral schools but also to the &amp;ldquo;hard&amp;rdquo; sciences (ED info, engineering schools),
+&lt;ul>
+&lt;li>In addition to training in neurosciences, we could try to build on&lt;/li>
+&lt;li>the Master Computational and Mathematical Biology (CMB, in connection with the CenTuri Institute) where there are courses in computational neurosciences (Laurent Pezard) and mathematical modeling for biology, in the broadest sense.&lt;/li>
+&lt;li>JL is involved in a business UE and next year in a programming UE. Some courses of the Master in Cognitive Sciences of the ILCB could also be interesting (NAMES of the speakers on AI?).&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> secure two scholarships for Master 2 students for 2021/2022,
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> valider en réunion CE (&lt;strong>Frédéric Chavane&lt;/strong>)&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> call for proposal - receive candidatures (09/2021 - 12/2021)&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> start (01/2022)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>PhDs and above:&lt;/p>
+&lt;ul>
+&lt;li>The aim of this program is to help post-doctoral students to set up post-doctoral fellowships or to help them apply for jobs related to computational neurosciences (IR, CR, MdC, private sector, &amp;hellip;) ;&lt;/li>
+&lt;li>courses ? training (theoretical) - see that of PhDprogram&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>What can be done @ INT (open to all staff) vs @ Timone (with INS, eBrains&amp;hellip;) vs @ NeuroSchool (course for master &amp;amp; PhD program) vs @ Instituts (IA&amp;amp;Santé, Marseille Imaging, NeuroMarseille)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>What to train on ?&lt;/p>
+&lt;ul>
+&lt;li>Theory &amp;amp; modeling : for better understanding by all and stimulating interactions&lt;/li>
+&lt;li>Data analysis : to help experimentalists to use advanced analysis&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>structuring the network&lt;/strong> of computational neurosciences at INT, on Timone, on AMU and in France &amp;amp; International:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>SAB début 2022 - HCERES Juin 2022&lt;/p>
+&lt;ul>
+&lt;li>SWOT&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>participate in the development of INT³ Projects by actively participating in the development of requests for means (ANR, Carnot Institute, foundations),&lt;/p>
+&lt;ul>
+&lt;li>Projects in general, in particular the &amp;lsquo;Transient&amp;rsquo; Project&lt;/li>
+&lt;li>cooperate in writing grants specific to computational neuroscience for actors of CONECT (CRCNS, &amp;hellip;) and related to CONECT (eBrains, PEPR Neurosciences computationnelles, &amp;hellip;)&lt;/li>
+&lt;li>coordinate activities with local partners (INS, INMED &amp;hellip;)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>to elaborate a development strategy involving academic partners (bio-robotics, neurology, cognitive development, &amp;hellip;) and private partners (start-ups, new information technology sector, &amp;hellip;)&lt;/p>
+&lt;ul>
+&lt;li>opening to Marseille and outside (Destexhe)&lt;/li>
+&lt;li>International&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>increase the visibility&lt;/strong> and attractiveness of INT in computational neurosciences&lt;/p>
+&lt;ul>
+&lt;li>communicate through a dedicated space on &lt;a href="https://conect-int.github.io/" target="_blank" rel="noopener">https://conect-int.github.io/&lt;/a> to share CONECT&amp;rsquo;s activities, regularly updated by a newsletter,&lt;/li>
+&lt;li>Develop collaboration and visibility on AMU through the creation of a biannual conference at CIRM&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item></channel></rss>
