@@ -12,7 +12,7 @@ subtitle: 'A seminar by [Thomas Serre](http://serre-lab.clps.brown.edu/) at the 
 summary: 'A seminar by Thomas Serre at the Institute of Neurosciences Timone in Marseille.'
 tags:
 - events
-title: '2020-09-11 : CONECT talk - "Feedforward and feedback processes in visual recognition" (T Serre)'
+title: '2020-09-11 : CONECT seminar - "Feedforward and feedback processes in visual recognition" (T Serre)'
 ---
 
 During a seminar at the Institute of Neurosciences Timone in Marseille, [Thomas Serre](http://serre-lab.clps.brown.edu/) will present his recent work on "Feedforward and feedback processes in visual recognition":

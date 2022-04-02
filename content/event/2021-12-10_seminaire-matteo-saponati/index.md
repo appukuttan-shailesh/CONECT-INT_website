@@ -14,7 +14,7 @@ subtitle: 'A seminar by [Matteo Saponati](https://github.com/matteosaponati) at 
 summary: 'A seminar by Matteo Saponati at the Institute of Neurosciences Timone in Marseille.'
 tags:
 - events
-title: '2021-12-10 : CONECT talk - "Sequence anticipation and STDP emerge from a voltage-based predictive learning rule" (Matteo Saponati)'
+title: '2021-12-10 : CONECT seminar - "Sequence anticipation and STDP emerge from a voltage-based predictive learning rule" (Matteo Saponati)'
 ---
 
 During a seminar at the Institute of Neurosciences Timone in Marseille, [Matteo Saponati](https://github.com/matteosaponati), will present his recent work showing that "**Sequence anticipation and STDP emerge from a voltage-based predictive learning rule**":

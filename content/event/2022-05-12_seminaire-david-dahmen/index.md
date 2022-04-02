@@ -9,14 +9,14 @@ image:
   placement: 2
   preview_only: false
 projects: []
-subtitle: 'A CONECT seminar by David Dahmen.'
+subtitle: 'CONECT seminar by David Dahmen.'
 summary: 'A CONECT seminar by David Dahmen.'
 tags:
 - events
 title: '2022-05-12 : A CONECT seminar "Global organization of neuronal activity only requires unstructured local connectivity" (David Dahmen)'
 ---
 
-During a CONECT seminar [David Dahmen](https://jonathanvacher.github.io/) will present his recent work on "**Global organization of neuronal activity only requires unstructured local connectivity**":
+During this CONECT seminar, [David Dahmen](https://jonathanvacher.github.io/) will present his recent work on "**Global organization of neuronal activity only requires unstructured local connectivity**":
 
 > [Dahmen D, Layer M, Deutz L, Dąbrowska PA, Voges N, von Papen M, Brochier T, Riehle A, Diesmann M, Grün S, Helias M. Elife. 2022 Jan 20;11:e68422](https://pubmed.ncbi.nlm.nih.gov/35049496/)
 
