@@ -1,5 +1,6 @@
 ---
 title: Recent & Upcoming Events
+cms_exclude: true
 
 # View.
 #   1 = List
@@ -9,8 +10,8 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
-  image: ""
+  caption: ''
+  image: ''
 
 content:
   count: 5
@@ -19,7 +20,5 @@ content:
     exclude_featured: false
     exclude_past: false
   order: desc
-
-publishDate: 2021-10-04 09:00:00
 
 ---
