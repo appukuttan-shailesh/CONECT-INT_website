@@ -45,4 +45,4 @@ jobs:
           submodule_release_branch: 'main'
           full_rebuild: false
           hugo_publish_directory: 'public'
-          test_mode: false
+          test_mode: true

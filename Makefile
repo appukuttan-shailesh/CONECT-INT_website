@@ -1,4 +1,4 @@
-default: push
+default: deploy
 
 sync:
 	rsync -av ../hugo_academic/content/post/2020-09-11_seminaire-thomas-serre content/event
@@ -10,8 +10,8 @@ sync:
 pages:
 	git pull ; hugo
 
-push:
+push: pages
 	git add . ; git commit -m "Build website" -a ; git push origin main
 
-deploy: pages
+deploy: push
 	cd public; git checkout main ; git pull ; git add . ; git commit -m "Build website" -a ; git push origin main
