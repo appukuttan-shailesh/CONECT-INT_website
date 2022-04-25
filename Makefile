@@ -1,4 +1,4 @@
-default: deploy
+default: pages
 
 sync:
 	rsync -av ../hugo_academic/content/post/2020-09-11_seminaire-thomas-serre content/event
