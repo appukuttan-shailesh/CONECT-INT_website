@@ -13,7 +13,7 @@ subtitle: 'A seminar by [Etienne Thoret for the CONECT group.'
 summary: 'A seminar by Etienne Thoret for the CONECT group: "Explainable AI for computational auditory neurosciences".'
 tags:
 - events
-title: '2022-03-04 : CONECT Seminar - "Explainable AI for computational auditory neurosciences" (Etienne Thoret)'
+title: '2022-02-24 : CONECT Seminar - "Explainable AI for computational auditory neurosciences" (Etienne Thoret)'
 ---
 
 

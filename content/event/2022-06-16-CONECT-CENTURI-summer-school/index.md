@@ -1,5 +1,5 @@
 ---
-title: '2022-06-16: CONECT-CENTURI summer school'
+title: '2022-06-16: CONECT at the CENTURI summer school'
 date: 2022-06-16 14:00:00
 publishDate: 2022-02-24 09:00:00
 
