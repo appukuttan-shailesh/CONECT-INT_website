@@ -58,7 +58,7 @@ jobs:
         with:
           source_branch: 'main'
           #release_branch: 'bon-voyage'
-          submodule_release_branch: 'subbed' # <<only provide if you are publishing to directory with git submodule>>
+          submodule_release_branch: 'main' # <<only provide if you are publishing to directory with git submodule>>
           # full_rebuild: true
           hugo_publish_directory: 'public' #  <<publish to another directory if needed>>
           # hugo_build_options: '-D --minify --ignoreCache' <<hugo build cis customizable>>
