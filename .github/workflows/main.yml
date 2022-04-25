@@ -43,7 +43,6 @@ jobs:
           source_branch: 'main'
           release_branch: 'main'
           submodule_release_branch: 'main'
-          full_rebuild: true
+          full_rebuild: false
           hugo_publish_directory: 'public'
-          full_rebuild: 'true'
-          test_mode: 'false'
+          test_mode: false
