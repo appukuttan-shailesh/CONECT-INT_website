@@ -56,7 +56,7 @@ jobs:
         run: hugo --minify
 
       # https://github.com/marketplace/actions/hugo-build-and-deploy
-      - name: Build site and push to release branch
+      - name: Build site and push to release branch in the submodule
         uses: aormsby/hugo-deploy-to-pages@v2.1
         id: build_step  # <<for outputs>>
         with:
