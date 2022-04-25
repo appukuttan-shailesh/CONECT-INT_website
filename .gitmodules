@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/CONECT-INT/CONECT-INT.github.io.git
+	url = https://github.com/CONECT-INT/CONECT-INT.github.io
 	branch = main
