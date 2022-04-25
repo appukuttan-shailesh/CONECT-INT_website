@@ -66,3 +66,4 @@ jobs:
           submodule_release_branch: 'main'
           full_rebuild: true
           hugo_publish_directory: 'public'
+          test_mode: 'true'
