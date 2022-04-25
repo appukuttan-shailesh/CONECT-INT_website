@@ -9,30 +9,10 @@ on:
   push:
     branches:
       - main
-  pull_request:
-    branches:
-      - main
+
+permissions: write-all
 
 jobs:
-  # build:
-  #   runs-on: ${{ matrix.os }}
-  #
-  #   strategy:
-  #     matrix:
-  #       os: [ubuntu-latest]
-  #       node-version: [15.x]
-  #
-  #   steps:
-  #     - uses: actions/checkout@v2
-  #       with:
-  #         submodules: true  # Fetch any Git submodules (true OR recursive)
-  #         fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
-  #
-  #     - name: Use Node.js ${{ matrix.node-version }}
-  #       uses: actions/setup-node@v1
-  #       with:
-  #         node-version: ${{ matrix.node-version }}
-
   hugo:
     runs-on: ubuntu-latest
     steps:
@@ -60,7 +40,6 @@ jobs:
         uses: aormsby/hugo-deploy-to-pages@v2.1
         id: build_step  # <<for outputs>>
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           source_branch: 'main'
           release_branch: 'main'
           submodule_release_branch: 'main'
