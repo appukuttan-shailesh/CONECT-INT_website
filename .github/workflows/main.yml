@@ -62,7 +62,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           source_branch: 'main'
-          # release_branch: 'main'
+          release_branch: 'main'
           submodule_release_branch: 'main'
           full_rebuild: true
           hugo_publish_directory: 'public'
