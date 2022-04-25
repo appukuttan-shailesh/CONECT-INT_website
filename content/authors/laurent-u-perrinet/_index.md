@@ -39,7 +39,7 @@ social:
   link: https://orcid.org/0000-0002-9536-010X
 - icon: external-link-alt
   icon_pack: fas
-  link: https://laurentperrinet.github.io/
+  link: https://laurentperrinet.github.io
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: laurent.perrinet@univ-amu.fr
