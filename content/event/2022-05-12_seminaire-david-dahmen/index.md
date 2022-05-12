@@ -20,7 +20,6 @@ During this CONECT seminar, [David Dahmen](https://jonathanvacher.github.io/) wi
 
 > [Dahmen D, Layer M, Deutz L, Dąbrowska PA, Voges N, von Papen M, Brochier T, Riehle A, Diesmann M, Grün S, Helias M. Elife. 2022 Jan 20;11:e68422](https://pubmed.ncbi.nlm.nih.gov/35049496/)
 
-
 {{% callout note %}}
 Dr. [David Dahmen](https://www.fz-juelich.de/SharedDocs/Personen/INM/INM-6/EN/staff/Dahmen_David.html?nn=724620) is a PostDoc at the Research Centre Jülich (Institute of Neuroscience and Medicine (INM-6), Computational and Systems Neuroscience & Institute for Advanced Simulation (IAS-6), Theoretical Neuroscience & JARA-Institut Brain structure-function relationships (INM-10)).
 {{% /callout %}}
