@@ -9,7 +9,7 @@ publishDate: 2022-02-24 09:00:00
 
 
 {{% callout note %}}
-Program in construction - you can already [register to the hackathon](https://centuri-livingsystems.org/hackathon-2022/) (June 24 - 26, 2022) and check the program of the [summer school](https://centuri-livingsystems.org/centuri-summer-school-2022/) (June 20 - July 01, 2022)!
+Program in construction - you can already check the program of the [summer school](https://centuri-livingsystems.org/centuri-summer-school-2022/) (June 20 - July 01, 2022)!
 {{% /callout %}}
 
 ## Question
