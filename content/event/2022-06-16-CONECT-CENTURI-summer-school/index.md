@@ -34,12 +34,3 @@ Data that will be shared by the teaching staff, under the BIDS standard data org
 
 Data visualisation, neural decoding, principal component analysis, kinematic and geometric analyses of neural trajectories in high-dimensional space, hypothesis-testing, null distributions and statistics
 
-
-# PROGRAM
-
-## tutorials
-
-* T Schatz: machine learning (classification, clustering and regression)
-* XXX
-* YYY
-* ZZZ
