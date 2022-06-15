@@ -95,7 +95,7 @@ blah blas blah
 
 ## Dataset 2: grasping task
 
-<img data-src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsdata.2018.55/MediaObjects/41597_2018_Article_BFsdata201855_Fig1_HTML.jpg?as=webp" height="420" /> <img data-src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsdata.2018.55/MediaObjects/41597_2018_Article_BFsdata201855_Fig8_HTML.jpg?as=webp" height="420" />
+<img data-src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsdata.2018.55/MediaObjects/41597_2018_Article_BFsdata201855_Fig1_HTML.jpg?as=webp" height="420" /> <img class="fragment" data-src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsdata.2018.55/MediaObjects/41597_2018_Article_BFsdata201855_Fig8_HTML.jpg?as=webp" height="420" />
 
 Brochier, Zehl, Hao, Duret, Sprenger, Denker, Grün, & Riehle (2018) Scientific Data 5 : 180055. [doi:10.1038/sdata.2018.55](https://www.nature.com/articles/sdata201855)
 
