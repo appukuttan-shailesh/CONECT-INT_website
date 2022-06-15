@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: 'c: Computational Neuroscience projet.'
+summary: 'CENTURI Summer school: Computational Neuroscience projet.'
 authors:
 - nicolas-meirhaeghe
 - laurent-u-perrinet
@@ -14,7 +14,6 @@ slides:
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: "github"  # Highlight JS theme name  
-
 ---
 {{< slide background-image="/media/open-book.jpg" >}}
 
