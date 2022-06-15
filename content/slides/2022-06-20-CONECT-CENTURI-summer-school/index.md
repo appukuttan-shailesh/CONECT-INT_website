@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: 'CONECT: Computational Neuroscience Center.'
+summary: 'c: Computational Neuroscience projet.'
 authors:
 - nicolas-meirhaeghe
 - laurent-u-perrinet
@@ -18,8 +18,8 @@ slides:
 ---
 {{< slide background-image="/media/open-book.jpg" >}}
 
-# CoNeCt
-## the **Co**mputational **Ne**uroscience **C**en**t**er @ INT
+# CENTURI Summer school : Computational Neuroscience projet
+## Neural computation through population dynamics
 
 [https://conect-int.github.io](https://conect-int.github.io)
 
