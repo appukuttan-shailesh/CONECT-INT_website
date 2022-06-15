@@ -1,7 +1,7 @@
 ---
 authors:
 - nicolas-meirhaeghe
-bio: His research is focused on cortical dynamics in adaptive sensorimotor behavior. He regularly uses MATLAB to look at slices of neural trajectories along specific dimensions in order to understand what part of brain activity can be related to a behavior of an individual. He visualizes brain activity as it unfolds in time and performs more advanced analyses of the detailed features of the dynamics and geometry of the neural trajectories. Nicolas earned an MS in aerospace engineering from California Institute of Technology and an BS and MS in aeronautics and astronautics from ISAE-Supaero, France.
+bio: My research focuses on cortical dynamics in adaptive sensorimotor behavior.
 education:
   courses:
   - course: PhD in neuroscience
