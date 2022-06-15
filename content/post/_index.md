@@ -1,5 +1,6 @@
 ---
 title: About CONECT
+cms_exclude: true
 
 # View.
 #   1 = List
