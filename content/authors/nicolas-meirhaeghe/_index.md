@@ -12,7 +12,7 @@ role: Postdoctoral Fellow in Neuroscience
 social:
 - icon: github
   icon_pack: fab
-  link: https://github.com/v
+  link: https://github.com/nmrghe
 - icon: external-link-alt
   icon_pack: fas
   link: https://engineering.mit.edu/fellows/nicolas-meirhaeghe/
