@@ -80,7 +80,7 @@ blah blas blah
 
 ## Dataset 1: reaching task
 
-<img class="fragment" data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig1.jpeg" height="420" /> <img class="fragment" data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig4.jpeg" height="420" />
+<img class="fragment" data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig1.jpeg" height="350" /> <img class="fragment" data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig4.jpeg" height="350" />
 
 Hatsopoulos, Joshi, and O'Leary (2004) [doi:10.1152/jn.01245.2003](https://journals.physiology.org/doi/full/10.1152/jn.01245.2003)
 
@@ -110,9 +110,9 @@ blah blas blah
 
 ## Dataset 3: time interval task
 
-<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset3_time-interval-task/dataset3_fig1.jpeg" height="420" />
-<img class="fragment" data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset3_time-interval-task/dataset3_fig3.jpeg" height="420" />
-https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset3_time-interval-task/dataset3_fig1.jpeg
+<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset3_time-interval-task/dataset3_fig1.jpg" height="420" />
+<img class="fragment" data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset3_time-interval-task/dataset3_fig3.jpg" height="420" />
+
 Meirhaeghe, Sohn, and Jazayeri (2021) [doi:10.1016/j.neuron.2021.08.025 ](https://www.biorxiv.org/content/10.1101/2021.03.10.434831v1)
 
 {{< speaker_note >}}
