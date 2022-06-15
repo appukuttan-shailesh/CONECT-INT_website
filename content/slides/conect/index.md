@@ -24,7 +24,7 @@ slides:
 
 
 {{< speaker_note >}}
-- CONECT with one N
+- CONECT with one N 
 - Press `S` key to view
 {{< /speaker_note >}}
 
