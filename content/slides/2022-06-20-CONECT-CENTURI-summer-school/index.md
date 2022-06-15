@@ -46,29 +46,14 @@ blah blas blah
 
 ## Existing datasets
 
-- reaching task
-- dataset 2
-- dataset 3
+- Dataset 1: reaching task
+- Dataset 2
+- Dataset 3
 
 {{< speaker_note >}}
 blah blas blah
 
 {{< /speaker_note >}}
-
-
----
-
-## Existing datasets
-
-![Fig 1](https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig1.jpeg)
-![Fig 1](https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig4.jpeg)
-
-
-{{< speaker_note >}}
-blah blas blah
-
-{{< /speaker_note >}}
-
 
 ---
 
@@ -77,13 +62,27 @@ blah blas blah
 <img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig1.jpeg" height="420" />
 <img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig4.jpeg" height="420" />
 
-[Toto](https://journals.physiology.org/doi/full/10.1152/jn.01245.2003)
+Hatsopoulos, Joshi, and O'Leary (2004) [doi:10.1152/jn.01245.2003
+](https://journals.physiology.org/doi/full/10.1152/jn.01245.2003)
 
 {{< speaker_note >}}
 blah blas blah
 
 {{< /speaker_note >}}
 
+
+---
+
+## Objectives
+
+- Understand the decoding problematic
+- Acquire the necessary computational skills
+- Learn to build a computational framework
+
+{{< speaker_note >}}
+blah blas blah
+
+{{< /speaker_note >}}
 
 ---
 
