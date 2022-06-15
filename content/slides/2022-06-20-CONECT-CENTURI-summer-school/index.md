@@ -37,7 +37,7 @@ https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school
 
 - our brains light up billions of cells in a structured way,
 - neural activity is in majority carried by action potentials, or *spikes*,
-- we wish to better understand the structure by using machine learning.
+- we wish to better understand this structure by using machine learning.
 
 {{< speaker_note >}}
 **2 MINUTE**
@@ -50,8 +50,8 @@ blah blas blah
 ## Existing datasets
 
 - Dataset 1: reaching task
-- Dataset 2
-- Dataset 3
+	- Dataset 2 : grasping task
+- Dataset 3 : time interval task
 
 {{< speaker_note >}}
 **1 MINUTE**
@@ -64,8 +64,7 @@ blah blas blah
 
 ## Dataset 1: reaching task
 
-<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/centerout-task.png" height="420" />
-<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/trajectories.png" height="420" />
+<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/centerout-task.png" height="420" /> <img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/trajectories.png" height="420" />
 
 Hatsopoulos, Joshi, and O'Leary (2004) [doi:10.1152/jn.01245.2003](https://journals.physiology.org/doi/full/10.1152/jn.01245.2003)
 
@@ -81,8 +80,7 @@ blah blas blah
 
 ## Dataset 1: reaching task
 
-<img class="fragment" data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig1.jpeg" height="420" />
-<img class="fragment" data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig4.jpeg" height="420" />
+<img class="fragment" data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig1.jpeg" height="420" /> <img class="fragment" data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig4.jpeg" height="420" />
 
 Hatsopoulos, Joshi, and O'Leary (2004) [doi:10.1152/jn.01245.2003](https://journals.physiology.org/doi/full/10.1152/jn.01245.2003)
 
@@ -97,8 +95,7 @@ blah blas blah
 
 ## Dataset 2: grasping task
 
-<img data-src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsdata.2018.55/MediaObjects/41597_2018_Article_BFsdata201855_Fig1_HTML.jpg?as=webp" height="420" />
-<img data-src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsdata.2018.55/MediaObjects/41597_2018_Article_BFsdata201855_Fig8_HTML.jpg?as=webp" height="420" />
+<img data-src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsdata.2018.55/MediaObjects/41597_2018_Article_BFsdata201855_Fig1_HTML.jpg?as=webp" height="420" /> <img data-src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsdata.2018.55/MediaObjects/41597_2018_Article_BFsdata201855_Fig8_HTML.jpg?as=webp" height="420" />
 
 Brochier, Zehl, Hao, Duret, Sprenger, Denker, Grün, & Riehle (2018) Scientific Data 5 : 180055. [doi:10.1038/sdata.2018.55](https://www.nature.com/articles/sdata201855)
 
