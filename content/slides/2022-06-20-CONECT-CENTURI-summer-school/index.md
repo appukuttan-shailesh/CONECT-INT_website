@@ -64,7 +64,22 @@ blah blas blah
 
 ## Dataset 1: reaching task
 
-<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/centerout-task.png" height="420" /> <img class="fragment" data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/trajectories.png" height="420" />
+<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/centerout-task.png" height="420" />
+
+Hatsopoulos, Joshi, and O'Leary (2004) [doi:10.1152/jn.01245.2003](https://journals.physiology.org/doi/full/10.1152/jn.01245.2003)
+
+{{< speaker_note >}}
+**1 MINUTE**
+
+blah blas blah
+
+{{< /speaker_note >}}
+
+---
+
+## Dataset 1: reaching task
+
+<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/trajectories.png" height="420" />
 
 Hatsopoulos, Joshi, and O'Leary (2004) [doi:10.1152/jn.01245.2003](https://journals.physiology.org/doi/full/10.1152/jn.01245.2003)
 
