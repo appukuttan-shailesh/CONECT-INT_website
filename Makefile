@@ -15,3 +15,10 @@ push: pages
 
 deploy: push
 	cd public; git checkout main ; git pull ; git add . ; git commit -m "Build website" -a ; git push origin main
+
+clean:
+	# rm -fr  $(TMPDIR)/hugo_cache
+	hugo mod clean --all
+	hugo mod tidy
+	hugo clean
+	hugo mod get -u ./...

@@ -1,6 +1,6 @@
 ---
-title: '2022-06-16: CONECT at the CENTURI summer school'
-date: 2022-06-16 14:00:00
+title: '2022-06-20: CONECT at the CENTURI summer school'
+date: 2022-06-20 14:00:00
 publishDate: 2022-02-24 09:00:00
 
 ---
@@ -33,4 +33,3 @@ Data that will be shared by the teaching staff, under the BIDS standard data org
 ## Methods
 
 Data visualisation, neural decoding, principal component analysis, kinematic and geometric analyses of neural trajectories in high-dimensional space, hypothesis-testing, null distributions and statistics
-
