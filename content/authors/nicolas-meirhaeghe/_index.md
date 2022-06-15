@@ -4,9 +4,15 @@ authors:
 bio: My research focuses on cortical dynamics in adaptive sensorimotor behavior.
 education:
   courses:
-  - course: PhD in neuroscience
-    institution: Medical Engineering and Medical Physics program at Harvard-MIT Division of Health Sciences and Technology
-    year: 2023
+  - course: PhD in Neuroscience
+    institution: Massachusetts Institute of Technology
+    year: 2021
+  - course: Diplôme d'Ingénieur
+    institution: ISAE-Supaéro
+    year: 2016
+  - course: MSc in Aerospace Engineering
+    institution: California Institute of Technology
+    year: 2015
 title: Nicolas Meirhaeghe
 role: Postdoctoral Fellow in Neuroscience
 social:
