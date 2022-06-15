@@ -34,7 +34,9 @@ https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school
 
 ## Neural computation through population dynamics
 
--
+- our brains light up billions of cells in a structured way,
+- neural activity is in majority carried by action potentials, or *spikes*,
+- we wish to better understand the structure by using machine learning.
 
 {{< speaker_note >}}
 blah blas blah
@@ -42,11 +44,11 @@ blah blas blah
 
 ---
 
-## A transdisciplinary revolution
+## Existing datasets
 
-- across several disciplines (physics, genetics, biology, robotics, psychiatry, ..)
-- and multiple scales (from micro to macro, from short to long-term, from theory to biology)
-- new frontiers{{% fragment %}}... and new challenges{{% /fragment %}}
+- reaching task
+- dataset 2
+- dataset 3
 
 {{< speaker_note >}}
 blah blas blah
@@ -56,55 +58,12 @@ blah blas blah
 
 ---
 
-##  CoNeCt: **Co**mputational **Ne**uroscience **C**en**t**er
+## Existing datasets
 
-- close collaboration between experimentalists and theoreticians
-- share state-of-the-art (experimentalists well aware of theoretical approaches, experimental techniques for theoreticians)
-- complementary in its purpose from neuroinformatics... {{% fragment %}}but distinct{{% /fragment %}}
-
+![test](https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/featured.png)
 {{< speaker_note >}}
-- We are convinced that close collaboration between experimentalists and theoreticians in neuroscience is essential to develop mechanistic as well as quantitative understandings of how the brain performs its functions. This is in fact a primary motivating force in establishing this center.
-- However, for such collaborations to be effective, experimentalists must be well aware of the approaches and challenges in modeling while theoreticians must be well acquainted with the experimental techniques, their power and the challenges they present.
-- CoNeCt has also the ambition to contribute to the training of a new generation of neuroscientists who will have all these qualities.
+blah blas blah
 
-This approach is therefore complementary but distinct in its purpose from neuroinformatics (creation of tools for analyzing neuroscientific data) or artificial intelligence (creation of algorithms inspired by the functioning of the brain). The field of computational neuroscience is still young but its community is now structured in an autonomous community with strong interaction with the other branches of neuroscience. It is this autonomy that we want to foster at INT.
-{{< /speaker_note >}}
-
-
----
-
-##  Objectives of CoNeCt
-
-* to create a space for scientific discussion and animation
-
-* train students and staff and attract young researchers:
-
-* structuring the network of computational neurosciences at INT, on Timone, on AMU and in France & International
-
-
-{{< speaker_note >}}
-- lots of work - bottom approach so far
-- no action taken
-- lots of work - existence of top-down initiatives
-{{< /speaker_note >}}
-
----
-
-##  Actions of CoNeCt
-
-* {{< cite page="/post/actors-CONECT" view="1" >}}
-
-* {{< cite page="/post/objectives-CONECT" view="1" >}}
-
-* [Past events](/event) and future
-
-* [Methodology](https://amubox.univ-amu.fr/f/867023067)
-
-
-{{< speaker_note >}}
-- Actors
-- we already organized events within or outside INT
-- objectives : exist
 {{< /speaker_note >}}
 
 
@@ -112,8 +71,6 @@ This approach is therefore complementary but distinct in its purpose from neuroi
 
 # Questions?
 
-[https://conect-int.github.io](https://conect-int.github.io)
+* home page: https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/
 
-[Contact us @ int-conect@univ-amu.fr!](mailto://int-conect@univ-amu.fr)
-
-[Let's discuss on Mattermost](https://framateam.org/int-marseille/channels/conect)
+* GitHub repository: https://github.com/CONECT-INT/2022_CENTURI-SummerSchool
