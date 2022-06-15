@@ -20,7 +20,7 @@ slides:
 # Computational Neuroscience projet
 ##  CENTURI Summer school
 
-[https://conect-int.github.io](https://conect-int.github.io)
+https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/
 
 
 {{< speaker_note >}}
