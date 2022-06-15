@@ -17,32 +17,27 @@ slides:
 ---
 {{< slide background-image="/media/open-book.jpg" >}}
 
-# CENTURI Summer school : Computational Neuroscience projet
-## Neural computation through population dynamics
+# CENTURI Summer school
+## Computational Neuroscience projet
 
 [https://conect-int.github.io](https://conect-int.github.io)
 
 
 {{< speaker_note >}}
-- CONECT with one N
 - Press `S` key to view
+- Hi, we are LP and NM and we look forward to start working with you on this project
+- as part of the CENTURI summer school - and we would like to thank the organizers of the school...
+- In this short presentation, we will present the challenges that we want to tackle and which we named...
 {{< /speaker_note >}}
 
 ---
 
-## Tremendous technological advances
+## Neural computation through population dynamics
 
-- two photon imaging  
-- large population recording-array technologies
-- optogenetic circuit control tools
-- transgenic manipulations
-- large volume circuit reconstructions
+- 
 
 {{< speaker_note >}}
-Tremendous technological advances over the past decade
-
-- These experiments have begun to produce a huge amount of data, on a broad spectrum of temporal and spatial scales,
-- providing finer and more quantitative descriptions of the biological reality than we would have been able to dream of only a decade ago.
+blah blas blah
 {{< /speaker_note >}}
 
 ---
@@ -54,10 +49,8 @@ Tremendous technological advances over the past decade
 - new frontiers{{% fragment %}}... and new challenges{{% /fragment %}}
 
 {{< speaker_note >}}
--  daunting complexity of the biological reality revealed by these technologies highlights the importance of neurophysics
-- to provide a conceptual bridge between abstract principles of brain function and their biological implementations within neural circuits.
-- This revolution is accompanied by a parallel revolution in the domain of Artificial Intelligence. An exponential number of algorithms in sensory processing, such as image classification, or reinforcement learning have realized practical tools which have replaced the classical tools we were using on a daily basis by a novel range of intelligent tools of a new generation.
-- **This is the context in which we are creating CONECT.**
+blah blas blah
+
 {{< /speaker_note >}}
 
 
