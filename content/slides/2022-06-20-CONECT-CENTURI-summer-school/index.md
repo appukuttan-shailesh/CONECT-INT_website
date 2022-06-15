@@ -32,7 +32,7 @@ slides:
 
 ## Tremendous technological advances
 
-- two photon imaging
+- two photon imaging  
 - large population recording-array technologies
 - optogenetic circuit control tools
 - transgenic manipulations
