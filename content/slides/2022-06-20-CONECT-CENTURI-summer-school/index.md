@@ -24,6 +24,7 @@ https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school
 
 
 {{< speaker_note >}}
+**1 MINUTE**
 - Press `S` key to view
 - Hi, we are LP and NM and we look forward to start working with you on this project
 - as part of the CENTURI summer school - and we would like to thank the organizers of the school...
@@ -39,6 +40,8 @@ https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school
 - we wish to better understand the structure by using machine learning.
 
 {{< speaker_note >}}
+**2 MINUTE**
+
 blah blas blah
 {{< /speaker_note >}}
 
@@ -51,13 +54,15 @@ blah blas blah
 - Dataset 3
 
 {{< speaker_note >}}
+**1 MINUTE**
+
 blah blas blah
 
 {{< /speaker_note >}}
 
 ---
 
-## Existing datasets
+## Dataset 1: reaching task
 
 <img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig1.jpeg" height="420" />
 <img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig4.jpeg" height="420" />
@@ -66,10 +71,44 @@ Hatsopoulos, Joshi, and O'Leary (2004) [doi:10.1152/jn.01245.2003
 ](https://journals.physiology.org/doi/full/10.1152/jn.01245.2003)
 
 {{< speaker_note >}}
+**1 MINUTE**
+
 blah blas blah
 
 {{< /speaker_note >}}
 
+---
+
+## Dataset 1: reaching task
+
+<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig1.jpeg" height="420" />
+<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig4.jpeg" height="420" />
+
+Hatsopoulos, Joshi, and O'Leary (2004) [doi:10.1152/jn.01245.2003
+](https://journals.physiology.org/doi/full/10.1152/jn.01245.2003)
+
+{{< speaker_note >}}
+**1 MINUTE**
+
+blah blas blah
+
+{{< /speaker_note >}}
+
+---
+
+## Dataset 2: grasping task
+
+<img data-src="https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fsdata.2018.55/MediaObjects/41597_2018_Article_BFsdata201855_Fig1_HTML.jpg?as=webp" height="420" />
+<img data-src="https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fsdata.2018.55/MediaObjects/41597_2018_Article_BFsdata201855_Fig8_HTML.jpg?as=webp" height="420" />
+
+Brochier, Zehl, Hao, Duret, Sprenger, Denker, Grün, & Riehle (2018) Scientific Data 5 : 180055. [doi:10.1038/sdata.2018.55](https://www.nature.com/articles/sdata201855)
+
+{{< speaker_note >}}
+**1 MINUTE**
+
+blah blas blah
+
+{{< /speaker_note >}}
 
 ---
 
@@ -80,6 +119,8 @@ blah blas blah
 - Learn to build a computational framework
 
 {{< speaker_note >}}
+**2 MINUTES**
+
 blah blas blah
 
 {{< /speaker_note >}}
