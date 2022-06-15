@@ -1,5 +1,5 @@
 ---
-title: Slides
+title: Computational Neuroscience projet
 summary: 'CENTURI Summer school: Computational Neuroscience projet.'
 authors:
 - nicolas-meirhaeghe
@@ -17,8 +17,8 @@ slides:
 ---
 {{< slide background-image="/media/open-book.jpg" >}}
 
-# CENTURI Summer school
-## Computational Neuroscience projet
+# Computational Neuroscience projet
+##  CENTURI Summer school
 
 [https://conect-int.github.io](https://conect-int.github.io)
 
@@ -34,7 +34,7 @@ slides:
 
 ## Neural computation through population dynamics
 
-- 
+-
 
 {{< speaker_note >}}
 blah blas blah
