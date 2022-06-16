@@ -134,6 +134,7 @@ blah blas blah
 ---
 
 ## Dataset 2: grasping task
+##### Goal: relating neural dynamics to animals’ behavioral performance
 
 <img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset2_grasping-task/reach2grasp-task.png" height="250" />
 
@@ -149,6 +150,7 @@ blah blas blah
 ---
 
 ## Dataset 3: time interval task
+##### Goal: predicting animals’ reaction times from neural preparatory activity
 
 <img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset3_time-interval-task/dataset3_fig1A.jpg" height="420" />
 
