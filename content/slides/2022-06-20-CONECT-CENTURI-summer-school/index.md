@@ -168,5 +168,5 @@ blah blas blah
 # Questions?
 
 * home page: https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/
-* [nicolas.meirhaeghe@univ-amu.fr, laurent.perrinet@univ-amu.fr](mailto:nmrghe@gmail.com,laurent.perrinet@univ-amu.fr)
+* Contact us @ [nicolas.meirhaeghe@univ-amu.fr, laurent.perrinet@univ-amu.fr](mailto:nmrghe@gmail.com,laurent.perrinet@univ-amu.fr)
 * GitHub repository: https://github.com/CONECT-INT/2022_CENTURI-SummerSchool
