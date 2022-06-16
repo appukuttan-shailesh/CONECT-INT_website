@@ -34,7 +34,17 @@ https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school
 
 ## Who are we?
 
-<img data-src="/authors/nicolas-meirhaeghe/avatar.jpg" height="200" />
+ <table>
+  <tr>
+    <th><img data-src="/authors/nicolas-meirhaeghe/avatar.jpg" height="200" /></th>
+    <th><img data-src="/authors/nicolas-meirhaeghe/avatar.jpg" height="200" /></th>
+  </tr>
+  <tr>
+    <td>Nicolas</td>
+    <td>Laurent</td>
+  </tr>
+</table> 
+
 
 {{< speaker_note >}}
 **2 MINUTE**
