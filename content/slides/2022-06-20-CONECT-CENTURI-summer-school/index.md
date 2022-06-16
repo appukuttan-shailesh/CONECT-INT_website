@@ -22,13 +22,24 @@ slides:
 
 https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/
 
-
 {{< speaker_note >}}
 **1 MINUTE**
 - Press `S` key to view
 - Hi, we are LP and NM and we look forward to start working with you on this project
 - as part of the CENTURI summer school - and we would like to thank the organizers of the school...
 - In this short presentation, we will present the challenges that we want to tackle and which we named...
+{{< /speaker_note >}}
+
+---
+
+## Who are we?
+
+<img data-src="/authors/nicolas-meirhaeghe/avatar.jpg" height="200" />
+
+{{< speaker_note >}}
+**2 MINUTE**
+
+blah blas blah
 {{< /speaker_note >}}
 
 ---
@@ -111,8 +122,6 @@ blah blas blah
 ## Dataset 1: reaching task
 
 <img class="fragment" data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig1.jpeg" height="350" /> <img class="fragment" data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/dataset1_fig4.jpeg" height="350" />
-
-Hatsopoulos, Joshi, and O'Leary (2004) [doi:10.1152/jn.01245.2003](https://journals.physiology.org/doi/full/10.1152/jn.01245.2003)
 
 {{< speaker_note >}}
 **1 MINUTE**
