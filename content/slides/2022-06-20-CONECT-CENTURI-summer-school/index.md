@@ -47,10 +47,25 @@ blah blas blah
 
 ---
 
+## Challenge: decoding neural activity
+
+<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/decoding.png" height="420" />
+
+Hatsopoulos, Joshi, and O'Leary (2004) [doi:10.1152/jn.01245.2003](https://journals.physiology.org/doi/full/10.1152/jn.01245.2003)
+
+{{< speaker_note >}}
+**1 MINUTE**
+
+blah blas blah
+
+{{< /speaker_note >}}
+
+---
+
 ## Existing datasets
 
 - Dataset 1: reaching task
-	- Dataset 2 : grasping task
+- Dataset 2 : grasping task
 - Dataset 3 : time interval task
 
 {{< speaker_note >}}
