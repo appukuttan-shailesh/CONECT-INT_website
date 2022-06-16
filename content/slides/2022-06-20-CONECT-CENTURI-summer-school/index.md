@@ -58,8 +58,6 @@ blah blas blah
 
 <img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/decoding.png" height="420" />
 
-Hatsopoulos, Joshi, and O'Leary (2004) [doi:10.1152/jn.01245.2003](https://journals.physiology.org/doi/full/10.1152/jn.01245.2003)
-
 {{< speaker_note >}}
 **2 MINUTE**
 
@@ -134,7 +132,7 @@ blah blas blah
 ---
 
 ## Dataset 2: grasping task
-##### Goal: relating neural dynamics to animals’ behavioral performance
+##### Goal: predicting animals’ reaction times from neural preparatory activity
 
 <img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset2_grasping-task/reach2grasp-task.png" height="250" />
 
@@ -150,9 +148,9 @@ blah blas blah
 ---
 
 ## Dataset 3: time interval task
-##### Goal: predicting animals’ reaction times from neural preparatory activity
+##### Goal: relating neural dynamics to animals’ behavioral performance
 
-<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset3_time-interval-task/dataset3_fig1A.png" height="250" />
+<img data-src="https://raw.githubusercontent.com/CONECT-INT/2022_CENTURI-SummerSchool/main/datasets/dataset3_time-interval-task/dataset3_fig1A.png" height="300" />
 
 Meirhaeghe, Sohn, and Jazayeri (2021) [doi:10.1016/j.neuron.2021.08.025 ](https://www.biorxiv.org/content/10.1101/2021.03.10.434831v1)
 
