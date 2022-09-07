@@ -7,7 +7,7 @@ draft: false
 image:
   focal_point: Center
   placement: 2
-  preview_only: false
+  preview_only: true
 projects: []
 subtitle: 'CONECT seminar by Charlie Sexton.'
 summary: 'A CONECT seminar by Charlie Sexton.'
