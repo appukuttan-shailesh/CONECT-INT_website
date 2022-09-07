@@ -1,7 +1,7 @@
 ---
 authors:
 - laurent-u-perrinet
-date: 2022-09-07 14:00:00
+date: 2022-09-08 14:00:00
 publishDate: 2022-09-02 09:00:00
 draft: false
 image:
@@ -10,10 +10,10 @@ image:
   preview_only: true
 projects: []
 subtitle: 'CONECT seminar by Charlie Sexton.'
-summary: 'A CONECT seminar by Charlie Sexton.'
+summary: 'CONECT seminar by Charlie Sexton.'
 tags:
 - events
-title: '2022-09-07 : A CONECT seminar "Spike-timing dependent plasticity among multiple layers of motion-sensitive neurons: a feedforward mechanism for motion extrapolation" (Charlie Sexton)'
+title: '2022-09-08 : A CONECT seminar "Spike-timing dependent plasticity among multiple layers of motion-sensitive neurons: a feedforward mechanism for motion extrapolation" (Charlie Sexton)'
 ---
 
 During this CONECT seminar, [Charlie Sexton](https://psychologicalsciences.unimelb.edu.au/research/msps-research-groups/timing/lab/people#) will present his recent work on "**Spike-timing dependent plasticity among multiple layers of motion-sensitive neurons: a feedforward mechanism for motion extrapolation**":
