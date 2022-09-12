@@ -9,11 +9,11 @@ image:
   placement: 2
   preview_only: true
 projects: []
-subtitle: '"Higher-order interactions in brain networks: from theory to data analysis"'
+subtitle: 'Talks by Giovanni Petri & Daniele Marinazzo'
 summary: 'CONECT workshop "Higher-order interactions"'
 tags:
 - events
-title: '2022-10-05 : A CONECT workshop "Higher-order interactions in brain networks: from theory to data analysis" by Giovanni Petri & Daniele Marinazzo'
+title: '2022-10-05 : A CONECT workshop "Higher-order interactions in brain networks: from theory to data analysis"'
 ---
 
 I am pleased to invite you to a mini-workshop organized as a scientific activity of the Computational Neuroscience Center (CONECT) of the INT focused on **"Higher-order interactions in brain networks: from theory to data analysis"**.
