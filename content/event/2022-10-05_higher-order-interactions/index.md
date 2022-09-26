@@ -16,7 +16,7 @@ subtitle: 'Talks by Giovanni Petri & Daniele Marinazzo.'
 summary: 'CONECT workshop "Higher-order interactions" (Petri & Marinazzo)'
 ---
 
-I am pleased to invite you to a mini-workshop organized as a scientific activity of the Computational Neuroscience Center (CONECT) of the INT focused on **"Higher-order interactions in brain networks: from theory to data analysis"**.
+We are pleased to invite you to a mini-workshop organized as a scientific activity of the Computational Neuroscience Center (CONECT) of the INT focused on **"Higher-order interactions in brain networks: from theory to data analysis"**.
 
 {{% callout note %}}
 Two speakers will present their work from two complementary theoretical perspectives, emerged from recent advances in network science (Giovanni Petri) and information theory (Daniele Marinazzo).
