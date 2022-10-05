@@ -21,7 +21,7 @@ We are pleased to invite you to a mini-workshop organized as a scientific activi
 {{% callout note %}}
 Two speakers will present their work from two complementary theoretical perspectives, emerged from recent advances in network science (Giovanni Petri) and information theory (Daniele Marinazzo).
 
-If you are interested in the topic and/or want to learn something new, please join us in the salle Laurent Vinay on Wednesday 5th October 2022 at 14:30.
+If you are interested in the topic and/or want to learn something new, please join us in the **salle Laurent Vinay** on **Wednesday 5th October 2022** at **14:30**.
 {{% /callout %}}
 
 
