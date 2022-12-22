@@ -105,8 +105,6 @@ This approach is therefore complementary but distinct in its purpose from neuroi
 
 * [Past events](/event) and future
 
-* [Methodology](https://amubox.univ-amu.fr/f/867023067)
-
 
 {{< speaker_note >}}
 - Actors
