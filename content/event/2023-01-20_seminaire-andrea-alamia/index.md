@@ -1,6 +1,6 @@
 ---
 authors:
-- frederic-chavane
+- frederic-y-chavane
 date: 2023-01-20 14:30:00
 publishDate: 2023-01-13 09:00:00
 draft: false
