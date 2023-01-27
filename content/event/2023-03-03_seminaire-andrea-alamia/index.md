@@ -1,7 +1,7 @@
 ---
 authors:
 - frederic-y-chavane
-date: 2023-01-20 14:30:00
+date: 2023-03-03 14:30:00
 publishDate: 2023-01-13 09:00:00
 draft: false
 image:
@@ -11,7 +11,7 @@ image:
 projects: []
 tags:
 - events
-title: '2023-01-05 : INT seminar by Andrea Alamia'
+title: '2023-03-03 : INT seminar by Andrea Alamia'
 subtitle: '"Interpreting oscillations as travelling waves: the role of alpha-band oscillations in cognition".'
 summary: 'INT seminar by Andrea Alamia "Interpreting oscillations as travelling waves: the role of alpha-band oscillations in cognition".'
 ---
