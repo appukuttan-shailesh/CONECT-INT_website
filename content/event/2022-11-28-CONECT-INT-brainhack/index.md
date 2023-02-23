@@ -1,5 +1,5 @@
 ---
-title: '2022-11-28: CONECT at the INT brainhack'
+title: '2022-11-28: CONECT at the INT brainhack: Automatic detection of spiking motifs in neurobiological data'
 authors:
 - matthieu-gilson
 - laurent-u-perrinet
@@ -7,7 +7,6 @@ date: 2022-11-28 09:00:00
 publishDate: 2022-11-28 09:00:00
 ---
 
-# 2022-11_brainhack_DetecSpikMotifs: Automatic detection of spiking motifs in neurobiological data
 
 > TL;DR This project aims to develop a method for the automated detection of repeating spiking motifs, possibly noisy, in ongoing activity. Results are available on the shared repo: https://github.com/SpikeAI/2022-11_brainhack_DetecSpikMotifs
 
@@ -26,7 +25,7 @@ publishDate: 2022-11-28 09:00:00
 
 ### Brainhack Global 2022 Event
 
-Brainhack Marseille
+ * [Brainhack Marseille](https://brainhack-marseille.github.io)
 
 ### Project Description
 
