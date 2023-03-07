@@ -26,6 +26,8 @@ publishDate: 2022-11-28 09:00:00
 ### Brainhack Global 2022 Event
 
  * [Brainhack Marseille](https://brainhack-marseille.github.io)
+ * supported by the [Polychronies](https://laurentperrinet.github.io/grant/polychronies/) grant
+
 
 ### Project Description
 
