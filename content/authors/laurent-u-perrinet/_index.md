@@ -31,9 +31,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
+- icon: mastodon
   icon_pack: fab
-  link: https://twitter.com/laurentperrinet
+  link: https://neuromatch.social/@laurentperrinet
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-9536-010X
