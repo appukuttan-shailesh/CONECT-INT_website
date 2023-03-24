@@ -7,8 +7,6 @@ publishDate: 2023-03-24 09:00:00
 slides: "2023-03-28-CONECT-seminar-day-on-SNNs"
 ---
 
-# CONECT thematic day on Spiking Neural Networks
-
 This day is focused on __discussing developments on Spiking Neural Networks__, giving plenty of time for discussions.
 
 * We will meet at INT, Laurent Vinay meeting room. 
