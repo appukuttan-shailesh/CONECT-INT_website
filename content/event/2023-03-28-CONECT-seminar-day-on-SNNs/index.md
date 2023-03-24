@@ -7,7 +7,7 @@ publishDate: 2023-03-24 09:00:00
 slides: "2023-03-28-CONECT-seminar-day-on-SNNs"
 ---
 
-This day is focused on __discussing developments on Spiking Neural Networks__, giving plenty of time for discussions.
+This meet-up is focused on __discussing recent developments in Spiking Neural Networks__, with plenty of time for discussion.
 
 * We will meet at INT, Laurent Vinay meeting room. 
 * CONECT's hotline: +33619478120
@@ -32,7 +32,7 @@ This day is focused on __discussing developments on Spiking Neural Networks__, g
 
 * 14:00
   * Pr. Benoît Miramond (LEAT, Université Côte d'Azur)
-  * Title: **Estimation Energy Efficiency of Spiking Neural Networks on neuromorphic hardware**
+  * Title: **Estimating Energy Efficiency of Spiking Neural Networks on neuromorphic hardware**
   * Spiking Neural Networks are a type of neural networks where neurons communicate using only spikes. They are often presented as a low-power alternative to classical neural networks, but few works have proven these claims to be true. In this work, we present a metric to estimate the energy consumption of SNNs independently of a specific hardware. We then apply this metric on SNNs processing three different data types (static, dynamic and event-based) representative of real-world applications. As a result, all of our SNNs are 6 to 8 times more efficient than their FNN counterparts.
 
 * 15:00 break
