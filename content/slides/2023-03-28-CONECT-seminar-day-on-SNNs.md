@@ -27,11 +27,11 @@ slides:
 - In this short presentation, we will present the challenges that we want to tackle and which we named...
 {{< /speaker_note >}}
 
+
 ---
+{{< slide background-image="/media/CONECT-logo.png" >}}
 
 ## CONECT?
-
-
 
 {{< speaker_note >}}
 **2 MINUTE**
@@ -45,12 +45,15 @@ blah blas blah
 
 <img data-src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency-estimate.jpg" height="420" />
 
+[Thorpe & Fabre-Thorpe, 2001](https://doi.org/10.1126/science.1058249)
+
 {{< speaker_note >}}
 **2 MINUTE**
 
-- The visual system is very efficient in generating a. decision from the retinal image to the different  stages of the visual pathways, here a reaction of finger muscles in about 300 milliseconds.
+- The visual system is very efficient in generating a decision from the retinal image to the different  stages of the visual pathways, here for a macaque monkey, a reaction of finger muscles in about 300 milliseconds.
 
-- It is thought that this efficiency is achieved by spikes that is, brief all-or-none events which are passed in the very large network which forms the brain from assemblies of neurons to others.
+- the process of categorizing an object takes 10 layers
+
 {{< /speaker_note >}}
 
 ---
@@ -59,10 +62,15 @@ blah blas blah
 
 <img data-src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency.jpg" height="420" />
 
+Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)
+
 {{< speaker_note >}}
 **2 MINUTE**
 
-- 
+- the latencies are of similar in the human brain but merely scaled due to the brain size
+
+- as a consequence, it is thought that this efficiency is achieved by spikes that is, brief all-or-none events which are passed in the very large network which forms the brain from assemblies of neurons to others.
+
 {{< /speaker_note >}}
 
 ---
@@ -70,6 +78,9 @@ blah blas blah
 ## Solution: Spiking Neural Networks
 
 <img data-src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/Diesmann_et_al_1999.png" height="420" />
+
+[Diesmann et al. 1999](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py)
+
 
 {{< speaker_note >}}
 **2 MINUTE**
@@ -84,6 +95,8 @@ blah blas blah
 
 <img data-src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/replicating_MainenSejnowski1995.png" height="420" />
 
+[Mainen Sejnowski, 1995](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_2_MainenSejnowski1995.ipynb)
+
 {{< speaker_note >}}
 **2 MINUTE**
 
@@ -93,9 +106,11 @@ blah blas blah
 
 ---
 
-## Solution: Precise spike timing
+## Hypothesis: Spiking motifs
 
 <img data-src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/haimerl2019.jpg" height="420" />
+
+Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)
 
 {{< speaker_note >}}
 **2 MINUTE**
@@ -106,7 +121,7 @@ blah blas blah
 
 ---
 
-## Solution: Precise spike timing
+## Hypothesis: Spiking motifs
 
 <img data-src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/Ikegaya2004zse0150424620001.jpeg" height="420" />
 
@@ -118,7 +133,7 @@ blah blas blah
 {{< /speaker_note >}}
 
 ---
-## Solution: Precise spike timing
+## Hypothesis: Spiking motifs
 
 <img data-src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" height="420" />
 
