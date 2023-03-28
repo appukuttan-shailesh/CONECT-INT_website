@@ -158,7 +158,7 @@ Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication
 
 ---
 
-## Today's program: Spiking Neural Networks
+## Today's program...
 
  <table>
   <tr>
@@ -177,6 +177,7 @@ Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication
   </tr>
 </table>
 
+[Program & more](https://conect-int.github.io/talk/2023-03-28-conect-thematic-day-on-spiking-neural-networks/)
 
 {{< speaker_note >}}
 **2 MINUTE**
@@ -184,12 +185,3 @@ Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication
 - 
 
 {{< /speaker_note >}}
-
----
-
-
-# Questions?
-
-* home page: https://conect-int.github.io/talk/2022-06-20-conect-at-the-centuri-summer-school/
-* Contact us @ [nicolas.meirhaeghe@univ-amu.fr, laurent.perrinet@univ-amu.fr](mailto:nmrghe@gmail.com,laurent.perrinet@univ-amu.fr)
-* GitHub repository: https://github.com/CONECT-INT/2022_CENTURI-SummerSchool
