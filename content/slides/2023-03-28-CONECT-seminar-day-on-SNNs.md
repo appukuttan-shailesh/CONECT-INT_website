@@ -147,6 +147,8 @@ Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication
 
 <img data-src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/izhikevich.png" height="420" />
 
+Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)
+
 {{< speaker_note >}}
 **2 MINUTE**
 
