@@ -85,7 +85,7 @@ Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication
 
 ---
 
-## Solution: Spiking Neural Networks
+## Key: Spiking Neural Networks
 
 <img data-src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/replicating_MainenSejnowski1995.png" height="420" />
 
@@ -158,7 +158,7 @@ Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication
 
 ---
 
-## Today's program: Spiking 
+## Today's program: Spiking Neural Networks
 
  <table>
   <tr>
