@@ -33,6 +33,9 @@ slides:
 
 ## CONECT?
 
+<img data-src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency-estimate.jpgCONECT-logo.png"" height="420" />
+
+
 {{< speaker_note >}}
 **2 MINUTE**
 
