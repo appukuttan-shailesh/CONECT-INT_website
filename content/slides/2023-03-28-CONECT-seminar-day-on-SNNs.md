@@ -29,17 +29,22 @@ slides:
 
 
 ---
-{{< slide background-image="/media/CONECT-logo.png" >}}
 
-## CONECT?
+<img data-src="https://conect-int.github.io/slides/conect/CONECT-logo.png" height="200" />
 
-<img data-src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/visual-latency-estimate.jpgCONECT-logo.png"" height="420" />
-
+[CONECT: Computational Neuroscience Center @ INT](https://conect-int.github.io)
 
 {{< speaker_note >}}
 **2 MINUTE**
 
-blah blas blah
+-so, what is CONECT?
+
+- CONECT is Computational Neuroscience Center @ INT, bringing together a core of theoretician
+
+- aims at making bridges in neuroscience
+
+- and across the community
+
 {{< /speaker_note >}}
 
 ---
@@ -51,7 +56,9 @@ blah blas blah
 [Thorpe & Fabre-Thorpe, 2001](https://doi.org/10.1126/science.1058249)
 
 {{< speaker_note >}}
-**2 MINUTE**
+**1 MINUTE**
+
+- In particular in our group, we are interested in dynamics of neural processing
 
 - The visual system is very efficient in generating a decision from the retinal image to the different  stages of the visual pathways, here for a macaque monkey, a reaction of finger muscles in about 300 milliseconds.
 
@@ -68,27 +75,11 @@ blah blas blah
 Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)
 
 {{< speaker_note >}}
-**2 MINUTE**
+**1 MINUTE**
 
 - the latencies are of similar in the human brain but merely scaled due to the brain size
 
 - as a consequence, it is thought that this efficiency is achieved by spikes that is, brief all-or-none events which are passed in the very large network which forms the brain from assemblies of neurons to others.
-
-{{< /speaker_note >}}
-
----
-
-## Solution: Spiking Neural Networks
-
-<img data-src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/Diesmann_et_al_1999.png" height="420" />
-
-[Diesmann et al. 1999](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py)
-
-
-{{< speaker_note >}}
-**2 MINUTE**
-
-- "This hypothesis is reviewed with respect to our knowledge of the neurobiology, for instance in the hippocampus of rodents. We also review 
 
 {{< /speaker_note >}}
 
@@ -104,6 +95,22 @@ Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication
 **2 MINUTE**
 
 - reproduucibility
+
+{{< /speaker_note >}}
+
+---
+
+## Key: Spiking Neural Networks
+
+<img data-src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/Diesmann_et_al_1999.png" height="420" />
+
+[Diesmann et al. 1999](https://github.com/SpikeAI/2022_polychronies-review/blob/main/src/Figure_3_Diesmann_et_al_1999.py)
+
+
+{{< speaker_note >}}
+**2 MINUTE**
+
+- "This hypothesis is reviewed with respect to our knowledge of the neurobiology, for instance in the hippocampus of rodents. We also review 
 
 {{< /speaker_note >}}
 
@@ -143,13 +150,15 @@ Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication
 {{< speaker_note >}}
 **2 MINUTE**
 
-- 
+- Izhikevich polychronization
+
+- yet the domain is vast, and there s lot to do in SNNs
 
 {{< /speaker_note >}}
 
 ---
 
-## Today's program
+## Today's program: Spiking 
 
  <table>
   <tr>
