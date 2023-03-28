@@ -156,6 +156,8 @@ Review on [Precise Spiking Motifs](https://laurentperrinet.github.io/publication
 
 - yet the domain is vast, and there s lot to do in SNNs
 
+- toto 
+
 {{< /speaker_note >}}
 
 ---
