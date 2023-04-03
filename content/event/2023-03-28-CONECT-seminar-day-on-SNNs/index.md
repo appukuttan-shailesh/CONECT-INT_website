@@ -10,7 +10,6 @@ slides: "2023-03-28-CONECT-seminar-day-on-SNNs"
 This meet-up is focused on __discussing recent developments in Spiking Neural Networks__, with plenty of time for discussion.
 
 * We will meet at INT, Laurent Vinay meeting room. 
-* CONECT's hotline: +33619478120
 
 ## program
 
@@ -24,7 +23,7 @@ This meet-up is focused on __discussing recent developments in Spiking Neural Ne
 
 * 11:30
   * Antoine Grimaldi, PhD student (INT)
-  * Title: **Learning heterogeneous delays in a layer of spiking neurons for fast motion detection**
+  * Title: **[Learning heterogeneous delays in a layer of spiking neurons for fast motion detection](https://laurentperrinet.github.io/publication/grimaldi-22-bc/grimaldi-22-bc.pdf)**
   * The response of a biological neuron depends on the precise timing of afferent spikes. This temporal aspect of the neuronal code is essential in understanding information processing in neurobiology and applies particularly well to the output of neuromorphic hardware such as event-based cameras. However, most artificial neuronal models do not take advantage of this minute temporal dimension. Inspired by this neuroscientific observation, we develop a model for the efficient detection of temporal spiking motifs based on a layer of spiking neurons with heterogeneous delays which we apply to the computer vision task of motion detection. Indeed, the variety of synaptic delays on the dendritic tree allows synchronizing synaptic inputs as they reach the basal dendritic tree. We show this can be formalized as a time-invariant logistic regression which can be trained using labeled data. We apply this model to solve the specific computer vision problem of motion detection, and demonstrate its application to synthetic naturalistic videos transformed into event streams similar to the output of event-based cameras. In particular, we quantify how the accuracy of the model can vary with the total computational load. This end-to-end event-driven computational brick could help improve the performance of future spiking neural network algorithms and their prospective use in neuromorphic chips.
 
 
