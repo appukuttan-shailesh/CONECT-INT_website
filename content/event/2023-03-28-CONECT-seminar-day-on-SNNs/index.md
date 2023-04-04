@@ -7,15 +7,16 @@ publishDate: 2023-03-24 09:00:00
 slides: "2023-03-28-CONECT-seminar-day-on-SNNs"
 ---
 
-This meet-up is focused on __discussing recent developments in Spiking Neural Networks__, with plenty of time for discussion.
+This meet-up was focused on __discussing recent developments in Spiking Neural Networks__, with plenty of time for discussion.
 
-* We will meet at INT, Laurent Vinay meeting room. 
+* We met at INT, Laurent Vinay meeting room. 
 
 ## program
 
 * 10:00
   * Laurent Perrinet
   * Title: **A short intro on [Precise Spiking Motifs in Neurobiological and Neuromorphic Data](https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/)**
+  * Slides: https://conect-int.github.io/slides/2023-03-28-conect-seminar-day-on-snns/
 
 * 10:30
   * [Sander Bohte](https://homepages.cwi.nl/~sbohte/)
