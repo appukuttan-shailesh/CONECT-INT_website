@@ -43,7 +43,7 @@ While each field inspires the other, there is still a gap in our understanding o
 
 11:40 : **Nicolas Meirhaeghe** (INT, Marseille) : "Bayesian Computation through Cortical Latent Dynamics"
 
-12:00 : **Emmanuel Daucé / Hamza Oueld** (INT, Marseille) : "Principles of model-driven active sampling in the brain"
+12:00 : **Emmanuel Daucé & Hamza Oueld** (INT, Marseille) : "Principles of model-driven active sampling in the brain"
 
 12:30 : Meal
 
@@ -51,7 +51,7 @@ While each field inspires the other, there is still a gap in our understanding o
 
 14:00 : **__Thomas Schatz__** (LIS, Marseille): "Perceptual development, unsupervised representation learning and auditory neuroscience"
 
-14:40 : **Charly Lamothe & Etienne Thoret** (LIS/INT, Marseille): "Characterization of the vocal brain and brain-based voice reconstruction using machine learning and deep learning techniques"
+14:40 : **Charly Lamothe** (LIS/INT, Marseille)  & **Etienne Thoret** (PRISM/ILCB, Marseille): "Characterization of the vocal brain and brain-based voice reconstruction using machine learning and deep learning techniques"
 
 15:00 : coffee break
 
@@ -59,7 +59,7 @@ While each field inspires the other, there is still a gap in our understanding o
 
 15:30 : **__Jean-Rémi King__** (Meta / CNRS): "Language in the brain and algorithms"
 
-16:10 : **Etienne Combrisson / Andrea Brovelli** (INT, Marseille) : "Cortico-cortical interactions for goal-directed causal learning"
+16:10 : **Etienne Combrisson & Andrea Brovelli** (INT, Marseille) : "Cortico-cortical interactions for goal-directed causal learning"
 
 16:30 : Round table
  
