@@ -51,7 +51,7 @@ While each field inspires the other, there is still a gap in our understanding o
 
 14:00 : **__Thomas Schatz__** (LIS, Marseille): "Perceptual development, unsupervised representation learning and auditory neuroscience"
 
-14:40 : **Charly Lamothe** (LIS/INT, Marseille)  & **Etienne Thoret** (PRISM/ILCB, Marseille): "Characterization of the vocal brain and brain-based voice reconstruction using machine learning and deep learning techniques"
+14:40 : **Charly Lamothe** (LIS/INT, Marseille)  & **Etienne Thoret** (PRISM/LIS/ILCB, Marseille): "Characterization of the vocal brain and brain-based voice reconstruction using machine learning and deep learning techniques"
 
 15:00 : coffee break
 
