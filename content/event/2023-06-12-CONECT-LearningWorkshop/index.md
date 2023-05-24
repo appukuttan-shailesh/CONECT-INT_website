@@ -21,7 +21,7 @@ Where? *Campus Timone (room Gastaut), Aix-Marseille Université*, 27 Boulevard J
 
 In biology, a major trait of neural systems is the capability to *learn*, that is, to adapt its behavior to the environment it interacts with. Recent advances in machine learning and deep learning have, in parallel, contributed to formulate learning in terms of optimizing performance under task-specific domains.
 
-While each field inspires the other, there is still a gap in our understanding of how learning in machines may compare or even relate to learning in biology. The goal of this workshop is to allow people from both compuational and experimental sides to understand current research achievements and challenges about *active learning in brains and machines*.
+While each field inspires the other, there is still a gap in our understanding of how learning in machines may compare or even relate to learning in biology. The goal of this workshop is to allow people from both computational and experimental sides to understand current research achievements and challenges about *active learning in brains and machines*.
 
 
 ### PROGRAM
@@ -32,19 +32,19 @@ While each field inspires the other, there is still a gap in our understanding o
 
 9:15 : **__Alexandre Pitti__** (ETIS, CY-U, Cergy Pontoise): "Neuro-inspired mechanisms for sensorimotor and syntactic learning in language"
 
-9:55 : **Matthieu Gilson / Laurie Mifsud** (INT, Marseille) Covariance-based processing in bio-inspired neuronal network
+9:55 : **Matthieu Gilson & Laurie Mifsud** (INT, Marseille) "Covariance-based processing in bio-inspired neuronal network"
 
-10:15 : **Antoine Grimaldi** (INT, Marseille) Learning in spiking networks with neuromorphic hardware
+10:15 : **Antoine Grimaldi** (INT, Marseille) "Learning in networks of spiking neurons with heterogeneous delays"
 
 10:35 : coffee break
 
 #### Session 2 : Learning action selection 
 
-11:00 : **__Jorge Ramirez Ruiz__** (Univ Pompeu Fabra, Barcelona) Path occcupancy maximization principle
+11:00 : **__Jorge Ramirez Ruiz__** (Univ Pompeu Fabra, Barcelona) "Path occcupancy maximization principle"
 
-11:40 : **Nicolas Meirhaeghe** (INT, Marseille) : Bayesian Computation through Cortical Latent Dynamics
+11:40 : **Nicolas Meirhaeghe** (INT, Marseille) : "Bayesian Computation through Cortical Latent Dynamics"
 
-12:00 : **Emmanuel Daucé / Hamza Oueld** (INT, Marseille) : Principles of model-driven active sampling in the brain
+12:00 : **Emmanuel Daucé / Hamza Oueld** (INT, Marseille) : "Principles of model-driven active sampling in the brain"
 
 12:30 : Meal
 
@@ -58,9 +58,9 @@ While each field inspires the other, there is still a gap in our understanding o
 
 #### Session 4 : Distribution and integration of brain functions
 
-15:30 : **__Jean Rémi King__** (Meta / CNRS): “Language in the brain and algorithms”
+15:30 : **__Jean-Rémi King__** (Meta / CNRS): "Language in the brain and algorithms"
 
-16:10 : **Etienne Combrisson / Andrea Brovelli** (INT, Marseille) : Cortico-cortical interactions for goal-directed causal learning"
+16:10 : **Etienne Combrisson / Andrea Brovelli** (INT, Marseille) : "Cortico-cortical interactions for goal-directed causal learning"
 
 16:30 : Round table
  
