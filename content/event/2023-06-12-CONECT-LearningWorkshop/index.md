@@ -14,9 +14,7 @@ slides: "2023-06-12-CONECT-LearningWorkshop"
 
 When? *12th of June 2023*
 
-Where? *Campus Timone (room TBA), Aix-Marseille Université*, 27 Boulevard Jean Moulin, 13005 Marseille
-
-![image.png](./featured.png)
+Where? *Campus Timone (room Gastaut), Aix-Marseille Université*, 27 Boulevard Jean Moulin, 13005 Marseille
 
 
 ## Topics
@@ -26,15 +24,15 @@ In biology, a major trait of neural systems is the capability to *learn*, that i
 While each field inspires the other, there is still a gap in our understanding of how learning in machines may compare or even relate to learning in biology. The goal of this workshop is to allow people from both compuational and experimental sides to understand current research achievements and challenges about *active learning in brains and machines*.
 
 
-### PROGRAM (quasi final)
+### PROGRAM
 
 9:00 : Welcome & Introduction
 
-#### Session 1 : Encoding of  neuronal  representations
+#### Session 1 : Encoding of neuronal representations
 
-9:15 : **__Alexandre Pitti__** (ETIS, CY-U, Cergy Pontoise): "mécanismes neuro-inspirés et complémentaires pour l'apprentissage sensorimoteur et syntaxique dans le langage"
+9:15 : **__Alexandre Pitti__** (ETIS, CY-U, Cergy Pontoise): "Neuro-inspired mechanisms for sensorimotor and syntactic learning in language"
 
-9:55 : **Matthieu Gilson/Laurie Mifsud** (INT, Marseille) Covariance-based processing in bio-inspired neuronal network
+9:55 : **Matthieu Gilson / Laurie Mifsud** (INT, Marseille) Covariance-based processing in bio-inspired neuronal network
 
 10:15 : **Antoine Grimaldi** (INT, Marseille) Learning in spiking networks with neuromorphic hardware
 
