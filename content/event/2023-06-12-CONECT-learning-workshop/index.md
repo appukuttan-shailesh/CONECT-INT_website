@@ -7,7 +7,6 @@ authors:
 - matthieu-gilson
 date: 2023-06-12 09:00:00
 publishDate: 2023-06-23 14:00:00
-slides: "2023-06-12-CONECT-LearningWorkshop"
 ---
 
 # CONECT Workshop *Active learning in brains and machines*
