@@ -63,3 +63,10 @@ While each field inspires the other, there is still a gap in our understanding o
 
 16:30 : Round table
  
+### Abstracts
+
+* Thomas Schatz: "Perceptual development, unsupervised representation learning and auditory neuroscience"
+> I will draw from ongoing research projects at the interface between developmental psychology, machine learning, and computational neuroscience, to illustrate how, in my view, perspectives from each of these fields may contribute to the others. More specifically, I will discuss how considerations from developmental psychology and computational neuroscience can inform the design of novel algorithms for the unsupervised learning of speech representations and how the study of these algorithms may, in turn, lead to a deeper understanding of dynamic signal processing in the human brain and of perceptual development in infancy.
+
+* Jean-Rémi King: "Language in the brain and algorithms."
+> Deep learning has recently made remarkable progress in natural language processing. Yet, the resulting algorithms fall short of the efficiency of the human brain. To bridge this gap, we here explore the similarities and differences between these two systems using large-scale datasets of magneto/electro-encephalography (M/EEG), functional Magnetic Resonance Imaging (fMRI), and intracranial recordings. After investigating where and when deep language algorithms map onto the brain, we show that enhancing these algorithms with long-range forecasts makes them more similar to the brain. Our results further reveal that, unlike current deep language models, the human brain is tuned to generate a hierarchy of long-range predictions, whereby the fronto-parietal cortices forecast more abstract and more distant representations than the temporal cortices. Overall, our studies show how the interface between AI and neuroscience clarifies the computational bases of natural language processing.
