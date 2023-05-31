@@ -20,5 +20,4 @@ clean:
 	# rm -fr  $(TMPDIR)/hugo_cache
 	hugo mod clean --all
 	hugo mod tidy
-	hugo clean
 	hugo mod get -u ./...
