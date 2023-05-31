@@ -27,7 +27,7 @@ While each field inspires the other, there is still a gap in our understanding o
 
 9:00 : Welcome & Introduction
 
-#### Session 1 : Encoding of neuronal representations
+#### Session 1 : Encoding of neuronal representations (chair: Emmanuel Daucé)
 
 9:15 : **__Alexandre Pitti__** (ETIS, CY-U, Cergy Pontoise): "Neuro-inspired mechanisms for sensorimotor and syntactic learning in language"
 
@@ -37,7 +37,7 @@ While each field inspires the other, there is still a gap in our understanding o
 
 10:35 : coffee break
 
-#### Session 2 : Learning action selection 
+#### Session 2 : Learning action selection (chair: Matthieu Gilson) 
 
 11:00 : **__Jorge Ramirez Ruiz__** (Univ Pompeu Fabra, Barcelona) "Path occcupancy maximization principle"
 
@@ -47,7 +47,7 @@ While each field inspires the other, there is still a gap in our understanding o
 
 12:30 : Meal
 
-#### Session 3 : Neuronal basis of vocal representation
+#### Session 3 : Neuronal basis of vocal representation (chair: Simon Nougaret)
 
 14:00 : **__Thomas Schatz__** (LIS, Marseille): "Perceptual development, unsupervised representation learning and auditory neuroscience"
 
@@ -55,7 +55,7 @@ While each field inspires the other, there is still a gap in our understanding o
 
 15:00 : coffee break
 
-#### Session 4 : Distribution and integration of brain functions
+#### Session 4 : Distribution and integration of brain functions (chair: Laurent Perrinet)
 
 15:30 : **__Jean-Rémi King__** (Meta / CNRS): "Language in the brain and algorithms"
 
