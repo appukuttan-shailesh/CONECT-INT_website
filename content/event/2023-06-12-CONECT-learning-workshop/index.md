@@ -51,7 +51,7 @@ While each field inspires the other, there is still a gap in our understanding o
 
 14:00 : **__Thomas Schatz__** (LIS, Marseille): "Perceptual development, unsupervised representation learning and auditory neuroscience"
 
-14:40 : **Charly Lamothe** (LIS/INT, Marseille)  & **Etienne Thoret** (PRISM/LIS/ILCB, Marseille): "Characterization of the vocal brain and brain-based voice reconstruction using machine learning and deep learning techniques"
+14:40 : **Charly Lamothe** (LIS/INT, Marseille)  & **Etienne Thoret** (PRISM/LIS/ILCB, Marseille): "Decoding voice identity from brain activity"
 
 15:00 : coffee break
 
@@ -79,3 +79,6 @@ While each field inspires the other, there is still a gap in our understanding o
 
 * Antoine Grimaldi: ["Learning in networks of spiking neurons with heterogeneous delays"](https://laurentperrinet.github.io/publication/grimaldi-22-bc/)
 > The response of a biological neuron depends largely on the precise timing of presynaptic spikes that reach the basal dendritic tree. However, most neuronal models do not take advantage of this minute temporal dimension, especially in exploiting the variety of synaptic delays on the dendritic tree. A notable exception is the polychronization model, a recurrent model of spiking neurons including fixed and random heterogeneous delays and in which the weights are learned using Spike-Time Dependent Plasticity. The output raster plot displays repeated activations of prototypical spiking motifs called Polychronous Groups. Importantly, these motifs seem to be highly relevant in experimental neuroscience. Here, by extending the model of~[3], we develop a spiking neural network model for the efficient detection of PGs: By defining the generation of the raster plot as a probabilistic combination of PGs, we build and train the network in order to optimize the inversion of this generative model.
+
+* Charly Lamothe & Etienne Thoret: "Decoding voice identity from brain activity"
+> Voice information processing in the brain involves specialized areas called temporal voice areas (TVAs), which respond more strongly to vocalizations from the same species. However, how these areas represent voice information, specifically speaker identity, is not well understood. To investigate this, we used a deep neural network (DNN) to create a compact representation of voice stimuli called the voice latent space (VLS). We then examined the relationship between the VLS and brain activity using various analyses. We discovered that the VLS correlates with cerebral activity measured by fMRI when exposed to thousands of voice stimuli from numerous speakers. The VLS also better captures the representation of speaker identity in the TVAs compared to the primary auditory cortex (A1). Additionally, the VLS enables reconstructions of voice stimuli in the TVAs that maintain important aspects of speaker identity, as confirmed by both machine classifiers and human listeners. These findings suggest that the DNN-derived VLS provides high-level representations of voice identity information in the TVAs.
