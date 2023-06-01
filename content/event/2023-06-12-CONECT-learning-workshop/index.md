@@ -2,6 +2,7 @@
 title: '2023-06-12: CONECT Workshop on Learning'
 authors:
 - emmanuel-daucé
+- simon-nougaret
 - laurent-u-perrinet
 - matthieu-gilson
 date: 2023-06-12 09:00:00
