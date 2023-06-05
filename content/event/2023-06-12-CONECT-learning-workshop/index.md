@@ -15,7 +15,10 @@ We organize a one-day workshop on Monday, June 12th, at the Institut de Neurosci
 
 When? *12th of June 2023*
 
-Where? *Campus Timone (room Gastaut), Aix-Marseille Université*, 27 Boulevard Jean Moulin, 13005 Marseille
+Where? [*Campus Timone (room Gastaut), Aix-Marseille Université*, 27 Boulevard Jean Moulin, 13005 Marseille](https://goo.gl/maps/MLpmsN9cd2N1Uv1L7)
+
+Organizers: Simon Nougaret, Emmanuel Daucé, Laurent Perrinet (mobile: 0619478120), Matthieu Gilson
+
 
 
 The event is free, but registration is required. The registration form can be found at:
