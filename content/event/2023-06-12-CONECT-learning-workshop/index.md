@@ -11,9 +11,16 @@ publishDate: 2023-05-23 14:00:00
 
 # CONECT Workshop *Active learning in brains and machines*
 
+CONECT (INT Computational Neuroscience Center) organizes a one-day workshop on Monday, June 12th, at the Institut de Neurosciences de la Timone (INT), in the Gastaut room (9h-17h). The aim of CONECT one-day workshops is to gather computational neuroscientists
+ and experimentalists around an open question in the field, with plenty of room for interaction and discussion.
+
 When? *12th of June 2023*
 
 Where? *Campus Timone (room Gastaut), Aix-Marseille Université*, 27 Boulevard Jean Moulin, 13005 Marseille
+
+
+The event is free, but registration is required. The registration form can be found at:
+https://framaforms.org/conect-workshop-active-learning-in-brains-and-machines-12062023-int-marseille-1684232540
 
 
 ## Topics
