@@ -23,7 +23,7 @@ social:
   icon_pack: fab
   link: https://twitter.com/A_Grismaldi
 superuser: false
-active: true
+active: false
 user_groups:
 - CONECT
 ---
