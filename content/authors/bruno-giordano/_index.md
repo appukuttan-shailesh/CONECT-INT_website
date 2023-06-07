@@ -16,7 +16,7 @@ social:
 - icon: external-link-alt
   icon_pack: fas
   link: https://brungio.github.io/index.htm
-active: false
+active: true
 user_groups:
 - CONECT
 ---
