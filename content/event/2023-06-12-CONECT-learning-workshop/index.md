@@ -11,7 +11,7 @@ publishDate: 2023-05-23 14:00:00
 
 # CONECT Workshop *Active learning in brains and machines*
 
-We organize a one-day workshop on Monday, June 12th, at the Institut de Neurosciences de la Timone (INT), in the Gastaut room (9h-17h), campus Timone. The aim of CONECT one-day workshops is to gather computational neuroscientists and experimentalists around an open question in the field, with plenty of room for interaction and discussion.
+We organized a one-day workshop on Monday, June 12th, at the Institut de Neurosciences de la Timone (INT), in the Gastaut room (9h-17h), campus Timone. The aim of CONECT one-day workshops was to gather computational neuroscientists and experimentalists around an open question in the field, with plenty of room for interaction and discussion.
 
 When? *12th of June 2023*
 
@@ -19,11 +19,7 @@ Where? [*Campus Timone (room Gastaut), Aix-Marseille Université*, 27 Boulevard 
 
 Organizers: Simon Nougaret, Emmanuel Daucé, Laurent Perrinet (mobile: 0619478120), Matthieu Gilson
 
-
-![attendees](IMG_7807.jpeg)
-
-The event is free, but registration is required. The registration form can be found at:
-https://framaforms.org/conect-workshop-active-learning-in-brains-and-machines-12062023-int-marseille-1684232540
+![attendees](IMG_1617.JPG)
 
 
 ## Topics
@@ -32,7 +28,6 @@ In biology, a major trait of neural systems is the capability to *learn*, that i
 
 While each field inspires the other, there is still a gap in our understanding of how learning in machines may compare or even relate to learning in biology. The goal of this workshop is to allow people from both computational and experimental sides to understand current research achievements and challenges about *active learning in brains and machines*.
 
-![attendees](IMG_1617.JPG)
 
 
 ### PROGRAM
@@ -59,21 +54,24 @@ While each field inspires the other, there is still a gap in our understanding o
 
 12:30 : Meal
 
-#### Session 3 : Neuronal basis of vocal representation (chair: Simon Nougaret)
+#### Session 3 : Neuronal basis of vocal representation (chair: Laurent Perrinet)
 
 14:00 : **__Thomas Schatz__** (LIS, Marseille): "Perceptual development, unsupervised representation learning and auditory neuroscience"
 
-14:40 : **Charly Lamothe** (LIS/INT, Marseille)  & **Etienne Thoret** (PRISM/LIS/ILCB, Marseille): "Decoding voice identity from brain activity"
+14:40 : **Charly Lamothe** (LIS/INT, Marseille) & **Etienne Thoret** (PRISM/LIS/ILCB, Marseille): "Decoding voice identity from brain activity"
 
 15:00 : coffee break
 
-#### Session 4 : Distribution and integration of brain functions (chair: Laurent Perrinet)
+#### Session 4 : Distribution and integration of brain functions (chair: Simon Nougaret)
 
 15:30 : **__Jean-Rémi King__** (Meta / CNRS): "Language in the brain and algorithms"
 
 16:10 : **Etienne Combrisson & Andrea Brovelli** (INT, Marseille) : "Cortico-cortical interactions for goal-directed causal learning"
 
 16:30 : Round table
+
+![attendees](IMG_7807.jpeg)
+
  
 ### Abstracts
 
@@ -96,7 +94,7 @@ While each field inspires the other, there is still a gap in our understanding o
 > A central function of the brain is the capacity to anticipate the timing of future events based on past experience. Picture, for instance, a naive baseball player attempting to intercept an incoming ball. After a few failed trials, the player becomes increasingly close to striking the ball, and ultimately hits a home run. How does information about the past few throws help guide the timing of the player’s action? In this talk, I will present behavioral and electrophysiological data from non-human primates aimed at understanding how temporal expectations are represented in the brain. Specifically, I will address the following two questions: (1) how prior knowledge about the timing of a future event is encoded at the level of single neurons, and induces systematic biases in behavior; (2) what type of neural and behavioral changes occur when temporal expectations change in a dynamic environment.
 
 * Laurie Mifsud & Matthieu Gilson: "Statistical learning in bio-inspired neuronal network"
-> In biological neuronal networks, information representation and processing like learning by synaptic plasticity rules are not only related to first-order statistics (i.e. mean firing rate) but also second and higher-order statistics in spike trains. This palces the focus on the temporal structure of distributed spiking activity, at several timescales. In parallel, recent models in machine learning like  deep temporal convolutional networks have switched from inputs like static images to time series. In both cases, the goal is to extract spatio-temporal patterns of activity and it can be framed in the context of statistical learning. We will start from experimental evidence about spiking activity during a cognitive task, then present recent work combining covariance-based learning and reservoir computing to classify time series. The results highlight the important role for the recurrent connectivity in transforming information representations in biologically inspired architectures. Finally, we will see how to use this supervised learning framework to tune a recurrently connected population to experimental spiking data.
+> In biological neuronal networks, information representation and processing like learning by synaptic plasticity rules are not only related to first-order statistics (i.e. mean firing rate) but also second and higher-order statistics in spike trains. This palces the focus on the temporal structure of distributed spiking activity, at several timescales. In parallel, recent models in machine learning like deep temporal convolutional networks have switched from inputs like static images to time series. In both cases, the goal is to extract spatio-temporal patterns of activity and it can be framed in the context of statistical learning. We will start from experimental evidence about spiking activity during a cognitive task, then present recent work combining covariance-based learning and reservoir computing to classify time series. The results highlight the important role for the recurrent connectivity in transforming information representations in biologically inspired architectures. Finally, we will see how to use this supervised learning framework to tune a recurrently connected population to experimental spiking data.
 
 * Alex Pitti : "Neuro-inspired mechanisms for sensorimotor and syntactic learning in language"
 > I propose that two neural mechanisms are at work for language acquisition. On the one hand, predictive coding and on the other hand, serial order coding. Predictive coding helps connect causes to effects in sensorimotor coordination during voice learning. While serial order codes allow pattern recognition in sentences to extract syntactic rules and hierarchy. The coupling between two neural architectures based on these two mechanisms, resp. the cortico-basal system and the fronto-striatum system can be used for the acquisition and categorization of sound primitives (syllables) and sequences (words). As a surprising extension of this idea, we have found that serial codes produce as well efficient coding and can reach Shannon's limit in terms of information capacity. Langage is a compressive representation of information.
