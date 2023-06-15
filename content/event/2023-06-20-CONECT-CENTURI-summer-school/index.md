@@ -5,7 +5,7 @@ authors:
 - laurent-u-perrinet
 date: 2023-06-20 14:00:00
 publishDate: 2023-02-24 09:00:00
-slides: "2023-06-20-CONECT-CENTURI-summer-school"
+slides: "2023-06-19-CONECT-CENTURI-summer-school"
 ---
 
 # Title: Neural computation through population dynamics
