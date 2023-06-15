@@ -17,8 +17,9 @@ slides:
 ---
 {{< slide background-image="/media/open-book.jpg" >}}
 
-# Computational Neuroscience projet
-##  CENTURI Summer school
+## Neural computation through population dynamics
+### Computational Neuroscience projet
+### CENTURI Summer school
 
 https://conect-int.github.io/talk/2023-06-20-conect-at-the-centuri-summer-school/
 
