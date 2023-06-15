@@ -20,6 +20,7 @@ Where? [*Campus Timone (room Gastaut), Aix-Marseille Université*, 27 Boulevard 
 Organizers: Simon Nougaret, Emmanuel Daucé, Laurent Perrinet (mobile: 0619478120), Matthieu Gilson
 
 
+![attendees](IMG_7807.jpeg)
 
 The event is free, but registration is required. The registration form can be found at:
 https://framaforms.org/conect-workshop-active-learning-in-brains-and-machines-12062023-int-marseille-1684232540
@@ -30,6 +31,8 @@ https://framaforms.org/conect-workshop-active-learning-in-brains-and-machines-12
 In biology, a major trait of neural systems is the capability to *learn*, that is, to adapt its behavior to the environment it interacts with. Recent advances in machine learning and deep learning have, in parallel, contributed to formulate learning in terms of optimizing performance under task-specific domains.
 
 While each field inspires the other, there is still a gap in our understanding of how learning in machines may compare or even relate to learning in biology. The goal of this workshop is to allow people from both computational and experimental sides to understand current research achievements and challenges about *active learning in brains and machines*.
+
+![attendees](IMG_1617.JPG)
 
 
 ### PROGRAM
