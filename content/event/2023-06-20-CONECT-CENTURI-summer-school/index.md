@@ -56,3 +56,10 @@ Data that will be shared by the teaching staff, under the BIDS standard data org
 ## Methods
 
 Data visualisation, neural decoding, principal component analysis, kinematic and geometric analyses of neural trajectories in high-dimensional space, hypothesis-testing, null distributions and statistics
+
+
+## Resources
+
+* https://github.com/CONECT-INT/2023_CENTURI-SummerSchool
+
+* https://github.com/SpikeAI/2022-11_brainhack_DetecSpikMotifs
