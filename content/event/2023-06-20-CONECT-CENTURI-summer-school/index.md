@@ -47,9 +47,9 @@ At any given instant, hundreds of billions of cells in our brains are lighting u
 
 Data that will be shared by the teaching staff, under the BIDS standard data organization which is currently being extended to electrophysiology data by the members of the INT and the CONECT team. The data we will use consists of:
 
-- publicly available recordings from the dorsomedial frontal cortex of NHPs performing a time-interval reproduction task (https://github.com/jazlab/Meirhaeghe2021)
+- publicly available recordings from a reaching task
 
-- https://www.biorxiv.org/content/10.1101/2021.03.30.437692v5 : V1, gratings-like, natural stimulations : extracellular electrophy recordings in cat V1
+- publicly available recordings from the dorsomedial frontal cortex of NHPs performing a time-interval reproduction task (https://github.com/jazlab/Meirhaeghe2021)
 
 ## Methods
 
