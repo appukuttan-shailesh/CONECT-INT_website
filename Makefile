@@ -1,7 +1,6 @@
 all: deploy
 
 sync:
-	rsync -av ../hugo_academic/content/post/2020-09-11_seminaire-thomas-serre content/event
 	rsync -av ../hugo_academic/content/authors/laurent-u-perrinet content/authors
 	rsync -av ../hugo_academic/content/authors/frederic-y-chavane content/authors
 	rsync -av ../hugo_academic/content/authors/anna-montagnini content/authors
