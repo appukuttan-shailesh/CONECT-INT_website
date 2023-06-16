@@ -44,16 +44,15 @@ At any given instant, hundreds of billions of cells in our brains are lighting u
 
 ## Type of data
 
-Data that will be shared by the teaching staff, under the BIDS standard data organization which is currently being extended to electrophysiology data by the members of the INT and the CONECT team. The data we will use consists of:
+The folowing datasets will be shared by the teaching staff:
 
 - publicly available recordings from a reaching task from Hatsopoulos, Joshi, and O'Leary (2004) [doi:10.1152/jn.01245.2003](https://journals.physiology.org/doi/full/10.1152/jn.01245.2003)
 
-- publicly available recordings from the dorsomedial frontal cortex of NHPs performing a time-interval reproduction task (https://github.com/jazlab/Meirhaeghe2021)
+- publicly available recordings from the dorsomedial frontal cortex of NHPs performing a time-interval reproduction task Meirhaeghe, Sohn, and Jazayeri (2021) [doi:10.1016/j.neuron.2021.08.025](https://www.cell.com/neuron/fulltext/S0896-6273(21)00622-X) - see (https://github.com/jazlab/Meirhaeghe2021).
 
 ## Methods
 
 Data visualisation, neural decoding, principal component analysis, kinematic and geometric analyses of neural trajectories in high-dimensional space, hypothesis-testing, null distributions and statistics
-
 
 ## Resources
 
