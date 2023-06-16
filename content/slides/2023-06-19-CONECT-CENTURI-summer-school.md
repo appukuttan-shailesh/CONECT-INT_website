@@ -18,7 +18,7 @@ slides:
 {{< slide background-image="/media/open-book.jpg" >}}
 
 ## Neural computation through population dynamics
-### Computational Neuroscience projet
+##### Computational Neuroscience project
 ### CENTURI Summer school
 
 https://conect-int.github.io/talk/2023-06-20-conect-at-the-centuri-summer-school/
@@ -69,6 +69,8 @@ This project is supervised by NM and myself. We are both at the INT, working at 
 
 In this example, a monkey is seeing a display for which a reaching task is associated. at the same time neural activity (raster plot) is recorded in the premotor area. our goal is to be able to design a computational method to predict the actual behavior. achieving to do this allows to better understand computational principles of the brain
 
+- application to BCI
+
 "what I can build, I can understand"
 (to be more modest, as Feynman said “What I cannot build. I do not understand.” )
 
@@ -109,11 +111,12 @@ During the project we will focus on two datasets:
 ---
 
 ## Dataset 1: reaching task
-##### Goal: decode intended arm movements from motor cortical activity
 
 <img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/centerout-task.png" height="200" /><img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/trajectories.png" height="300" />
 
 Hatsopoulos, Joshi, and O'Leary (2004) [doi:10.1152/jn.01245.2003](https://journals.physiology.org/doi/full/10.1152/jn.01245.2003)
+
+##### Goal: decode intended arm movements from motor cortical activity
 
 {{< speaker_note >}}
 **1 MINUTE**
@@ -125,11 +128,12 @@ The first dataset is a classic reaching task. it consists of recordings in prima
 ---
 
 ## Dataset 2: time interval task
-##### Goal: relating neural dynamics to animals’ behavioral performance
 
 <img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset2_time-interval-task/dataset2_fig1A.png" height="300" /><img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset2_time-interval-task/dataset2_fig2.png" height="300" />
 
 Meirhaeghe, Sohn, and Jazayeri (2021) [doi:10.1016/j.neuron.2021.08.025](https://www.cell.com/neuron/fulltext/S0896-6273(21)00622-X)
+
+##### Goal: relating neural dynamics to animals’ behavioral performance
 
 {{< speaker_note >}}
 **1 MINUTE**
@@ -145,11 +149,12 @@ the second dataset is more challenging and involves :
 ---
 
 ## Dataset 2: time interval task
-##### Goal: use precise spike times to improve decoding 
 
 <img data-src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/haimerl2019.jpg" height="300" />
 
 Haimerl et al,  (2019) [doi:10.1073/pnas.1718518116](https://doi.org/10.1073/pnas.1718518116)
+
+##### Goal: use precise spike times to improve decoding 
 
 {{< speaker_note >}}
 **2 MINUTE**
