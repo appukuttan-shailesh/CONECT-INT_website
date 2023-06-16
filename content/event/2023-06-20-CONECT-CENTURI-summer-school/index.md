@@ -47,7 +47,7 @@ At any given instant, hundreds of billions of cells in our brains are lighting u
 
 Data that will be shared by the teaching staff, under the BIDS standard data organization which is currently being extended to electrophysiology data by the members of the INT and the CONECT team. The data we will use consists of:
 
-- publicly available recordings from a reaching task
+- publicly available recordings from a reaching task from Hatsopoulos, Joshi, and O'Leary (2004) [doi:10.1152/jn.01245.2003](https://journals.physiology.org/doi/full/10.1152/jn.01245.2003)
 
 - publicly available recordings from the dorsomedial frontal cortex of NHPs performing a time-interval reproduction task (https://github.com/jazlab/Meirhaeghe2021)
 
