@@ -153,7 +153,7 @@ the second dataset is more challenging and involves :
 
 <img data-src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/haimerl2019.jpg" height="300" />
 
-Haimerl et al,  (2019) [doi:10.1073/pnas.1718518116](https://doi.org/10.1073/pnas.1718518116)
+Haimerl, Angulo-Garcia *et al*, (2019) [doi:10.1073/pnas.1718518116](https://doi.org/10.1073/pnas.1718518116)
 
 ##### Goal: use precise spike times to improve decoding 
 
