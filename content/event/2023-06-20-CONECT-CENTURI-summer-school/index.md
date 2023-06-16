@@ -11,7 +11,7 @@ slides: "2023-06-19-CONECT-CENTURI-summer-school"
 # Title: Neural computation through population dynamics
 
 {{% callout note %}}
-Program in construction - you can already check the program of the [summer school](https://centuri-livingsystems.org/centuri-summer-school-2023/) (June 20 - July 01, 2023)!
+Program in construction - you can already check the program of the [summer school](https://centuri-livingsystems.org/centuri-summer-school-2023/) (June 20 - July 01, 2023) or directly access the [detailed program](https://centuri-livingsystems.org/wp-content/uploads/2018/02/SUMMER-SCHOOL-program-2023.pdf).
 {{% /callout %}}
 
 ## Question
@@ -20,7 +20,6 @@ Detecting precise spiking motifs in neurobiological data
 
 ## Preliminary program
 
-[Detailed program](https://centuri-livingsystems.org/wp-content/uploads/2018/02/SUMMER-SCHOOL-program-2023.pdf)
 
 * Monday, June 19 – Room 4 at CIELL (Hexagone building – 1st floor)
   * 14 – 16h : introduction par Rosa and Pierre 
