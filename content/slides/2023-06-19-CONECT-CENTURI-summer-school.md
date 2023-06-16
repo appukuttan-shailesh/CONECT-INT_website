@@ -129,7 +129,8 @@ The first dataset is a classic reaching task. it consists of recordings in prima
 
 ## Dataset 2: time interval task
 
-<img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset2_time-interval-task/dataset2_fig1A.png" height="300" /><img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset2_time-interval-task/dataset2_fig2.png" height="300" />
+{{% fragment %}} <img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset2_time-interval-task/dataset2_fig1A.png" height="300" /> {{% /fragment %}}
+{{% fragment %}} <img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset2_time-interval-task/dataset2_fig2.png" height="300" /> {{% /fragment %}}
 
 Meirhaeghe, Sohn, and Jazayeri (2021) [doi:10.1016/j.neuron.2021.08.025](https://www.cell.com/neuron/fulltext/S0896-6273(21)00622-X)
 
