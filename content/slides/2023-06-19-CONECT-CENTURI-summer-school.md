@@ -26,8 +26,7 @@ https://conect-int.github.io/talk/2023-06-20-conect-at-the-centuri-summer-school
 {{< speaker_note >}}
 **1 MINUTE**
 - Press `S` key to view
-- Hi, we are LP and NM and we look forward to start working with you on this project
-- as part of the CENTURI summer school - and we would like to thank the organizers of the school...
+- this project is part of the CENTURI summer school - and we would like to thank the organizers of the school...
 - In this short presentation, we will present the challenges that we want to tackle and which we named...
 {{< /speaker_note >}}
 
@@ -58,7 +57,9 @@ This project is supervised by NM and myself. We are both at the INT, working at 
 
 ## Challenge: brain decoding
 
+{{% fragment %}} 
 <img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/decoding.png" height="420" />
+{{% /fragment %}}
 
 {{< speaker_note >}}
 **2 MINUTE**
@@ -129,9 +130,7 @@ The first dataset is a classic reaching task. it consists of recordings in prima
 
 ## Dataset 2: time interval task
 
-{{% fragment %}} 
 <img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset2_time-interval-task/dataset2_fig1A.png" height="300" /> 
-{{% /fragment %}}
 {{% fragment %}} 
 <img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset2_time-interval-task/dataset2_fig2.png" height="300" /> 
 {{% /fragment %}}
@@ -159,7 +158,7 @@ the second dataset is more challenging and involves :
 
 <img data-src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/malvache2016.png" height="300" />
 
-Malvache *et al*, (2016) [doi:10.1126/science.aaf3319](https://www.science.org/doi/10.1126/science.aaf3319)
+Malvache, Reichinnek, Vilette, Haimerl & Cossart (2016) [doi:10.1126/science.aaf3319](https://www.science.org/doi/10.1126/science.aaf3319)
 
 {{% fragment %}} 
 ##### Goal: use precise spike times to improve decoding 
@@ -208,10 +207,7 @@ Haimerl, Angulo-Garcia *et al*, (2019) [doi:10.1073/pnas.1718518116](https://doi
 {{< speaker_note >}}
 **1 MINUTE**
 
-- our goal is to improve decoding 
+-  we look forward to start working with you on this project !
 
--  Internal representation of hippocampal neuronal population spans a time-distance continuum.
-
-- yet the domain is vast, and there s lot to do in SNNs
 
 {{< /speaker_note >}}
