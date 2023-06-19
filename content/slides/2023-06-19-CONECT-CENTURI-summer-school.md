@@ -13,7 +13,8 @@ slides:
   theme: "white"  # Reveal JS theme name
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
-  highlight_style: "github"  # Highlight JS theme name  
+  highlight_style: "github"  # Highlight JS theme name 
+  transition: fade
 ---
 {{< slide background-image="/media/open-book.jpg" >}}
 
@@ -55,8 +56,8 @@ This project is supervised by NM and myself. We are both at the INT, working at 
 
 ---
 
-## Challenge{{% fragment %}}: brain decoding
-
+## Challenge: brain decoding
+{{% fragment %}}
 <img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/decoding.png" height="420" />
 {{% /fragment %}}
 
@@ -98,7 +99,10 @@ The objectives in this project are:
 ## Datasets
 
 - Dataset 1: reaching task (Hatsopoulos et al., J. Neurophysiol., 2004)
+
+{{% fragment %}}
 - Dataset 2: time interval task (Meirhaeghe et al., Neuron, 2021)
+{{% /fragment %}}
 
 {{< speaker_note >}}
 **1 MINUTE**
@@ -112,11 +116,15 @@ During the project we will focus on two datasets:
 
 ## Dataset 1: reaching task
 
+{{% fragment %}}
 <img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/centerout-task.png" height="200" /><img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/trajectories.png" height="300" />
 
 Hatsopoulos, Joshi, and O'Leary (2004) [doi:10.1152/jn.01245.2003](https://journals.physiology.org/doi/full/10.1152/jn.01245.2003)
+{{% /fragment %}}
 
+{{% fragment %}}
 ##### Goal: decode intended arm movements from motor cortical activity
+{{% /fragment %}}
 
 {{< speaker_note >}}
 **1 MINUTE**
