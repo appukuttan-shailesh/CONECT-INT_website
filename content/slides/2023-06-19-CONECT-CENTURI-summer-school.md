@@ -55,18 +55,17 @@ This project is supervised by NM and myself. We are both at the INT, working at 
 
 ---
 
-## Challenge: brain decoding
+## Challenge{{% fragment %}}: brain decoding
 
-{{% fragment %}} 
 <img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset1_reaching-task/decoding.png" height="420" />
 {{% /fragment %}}
 
 {{< speaker_note >}}
 **2 MINUTE**
 
-- our brains light up billions of cells in a structured way,
-- neural activity is in majority carried by action potentials, or *spikes*,
-- we wish to better understand this structure by using machine learning.
+- our brains light up billions of cells, in majority carried by action potentials, or *spikes*,
+- neural activity is structured in a way that allows agents to act on the world
+- we wish to better understand this relationship by using machine learning.
 
 In this example, a monkey is seeing a display for which a reaching task is associated. at the same time neural activity (raster plot) is recorded in the premotor area. our goal is to be able to design a computational method to predict the actual behavior. achieving to do this allows to better understand computational principles of the brain
 
