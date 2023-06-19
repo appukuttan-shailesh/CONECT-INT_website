@@ -129,12 +129,18 @@ The first dataset is a classic reaching task. it consists of recordings in prima
 
 ## Dataset 2: time interval task
 
-{{% fragment %}} <img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset2_time-interval-task/dataset2_fig1A.png" height="300" /> {{% /fragment %}}
-{{% fragment %}} <img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset2_time-interval-task/dataset2_fig2.png" height="300" /> {{% /fragment %}}
+{{% fragment %}} 
+<img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset2_time-interval-task/dataset2_fig1A.png" height="300" /> 
+{{% /fragment %}}
+{{% fragment %}} 
+<img data-src="https://raw.githubusercontent.com/CONECT-INT/2023_CENTURI-SummerSchool/main/datasets/dataset2_time-interval-task/dataset2_fig2.png" height="300" /> 
+{{% /fragment %}}
 
 Meirhaeghe, Sohn, and Jazayeri (2021) [doi:10.1016/j.neuron.2021.08.025](https://www.cell.com/neuron/fulltext/S0896-6273(21)00622-X)
 
+{{% fragment %}} 
 ##### Goal: relating neural dynamics to animals’ behavioral performance
+{{% /fragment %}}
 
 {{< speaker_note >}}
 **1 MINUTE**
@@ -147,6 +153,29 @@ the second dataset is more challenging and involves :
 
 {{< /speaker_note >}}
 
+---
+
+## Dataset 2: time interval task
+
+<img data-src="https://github.com/SpikeAI/2022_polychronies-review/raw/main/figures/malvache2016.png" height="300" />
+
+Malvache *et al*, (2016) [doi:10.1126/science.aaf3319](https://www.science.org/doi/10.1126/science.aaf3319)
+
+{{% fragment %}} 
+##### Goal: use precise spike times to improve decoding 
+{{% /fragment %}}
+
+{{< speaker_note >}}
+**2 MINUTE**
+
+- our goal is to improve decoding 
+
+-  Internal representation of hippocampal neuronal population spans a time-distance continuum.
+
+- yet the domain is vast, and there s lot to do in SNNs
+
+{{< /speaker_note >}}
+<!-- 
 ---
 
 ## Dataset 2: time interval task
@@ -166,7 +195,7 @@ Haimerl, Angulo-Garcia *et al*, (2019) [doi:10.1073/pnas.1718518116](https://doi
 
 - yet the domain is vast, and there s lot to do in SNNs
 
-{{< /speaker_note >}}
+{{< /speaker_note >}} -->
 
 ---
 
