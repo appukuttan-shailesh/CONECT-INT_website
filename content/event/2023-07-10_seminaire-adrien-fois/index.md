@@ -1,8 +1,8 @@
 ---
 authors:
 - laurent-u-perrinet
-date: 2023-03-03 14:30:00
-publishDate: 2023-01-13 09:00:00
+date: 2023-07-10 14:00:00
+publishDate: 2023-07-04 09:00:00
 draft: false
 image:
   focal_point: Center
@@ -11,12 +11,12 @@ image:
 projects: []
 tags:
 - events
-title: '2023-07-10 : INT seminar by Adrien Fois'
+title: '2023-07-10 : CONECT seminar by Adrien Fois'
 subtitle: '"Plasticity and Temporal Coding in Spiking Neural Networks Applied to Representation Learning".'
 summary: 'INT seminar by Adrien Fois "Plasticity and Temporal Coding in Spiking Neural Networks Applied to Representation Learning".'
 ---
 
-During this INT seminar, [Adrien Fois](https://www.researchgate.net/profile/Adrien-Fois-3) will present his recent work on "**Plasticity and Temporal Coding in Spiking Neural Networks Applied to Representation Learning**":
+During this CONECT seminar, [Adrien Fois](https://www.researchgate.net/profile/Adrien-Fois-3) will present his recent work on "**Plasticity and Temporal Coding in Spiking Neural Networks Applied to Representation Learning**":
 
 > The brain is a highly efficient computational system, capable of delivering 600 petaFlops while consuming only 20 W of energy, comparable to that of a light bulb. Computation is based on neural impulses, involving information encoding in the form of spikes and learning based on these spikes. According to the dominant paradigm, information is encoded by the number of spikes. However, an alternative paradigm suggests that information is contained in the precise timing of the spikes, offering significant advantages in terms of energy efficiency and information transfer speed.
 
