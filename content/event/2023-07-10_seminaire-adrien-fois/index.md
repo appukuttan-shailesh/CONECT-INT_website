@@ -16,7 +16,7 @@ subtitle: '"Plasticity and Temporal Coding in Spiking Neural Networks Applied to
 summary: 'INT seminar by Adrien Fois "Plasticity and Temporal Coding in Spiking Neural Networks Applied to Representation Learning".'
 ---
 
-During this CONECT seminar, [Adrien Fois](https://www.researchgate.net/profile/Adrien-Fois-3) will present his recent work on "**Plasticity and Temporal Coding in Spiking Neural Networks Applied to Representation Learning**":
+During this CONECT seminar, [Adrien Fois](https://www.researchgate.net/profile/Adrien-Fois-3) did present his recent work on "**Plasticity and Temporal Coding in Spiking Neural Networks Applied to Representation Learning**":
 
 > The brain is a highly efficient computational system, capable of delivering 600 petaFlops while consuming only 20 W of energy, comparable to that of a light bulb. Computation is based on neural impulses, involving information encoding in the form of spikes and learning based on these spikes. According to the dominant paradigm, information is encoded by the number of spikes. However, an alternative paradigm suggests that information is contained in the precise timing of the spikes, offering significant advantages in terms of energy efficiency and information transfer speed.
 
@@ -24,5 +24,5 @@ During this CONECT seminar, [Adrien Fois](https://www.researchgate.net/profile/A
 
 
 {{% callout note %}}
-Adrien Fois is a PhD Student at the Institute Lorrain de Recherche en Informatique et Ses Applications.
+Adrien Fois was a PhD Student at the Institute Lorrain de Recherche en Informatique et Ses Applications and now a Post-doc at INT.
 {{% /callout %}}
