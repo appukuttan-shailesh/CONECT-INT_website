@@ -1,5 +1,6 @@
 ---
 authors:
+- hugo-ladret
 - laurent-u-perrinet
 date: 2023-09-21 14:30:00
 publishDate: 2023-09-14 09:00:00

@@ -3,6 +3,7 @@ all: deploy
 sync:
 	rsync -av ../hugo_academic/content/authors/laurent-u-perrinet content/authors
 	rsync -av ../hugo_academic/content/authors/frederic-y-chavane content/authors
+	rsync -av ../hugo_academic/content/authors/hugo-ladret content/authors
 	rsync -av ../hugo_academic/content/authors/anna-montagnini content/authors
 	rsync -av ../hugo_academic/content/authors/emmanuel-dauce content/authors
 
