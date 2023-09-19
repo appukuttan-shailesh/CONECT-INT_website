@@ -11,7 +11,7 @@ image:
 projects: []
 tags:
 - events
-title: '2023-09-22: AutoTune'
+title: '2023-09-22: Coding Club on AutoTune'
 subtitle: 'Monthly coding club by CONECT'
 summary: 'Presentation of advanced computational tools for neuroscience and open science'
 ---
