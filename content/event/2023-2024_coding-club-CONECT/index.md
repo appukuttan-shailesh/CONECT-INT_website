@@ -1,7 +1,7 @@
 ---
 authors:
 - matthieu-gilson
-date: 2023-2024 Fridays 11:00:00
+date: 2023-09-22 11:00:00
 publishDate: 2023-09-19 09:00:00
 draft: false
 image:
@@ -11,9 +11,9 @@ image:
 projects: []
 tags:
 - events
-title: '2023-2024: monthly coding club by CONECT'
+title: '2023-2024: monthly coding club by CONECT: AutoTune'
 summary: 'Presentation of advanced computational tools for neuroscience and open science'
-slides: "2023-2024-coding-club-CONECT"
+
 ---
 
 * When: one Friday a month ***11.00am to 12.00am*** 
