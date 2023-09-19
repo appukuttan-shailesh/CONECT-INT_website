@@ -11,13 +11,14 @@ image:
 projects: []
 tags:
 - events
-title: '2023-2024: monthly coding club by CONECT: AutoTune'
-summary: 'Presentation of advanced computational tools for neuroscience and open science'
+title: '2023-09-22: AutoTune'
+summary: 'Monthly coding club by CONECT: Presentation of advanced computational tools for neuroscience and open science'
 
 ---
 
 * When: one Friday a month ***11.00am to 12.00am*** 
 * Where: _salle Vinay (INT)_
+* Today: AutoTune
 
 Special session on advanced computational tools for neuroscience and open science during the [coding club](https://framateam.org/int-marseille/channels/coding-club) organized by the [NIT](https://www.int.univ-amu.fr/plateformes/nit).
 
