@@ -12,9 +12,8 @@ projects: []
 tags:
 - events
 title: '2023-09-22: AutoTune'
-subtitle: '2023-09-22: AutoTune'
-summary: 'Monthly coding club by CONECT: Presentation of advanced computational tools for neuroscience and open science'
-
+subtitle: 'Monthly coding club by CONECT'
+summary: 'Presentation of advanced computational tools for neuroscience and open science'
 ---
 
 * When: one Friday a month ***11.00am to 12.00am*** 
@@ -26,5 +25,5 @@ Special session on advanced computational tools for neuroscience and open scienc
 > Come and test recent computational tools that are useful for neuromodeling, analyzing data and much more.
 
 {{% callout note %}}
-Check the topics at [Coding Club x CONECT]().
+To CONECT members: Propose topics at [Coding Club x CONECT](https://amubox.univ-amu.fr/f/1359219652).
 {{% /callout %}}
