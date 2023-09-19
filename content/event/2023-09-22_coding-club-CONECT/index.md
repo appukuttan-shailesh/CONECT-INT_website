@@ -11,14 +11,14 @@ image:
 projects: []
 tags:
 - events
-title: '2023-09-22: Coding Club on AutoTune'
+title: '2023-09-22: Coding Club on Optuna'
 subtitle: 'Monthly coding club by CONECT'
 summary: 'Presentation of advanced computational tools for neuroscience and open science'
 ---
 
 * When: one Friday a month ***11.00am to 12.00am*** 
 * Where: _salle Vinay (INT)_
-* Today: AutoTune
+* Today: [optuna](https://optuna.org)
 
 Special session on advanced computational tools for neuroscience and open science during the [coding club](https://framateam.org/int-marseille/channels/coding-club) organized by the [NIT](https://www.int.univ-amu.fr/plateformes/nit).
 
