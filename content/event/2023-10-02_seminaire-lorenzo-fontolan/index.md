@@ -21,7 +21,7 @@ summary: 'Conect INT seminar by Lorenzo Fontolan "Neural mechanisms of memory-gu
 
 During this CONECT seminar, [Lorenzo Fontolan](https://fontolanl.github.io/) will present his recent work on "**Neural mechanisms of memory-guided motor learning**"
 
-> Abstract
+> Abstract : TBA
 
 {{% callout note %}}
 Lorenzo Fontolan is a computational neuroscientist interested in how neural interactions give rise to cognitive phenomena, how brain circuits change during learning, and how mental disorders disrupt communication pathways in the brain. Currently he is a CENTURI Group Leader at Aix-Marseille University in France. {{% /callout %}}
