@@ -19,6 +19,6 @@ content:
   order: desc
   page_type: event
 design:
-  view: 3
+  view: compact
   columns: "1"
 ---
