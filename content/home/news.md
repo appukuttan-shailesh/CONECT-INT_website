@@ -4,11 +4,11 @@ widget: pages
 headless: true
 weight: 20
 
-title: About CONECT
+title: Upcoming and recent events
 subtitle:
 
 content:
-  count: 5
+  count: 7
   filters:
     author: ""
     category: ""
@@ -17,7 +17,7 @@ content:
     tag: ""
   offset: 0
   order: desc
-  page_type: post
+  page_type: event
 design:
   view: 3
   columns: "1"
