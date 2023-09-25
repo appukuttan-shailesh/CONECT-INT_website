@@ -26,3 +26,6 @@ During this CONECT seminar, [Jason Eshraghian](https://ncg.ucsc.edu/jason-eshrag
 
 {{% callout note %}}
 Jason K. Eshraghian is an Assistant Professor with the Department of Electrical and Computer Engineering, University of California, Santa Cruz and the maintainer of [snnTorch](https://github.com/jeshraghian/snntorch). {{% /callout %}}
+
+
+In addition, we had a master class in the morning on [snnTorch](https://snntorch.readthedocs.io/en/latest/index.html), get the notebook (upon request).
