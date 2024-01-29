@@ -1,6 +1,6 @@
 ---
 authors:
-- andrea-brovelli
+- fanny-cazettes
 date: 2024-03-11 15:00:00
 publishDate: 2024-01-29 09:00:00
 draft: false
@@ -11,7 +11,7 @@ image:
 projects: []
 tags:
 - events
-title: '2023-10-02 : CONECT seminar by Danny Burnham'
+title: '2024-03-11 : CONECT seminar by Danny Burnham'
 subtitle: '"Mice alternate between inference- and stimulus-bound strategies during probabilistic foraging".'
 summary: 'Conect seminar by Danny Burnham "Mice alternate between inference- and stimulus-bound strategies during probabilistic foraging".'
 ---
