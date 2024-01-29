@@ -19,9 +19,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Antoine-Grimaldi-2
-- icon: twitter
+- icon: mastodon
   icon_pack: fab
-  link: https://twitter.com/A_Grismaldi
+  link: https://neuromatch.social/@antoine_grimaldi
 superuser: false
 active: false
 user_groups:
