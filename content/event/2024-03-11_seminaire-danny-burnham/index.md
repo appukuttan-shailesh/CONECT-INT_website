@@ -17,7 +17,7 @@ summary: 'Conect seminar by Danny Burnham "Mice alternate between inference- and
 ---
 
 
-* When: Monday, Marche 11th ***14:30 to 16:00*** 
+* When: Monday, March 11th ***14:30 to 16:00*** 
 * Where: _salle Laurent Vinay_
 
 During this CONECT seminar, [Danny Burnham](https://ion.uoregon.edu/about/person-page/277) will present his recent work on "**Mice alternate between inference- and stimulus-bound strategies during probabilistic foraging**"
