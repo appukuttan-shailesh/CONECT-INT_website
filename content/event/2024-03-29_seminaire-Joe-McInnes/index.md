@@ -13,7 +13,7 @@ tags:
 - events
 title: '2024-03-29 : INT/CONECT seminar by Joe McInnes'
 subtitle: '"Casting a wide (neural) net: models and simulations of eye movements and attention".'
-summary: 'Conect seminar by Joe MacInnes "Casting a wide (neural) net: models and simulations of eye movements and attention".'
+summary: 'INT/CONECT seminar by Joe MacInnes "Casting a wide (neural) net: models and simulations of eye movements and attention".'
 ---
 
 
