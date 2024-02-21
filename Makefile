@@ -21,3 +21,7 @@ clean:
 	hugo mod clean --all
 	hugo mod tidy
 	hugo mod get -u ./...
+	hugo --gc
+	hugo --cleanDestinationDir
+	hugo --debug
+	
