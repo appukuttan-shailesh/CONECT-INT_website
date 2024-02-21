@@ -14,4 +14,5 @@ active: true
 
 user_groups:
 - CONECT
+- Animators
 ---
