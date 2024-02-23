@@ -63,9 +63,8 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: true
+    enable: false
     extra_languages:
-      - python
       - latex
   math:
     enable: false
