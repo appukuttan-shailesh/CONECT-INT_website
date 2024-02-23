@@ -29,5 +29,5 @@ The general purpose of these sessions is in line with the Coding Club on promoti
 
 {{% callout note %}}
 To CONECT members: Propose topics at [Coding Club x CONECT](https://amubox.univ-amu.fr/f/1359219652).
-And check the Mattermost channel for the schedule.
+And check this [shared file](https://amubox.univ-amu.fr/s/Ln9Q8BzF3HTx8He) and/or the Mattermost channel for the schedule of the Coding Club.
 {{% /callout %}}

@@ -24,7 +24,7 @@ interests:
 - Computational Neuroscience
 - Network Dynamics
 - Machine Learning
-- Model inversion to fit data
+- Model Parameter Inference
 
 social:
 - icon: envelope
