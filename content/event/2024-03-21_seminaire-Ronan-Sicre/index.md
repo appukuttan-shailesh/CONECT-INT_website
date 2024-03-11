@@ -1,8 +1,9 @@
 ---
 authors:
 - matthieu-gilson
+- emmanuel-dauce
 date: 2024-03-21 12:30:00
-publishDate: 2024-03-11 14:00:00
+publishDate: 2024-03-11 06:00:00
 draft: false
 image:
   focal_point: Center
