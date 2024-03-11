@@ -21,7 +21,7 @@ summary: 'INT-CONECT seminar by Ronan Sicre (LIS, AMU)'
 * When: Thursday, March 21th ***12:30 to 13:30*** 
 * Where: _salle Vinay_
 
-During this INT/CONECT seminar, [Pr Ronan Sicre](https://pageperso.lis-lab.fr/~ronan.sicre/wordpress/) will present his recent work: Chizat, L., & Bach, F. Implicit bias of gradient descent for wide two-layer neural networks trained with the logistic loss. (COLT 2020) [http://proceedings.mlr.press/v125/chizat20a/chizat20a.pdf](http://proceedings.mlr.press/v125/chizat20a/chizat20a.pdf)
+During this INT/CONECT seminar, [Pr Ronan Sicre](https://pageperso.lis-lab.fr/~ronan.sicre/wordpress/) will present his recent work. TBA
 
 > Abstract : TBA
 
