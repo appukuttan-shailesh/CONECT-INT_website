@@ -3,13 +3,13 @@ title: '2024-06-03: Computational Neuroscience in Marseille'
 authors:
 - etienne-thoret
 - fanny-cazette
-date: 2024-04-04 09:00:00
-publishDate: 2024-04-04 13:45:00
+date: 2024-04-04 09:00
+publishDate: 2024-04-04 13:45
 ---
 
 # Computational Neuroscience in Marseille
 
-We organize a one-day workshop on Monday, June 3rd, at the Faculté des Sciences Médicales et Paramédicales in the Amphithéâtre d'Odontologie (9h-17h), campus Timone. The aim of this one-day workshops is to gather computational neuroscientists from Marseille around a same event to foster exchanges and new collaborations.
+We organize a one-day workshop on Monday, June 3rd, at the Faculté des Sciences Médicales et Paramédicales in the Amphithéâtre d'Odontologie (9h-17h), campus Timone. This one-day workshop aims to gather computational neuroscientists from Marseille around the same event to foster exchanges and new collaborations.
 
 When? *3rd of June 2024*
 
