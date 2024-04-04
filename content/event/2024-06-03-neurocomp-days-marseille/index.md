@@ -2,7 +2,7 @@
 title: '2024-06-03: Computational Neuroscience in Marseille'
 authors:
 - etienne-thoret
-- fanny-cazette
+- fanny-cazettes
 date: 2024-04-04 09:00
 publishDate: 2024-04-04 13:45
 ---
@@ -15,7 +15,7 @@ When? *3rd of June 2024*
 
 Where? [*Campus Timone (Amphithéâtre d'Odontologie), Aix-Marseille Université*, 27 Boulevard Jean Moulin, 13005 Marseille](https://goo.gl/maps/MLpmsN9cd2N1Uv1L7)
 
-Organizers: Fanny Cazette (INT), Spase Petkoski (INS), Etienne Thoret (INT), Lorenzo Fontolan (INMED)
+Organizers: Fanny Cazettes (INT), Spase Petkoski (INS), Etienne Thoret (INT), Lorenzo Fontolan (INMED)
 
 
 ## Topics
@@ -30,7 +30,7 @@ TO COMPLETE
 
 9:15 : Introduction by Frédéric Chavane (INT, Marseille)
 
-#### Session 1 : INMED (chair Fanny Cazette)
+#### Session 1 : INMED (chair Fanny Cazettes)
 
 9:30 : **Lorenzo Fontolan** (CENTURI, INMED)
 
@@ -62,7 +62,7 @@ TO COMPLETE
 
 14:45 - **ILCB** - Johannes Ziegler (CRPN)
 
-15:00 - **Laënnec** - Guillaume Ausiaz (INT)
+15:00 - **Laënnec** - Guillaume Auzias (INT)
 
 15:15 - **CONECT** - Mathieu Gilson (INT)
 
