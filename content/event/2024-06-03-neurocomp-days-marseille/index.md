@@ -3,7 +3,7 @@ title: '2024-06-03: Computational Neuroscience in Marseille'
 authors:
 - etienne-thoret
 - fanny-cazettes
-date: 2024-04-04 09:00
+date: 2024-06-03 09:00
 publishDate: 2024-04-04 13:45
 ---
 
