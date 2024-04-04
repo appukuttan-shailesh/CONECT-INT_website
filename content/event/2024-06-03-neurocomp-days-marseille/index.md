@@ -64,7 +64,7 @@ TO COMPLETE
 
 15:00 - **Laënnec** - Guillaume Auzias (INT)
 
-15:15 - **CONECT** - Mathieu Gilson (INT)
+15:15 - **CONECT** - Anna Montagnini (INT)
 
 #### External Keynote speaker (chair Spase Petkoski)
 
