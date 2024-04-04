@@ -4,7 +4,7 @@ authors:
 - etienne-thoret
 - fanny-cazette
 date: 2024-04-04 09:00:00
-publishDate: 2024-04-04 13:30:00
+publishDate: 2024-04-04 13:45:00
 ---
 
 # Computational Neuroscience in Marseille
