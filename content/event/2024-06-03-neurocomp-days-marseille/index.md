@@ -54,7 +54,7 @@ TO COMPLETE
 
 #### Session 3 : Marseille institutes (chair Etienne Thoret)
 
-14:00 - **NeuroMarseille** Anne Kavounoudias (CRPN)
+14:00 - **NeuroMarseille** - Anne Kavounoudias (CRPN)
 
 14:15 - **eBrains** - Viktor Jirsa (INS)
 
