@@ -17,8 +17,6 @@ Where? [*Campus Timone (Amphithéâtre d'Odontologie), Aix-Marseille Université
 
 Organizers: Fanny Cazette (INT), Spase Petkoski (INS), Etienne Thoret (INT), Lorenzo Fontolan (INMED)
 
-![attendees](IMG_1617.JPG)
-
 
 ## Topics
 
