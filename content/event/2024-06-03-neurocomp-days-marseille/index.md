@@ -66,7 +66,7 @@ TO COMPLETE
 
 15:15 - **CONECT** - Mathieu Gilson (INT)
 
-#### External Keynote speaker
+#### External Keynote speaker (chair Spase Petkoski)
 
 16:00 - Srdjan Ostojic (LNC, ENS)
 
