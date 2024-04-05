@@ -19,49 +19,49 @@ Organizers: Fanny Cazettes (INT), Spase Petkoski (INS), Etienne Thoret (INT), Lo
 
 ### PROGRAM
 
-9:00 : Welcome by A. Einstein - **Hi, folks!**
+- 9:00 : Welcome by A. Einstein - **Hi, folks!**
 
-9:15 : Introduction by Frédéric Chavane (INT, Marseille)
+- 9:15 : Introduction by Frédéric Chavane (INT, Marseille)
 
-#### Session 1 : INMED (chair Fanny Cazettes)
+#### Session 1 : INMED (chair: Fanny Cazettes)
 
-9:30 : **Lorenzo Fontolan** (CENTURI, INMED)
+- 9:30 : **Lorenzo Fontolan** (CENTURI, INMED)
 
-10:00 : **Paul Uteza** (INMED)
+- 10:00 : **Paul Uteza** (INMED)
 
-10:20 : coffee break
+- 10:20 : coffee break
 
-#### Session 2 : INS (chair Lorenzo Fontolan)
+#### Session 2 : INS (chair: Lorenzo Fontolan)
 
-10:45 : **Christophe Bernard** (INS)
+- 10:45 : **Christophe Bernard** (INS)
 
-11:15 : **Borana Dollomaja** (INS)
+- 11:15 : **Borana Dollomaja** (INS)
 
 #### Session 3 : INT (chair Spase Petkoski)
 
-11:35 : **Sophie Denève** (INT)
+- 11:35 : **Sophie Denève** (INT)
 
-12:05 : **TO BE CONFIRMED**
+- 12:05 : **TO BE CONFIRMED**
 
-12:30 : Lunch break
+- 12:30 : Lunch break
 
-#### Session 3 : Marseille institutes (chair Etienne Thoret)
+#### Session 3 : Marseille institutes (chair: Etienne Thoret)
 
-14:00 - **NeuroMarseille** - Anne Kavounoudias (CRPN)
+- 14:00 - **NeuroMarseille** - Anne Kavounoudias (CRPN)
 
-14:15 - **eBrains** - Viktor Jirsa (INS)
+- 14:15 - **eBrains** - Viktor Jirsa (INS)
 
-14:30 - **CENTURI** - Rosa Cossart (INMED)
+- 14:30 - **CENTURI** - Rosa Cossart (INMED)
 
-14:45 - **ILCB** - Johannes Ziegler (CRPN)
+- 14:45 - **ILCB** - Johannes Ziegler (CRPN)
 
-15:00 - **Laënnec** - Guillaume Auzias (INT)
+- 15:00 - **Laënnec** - Guillaume Auzias (INT)
 
-15:15 - **CONECT** - Anna Montagnini (INT)
+- 15:15 - **CONECT** - Anna Montagnini (INT)
 
-#### External Keynote speaker (chair Spase Petkoski)
+#### External Keynote speaker (chair: Spase Petkoski)
 
-16:00 - Srdjan Ostojic (LNC, ENS)
+- 16:00 - Srdjan Ostojic (LNC, ENS)
 
 
 
