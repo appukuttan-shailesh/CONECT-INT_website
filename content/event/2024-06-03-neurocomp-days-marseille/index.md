@@ -45,7 +45,7 @@ Organizers: Fanny Cazettes (INT), Spase Petkoski (INS), Etienne Thoret (INT), Lo
 
 - 12:30 : Lunch break
 
-#### Session 3 : Marseille institutes (chair: Etienne Thoret)
+#### Session 4 : Marseille institutes (chair: Etienne Thoret)
 
 - 14:00 - **NeuroMarseille** - Anne Kavounoudias (CRPN)
 
