@@ -3,8 +3,8 @@ title: '2024-06-03: Computational Neuroscience in Marseille'
 authors:
 - etienne-thoret
 - fanny-cazettes
-date: 2024-06-03 09:00
-publishDate: 2024-04-04 13:45
+date: 2024-06-03 09:00:00
+publishDate: 2024-04-04 13:45:00
 ---
 
 # Computational Neuroscience in Marseille
@@ -26,7 +26,7 @@ TO COMPLETE
 
 ### PROGRAM
 
-9:00 : Welcome 
+9:00 : Welcome by A. Einstein - **Hi, folks!**
 
 9:15 : Introduction by Frédéric Chavane (INT, Marseille)
 
