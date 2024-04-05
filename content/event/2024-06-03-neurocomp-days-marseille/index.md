@@ -1,5 +1,5 @@
 ---
-title: '2024-06-03: Computational Neuroscience in Marseille'
+title: '2024-06-03: Marseille Computational Neuroscience'
 authors:
 - etienne-thoret
 - fanny-cazettes
@@ -7,7 +7,7 @@ date: 2024-06-03 09:00:00
 publishDate: 2024-04-04 13:45:00
 ---
 
-# Computational Neuroscience in Marseille
+# Marseille Computational Neuroscience
 
 We are organizing a one-day workshop for computational neuroscientists in Marseille. The workshop will be held on Monday, June 3rd, from 9:00 am to 5:00 pm at the Amphithéâtre d'Odontologie, Faculté des Sciences Médicales et Paramédicales, Timone campus. This event aims to bring together computational neuroscientists from the Marseille area to foster collaboration and exchange ideas.
 
@@ -16,13 +16,6 @@ When? *3rd of June 2024*
 Where? [*Campus Timone (Amphithéâtre d'Odontologie), Aix-Marseille Université*, 27 Boulevard Jean Moulin, 13005 Marseille](https://goo.gl/maps/MLpmsN9cd2N1Uv1L7)
 
 Organizers: Fanny Cazettes (INT), Spase Petkoski (INS), Etienne Thoret (INT), Lorenzo Fontolan (INMED)
-
-
-## Topics
-
-TO COMPLETE
-
-
 
 ### PROGRAM
 
@@ -48,7 +41,7 @@ TO COMPLETE
 
 11:35 : **Sophie Denève** (INT)
 
-12:05 : **Adrien Fois** (INT)
+12:05 : **TO BE CONFIRMED**
 
 12:30 : Lunch break
 
