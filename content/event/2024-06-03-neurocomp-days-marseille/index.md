@@ -27,7 +27,7 @@ Organizers: Fanny Cazettes (INT), Spase Petkoski (INS), Etienne Thoret (INT), Lo
 
 - 9:30 : **Lorenzo Fontolan** (CENTURI, INMED)
 
-- 10:00 : **Paul Uteza** (INMED)
+- 10:00 : **TO BE CONFIRMED** (INMED)
 
 - 10:20 : coffee break
 
@@ -47,7 +47,7 @@ Organizers: Fanny Cazettes (INT), Spase Petkoski (INS), Etienne Thoret (INT), Lo
 
 #### Session 4 : Marseille institutes (chair: Etienne Thoret)
 
-- 14:00 - **NeuroMarseille** - Anne Kavounoudias (CRPN)
+- 14:00 - **NeuroMarseille** - NeuroMarseille direction
 
 - 14:15 - **eBrains** - Viktor Jirsa (INS)
 
