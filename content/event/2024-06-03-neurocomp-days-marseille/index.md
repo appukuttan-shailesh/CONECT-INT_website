@@ -19,7 +19,7 @@ Organizers: Fanny Cazettes (INT), Spase Petkoski (INS), Etienne Thoret (INT), Lo
 
 ### PROGRAM
 
-- 9:00 : Welcome by A. Einstein - **Hi, folks!**
+- 9:00 : Welcome
 
 - 9:15 : Introduction by Frédéric Chavane (INT, Marseille)
 
