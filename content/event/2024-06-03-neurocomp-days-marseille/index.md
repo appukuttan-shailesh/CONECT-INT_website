@@ -47,7 +47,7 @@ Organizers: Fanny Cazettes (INT), Spase Petkoski (INS), Etienne Thoret (INT), Lo
 
 #### Session 4 : Marseille institutes (chair: Etienne Thoret)
 
-- 14:00 - **NeuroMarseille** - NeuroMarseille direction
+- 14:00 - **NeuroMarseille** - NeuroMarseille steering committee
 
 - 14:15 - **eBrains** - Viktor Jirsa (INS)
 
@@ -58,6 +58,9 @@ Organizers: Fanny Cazettes (INT), Spase Petkoski (INS), Etienne Thoret (INT), Lo
 - 15:00 - **Laënnec** - Guillaume Auzias (INT)
 
 - 15:15 - **CONECT** - Anna Montagnini (INT)
+
+- 16:35 : Coffee break
+
 
 #### External Keynote speaker (chair: Spase Petkoski)
 
