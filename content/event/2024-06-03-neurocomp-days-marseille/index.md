@@ -37,7 +37,7 @@ Organizers: Fanny Cazettes (INT), Spase Petkoski (INS), Etienne Thoret (INT), Lo
 
 - 11:15 : **Borana Dollomaja** (INS)
 
-#### Session 3 : INT (chair Spase Petkoski)
+#### Session 3 : INT (chair: Spase Petkoski)
 
 - 11:35 : **Sophie Denève** (INT)
 
