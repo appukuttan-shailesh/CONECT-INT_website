@@ -1,6 +1,6 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
@@ -70,9 +70,9 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/CONECT-INT/CONECT-INT.github.io'
     content_dir: content
-    branch: master
+    branch: main
   avatar:
     gravatar: false
     shape: circle
@@ -98,14 +98,14 @@ features:
 # Extensions
 
 extensions:
-  cms:
+  decap_cms:
     branch: main
     local_backend: false
   academicons:
     enable: true
 
-# Security
+# Citation style
 
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true
+publications:
+  date_format: January 2006
+  citation_style: apa
