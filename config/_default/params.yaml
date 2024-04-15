@@ -6,11 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
-
+  mode: system
+  color: blue
+  font: native
+  
 # SEO
 
 marketing:
@@ -51,10 +50,9 @@ footer:
       allow_commercial: false
 
 # Localization
-
 locale:
   date_format: '2006-01-02'
-  time_format: '3:04 PM'
+  time_format: '13:04'
   address_format: en-us
 
 # Site features
@@ -63,10 +61,11 @@ features:
   syntax_highlighter:
     enable: true
     extra_languages:
+      - r
       - python
       - latex
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
@@ -83,8 +82,20 @@ features:
       show_count: true
     commento:
       url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
   search:
+    # provider: algolia
+    # provider: docsearch
     provider: wowchemy
+
+    wowchemy:
+      min_length: 1  # Only the matches whose length exceeds this value will be returned.
+      threshold: 0.3  # Where 0 requires a perfect match and 1 matches anything.
+
     algolia:
       app_id: ''
       api_key: ''
