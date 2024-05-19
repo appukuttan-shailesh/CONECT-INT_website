@@ -29,7 +29,7 @@ Organizers: Fanny Cazettes (INT), Spase Petkoski (INS), Etienne Thoret (INT), Lo
 
 - 10:00 : **Mirindra Ratsifandrihamanana** (INMED)
 
-- 10:20 : coffee break
+- 10:20 : coffee break @ INT-R+4
 
 #### Session 2 : INS (chair: Lorenzo Fontolan)
 
@@ -39,11 +39,11 @@ Organizers: Fanny Cazettes (INT), Spase Petkoski (INS), Etienne Thoret (INT), Lo
 
 #### Session 3 : INT (chair: Spase Petkoski)
 
-- 11:35 : **Sophie Denève** (INT)
+- 11:35 : **TBA** (INT)
 
 - 12:05 : **Adrien Fois** (INT)
 
-- 12:30 : Lunch break
+- 12:30 : Lunch break @ INT-R+4
 
 #### Session 4 : Marseille institutes (chair: Etienne Thoret)
 
@@ -59,10 +59,10 @@ Organizers: Fanny Cazettes (INT), Spase Petkoski (INS), Etienne Thoret (INT), Lo
 
 - 15:15 - **CONECT** - Anna Montagnini (INT)
 
-- 16:35 : Coffee break
+- 15:30 : Coffee break @ INT-R+4
 
 
-#### External Keynote speaker (chair: Spase Petkoski)
+#### External Keynote speaker (chair: Lorenzo Fontolan)
 
 - 16:00 - Srdjan Ostojic (LNC, ENS)
 
