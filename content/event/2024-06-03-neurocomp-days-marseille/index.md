@@ -39,7 +39,7 @@ Organizers: Fanny Cazettes (INT), Spase Petkoski (INS), Etienne Thoret (INT), Lo
 
 #### Session 3 : INT (chair: Spase Petkoski)
 
-- 11:35 : **TBA** (INT)
+- 11:35 : **Andrea Brovelli** (INT)
 
 - 12:05 : **Adrien Fois** (INT)
 
