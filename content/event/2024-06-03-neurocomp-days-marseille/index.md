@@ -17,6 +17,8 @@ Where? [*Campus Timone (Amphithéâtre d'Odontologie), Aix-Marseille Université
 
 Organizers: Fanny Cazettes (INT), Spase Petkoski (INS), Etienne Thoret (INT), Lorenzo Fontolan (INMED)
 
+The organizing committee thanks NeuroMarseille and the three partners institutes (INS, INMED? INT) for their support.
+
 ### PROGRAM
 
 - 9:00 : Welcome
