@@ -41,7 +41,7 @@ The organizing committee thanks NeuroMarseille and the three partners institutes
 
 #### Session 3 : INT (chair: Spase Petkoski)
 
-- 11:35 : **Andrea Brovelli** (INT)
+- 11:35 : **Andrea Brovelli** (INT) : Brain interactions and goal-directed learning
 
 - 12:05 : **Adrien Fois** (INT)
 
