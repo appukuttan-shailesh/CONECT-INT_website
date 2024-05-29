@@ -37,7 +37,7 @@ The organizing committee thanks NeuroMarseille and the three partners institutes
 
 - 10:45 : **Christophe Bernard** (INS)
 
-- 11:15 : **Borana Dollomaja** (INS) : *Diagnostic approaches for drug-resistant epilepsy: whole brain models and brain stimulation*
+- 11:15 : **Borana Dollomaja** (INS): *Diagnostic approaches for drug-resistant epilepsy: whole brain models and brain stimulation*
 
 #### Session 3 : INT (chair: Spase Petkoski)
 
