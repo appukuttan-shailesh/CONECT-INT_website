@@ -68,6 +68,7 @@ The organizing committee thanks NeuroMarseille and the three partners institutes
 
 - 16:00 - **Srdjan Ostojic** (LNC, ENS): *The role of population structure in computations through dynamics*
 
+**Abstract:** Neural computations are currently conceptualised using two separate approaches: sorting neurons into functional sub-populations or examining distributed collective dynamics. Whether and how these two aspects interact to shape computations is currently unclear. Using a novel approach to extract computational mechanisms from recurrent networks trained on neuroscience tasks,  we show that the collective dynamics and sub-population structure play fundamentally complementary roles. Although various tasks can be implemented in networks with fully random population structure, we found that flexible input–output mappings instead require a non-random population structure that can be described in terms of multiple sub-populations. Our analyses revealed that such a sub-population organisation enables flexible computations through a mechanism based on gain-controlled modulations that flexibly shape the collective dynamics.
 
 
 
