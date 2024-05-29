@@ -13,7 +13,7 @@ We are organizing a one-day workshop for computational neuroscientists in Marsei
 
 When? *3rd of June 2024*
 
-Where? [*Campus Timone (Amphithéâtre d'Odontologie), Aix-Marseille Université*, 27 Boulevard Jean Moulin, 13005 Marseille](https://goo.gl/maps/MLpmsN9cd2N1Uv1L7)
+Where? [*Campus Timone (Amphithéâtre d'Odontologie), Aix-Marseille Université*, 27 Boulevard Jean Moulin, 13005 Marseille](https://maps.app.goo.gl/s7RUwYNq9yMpH3Kf8)
 
 Organizers: Fanny Cazettes (INT), Spase Petkoski (INS), Etienne Thoret (INT), Lorenzo Fontolan (INMED)
 
@@ -27,7 +27,7 @@ The organizing committee thanks NeuroMarseille and the three partners institutes
 
 #### Session 1 : INMED (chair: Fanny Cazettes)
 
-- 9:30 : **Lorenzo Fontolan** (CENTURI, INMED)
+- 9:30 : **Lorenzo Fontolan** (CENTURI, INMED): *Neural circuits for temporal flexibility*
 
 - 10:00 : **Mirindra Ratsifandrihamanana** (INMED)
 
@@ -41,7 +41,7 @@ The organizing committee thanks NeuroMarseille and the three partners institutes
 
 #### Session 3 : INT (chair: Spase Petkoski)
 
-- 11:35 : **Andrea Brovelli** (INT) : Brain interactions and goal-directed learning
+- 11:35 : **Andrea Brovelli** (INT): *Brain interactions and goal-directed learning*
 
 - 12:05 : **Adrien Fois** (INT)
 
@@ -66,7 +66,7 @@ The organizing committee thanks NeuroMarseille and the three partners institutes
 
 #### External Keynote speaker (chair: Lorenzo Fontolan)
 
-- 16:00 - Srdjan Ostojic (LNC, ENS)
+- 16:00 - **Srdjan Ostojic** (LNC, ENS): *The role of population structure in computations through dynamics*
 
 
 
