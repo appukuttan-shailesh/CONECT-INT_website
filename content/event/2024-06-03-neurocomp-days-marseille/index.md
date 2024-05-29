@@ -29,7 +29,7 @@ The organizing committee thanks NeuroMarseille and the three partners institutes
 
 - 9:30 : **Lorenzo Fontolan** (CENTURI, INMED): *Neural circuits for temporal flexibility*
 
-- 10:00 : **Mirindra Ratsifandrihamanana** (INMED)
+- 10:00 : **Mirindra Ratsifandrihamanana** (INMED): *Linking early hippocampal dynamics and animal behavior using information theory in physiological and pathological conditions*
 
 - 10:20 : coffee break @ INT-R+4
 
