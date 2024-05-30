@@ -49,7 +49,7 @@ The organizing committee thanks NeuroMarseille and the three partners institutes
 
 #### Session 4 : Marseille institutes (chair: Etienne Thoret)
 
-- 14:00 - **NeuroMarseille** - Anne Kavounoudias (CRPN)
+- 14:00 - **NeuroMarseille** - Anne Kavounoudias (CRPN) & Guillaume Masson (INT)
 
 - 14:15 - **eBrains** - Viktor Jirsa (INS): - *European infrastructure for digital neuroscience*
 
