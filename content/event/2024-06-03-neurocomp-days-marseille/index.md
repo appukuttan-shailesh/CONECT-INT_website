@@ -23,7 +23,7 @@ The organizing committee thanks NeuroMarseille and the three partners institutes
 
 - 9:00 : Welcome
 
-- 9:15 : Introduction by Frédéric Chavane (INT, Marseille)
+- 9:15 : Introduction by **Frédéric Chavane** (INT, Marseille)
 
 #### Session 1 : INMED (chair: Fanny Cazettes)
 
