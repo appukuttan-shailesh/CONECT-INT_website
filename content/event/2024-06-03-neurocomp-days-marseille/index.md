@@ -51,7 +51,7 @@ The organizing committee thanks NeuroMarseille and the three partners institutes
 
 - 14:00 - **NeuroMarseille** - Anne Kavounoudias (CRPN) & Guillaume Masson (INT)
 
-- 14:15 - **eBrains** - Viktor Jirsa (INS): - *European infrastructure for digital neuroscience*
+- 14:15 - **eBrains** - Viktor Jirsa (INS) - *European infrastructure for digital neuroscience*
 
 - 14:30 - **CENTURI** - Rosa Cossart (INMED)
 
