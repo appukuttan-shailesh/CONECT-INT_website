@@ -43,7 +43,7 @@ The organizing committee thanks NeuroMarseille and the three partners institutes
 
 - 11:35 : **Andrea Brovelli** (INT): *Brain interactions and goal-directed learning*
 
-- 12:05 : **Adrien Fois** (INT)
+- 12:05 : **Adrien Fois** (INT): *Unsupervised Learning of Spiking Motifs*
 
 - 12:30 : Lunch break @ INT-R+4
 
@@ -51,7 +51,7 @@ The organizing committee thanks NeuroMarseille and the three partners institutes
 
 - 14:00 - **NeuroMarseille** - Anne Kavounoudias (CRPN)
 
-- 14:15 - **eBrains** - Viktor Jirsa (INS)
+- 14:15 - **eBrains** - Viktor Jirsa (INS): - *European infrastructure for digital neuroscience*
 
 - 14:30 - **CENTURI** - Rosa Cossart (INMED)
 
