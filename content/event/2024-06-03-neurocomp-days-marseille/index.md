@@ -35,7 +35,7 @@ The organizing committee thanks NeuroMarseille and the three partners institutes
 
 #### Session 2 : INS (chair: Lorenzo Fontolan)
 
-- 10:45 : **Christophe Bernard** (INS): *Complexities in interpretations of opto-chemogenetics effects and of dimensionality reduction *
+- 10:45 : **Christophe Bernard** (INS): *Complexities in interpretations of opto-chemogenetics effects and of dimensionality reduction*
 
 - 11:15 : **Borana Dollomaja** (INS): *Diagnostic approaches for drug-resistant epilepsy: whole brain models and brain stimulation*
 
