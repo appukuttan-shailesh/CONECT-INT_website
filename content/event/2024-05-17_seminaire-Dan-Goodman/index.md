@@ -19,7 +19,7 @@ summary: 'INT-CONECT seminar by Dan Goodman: "From neural mechanism to function"
 
 
 * When: Friday, May 17th ***11:00 to 12:00*** 
-* Where: _salle Gastaut_, _Institut de Neurosciences de la Timone_, Marseille, France.
+* Where: _salle R+2 Gauche_ (second floor meeting room on the left), _Institut de Neurosciences de la Timone_, Marseille, France.
 
 During this INT-CONECT seminar, [Dr Dan Goodman](http://neural-reckoning.org/dan_goodman.html) did present his recent work on theoretical modelling: **From neural mechanism to function**.
 
