@@ -18,7 +18,7 @@ summary: 'CONECT seminar Özgün Turgut and Maik Dannecker.'
 
 
 * When: October, 1st ***14:00 to 15:30*** 
-* Where: _salle Laurent Vinay_ (TBC), _Institut de Neurosciences de la Timone_, Marseille, France.
+* Where: _salle R+2 Gauche_ (second floor meeting room on the left), _Institut de Neurosciences de la Timone_, Marseille, France.
 
 During this CONECT seminar, Özgün Turgut and Maik Dannecker, which are PhD Student at the Lab for AI in Medicine at TU Munich, will present their recent work:
 
