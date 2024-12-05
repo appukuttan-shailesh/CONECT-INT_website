@@ -12,8 +12,8 @@ projects: []
 tags:
 - events
 title: '2024 March 13-14: Workshop TransINT'
-subtitle: '"Mechanisms of CNS Transient Dynamics".'
-summary: 'INT/CONECT/NeuroMarseille workshop".'
+subtitle: 'Mechanisms of CNS Transient Dynamics'
+summary: 'INT/CONECT/NeuroMarseille workshop'
 ---
 
 * When: Thursday-Friday ***9:00 to 19:00*** 
