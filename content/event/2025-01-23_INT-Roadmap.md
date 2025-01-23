@@ -42,7 +42,7 @@ For all questions, contact Laurent Perrinet at +33619478120 - or in the whatsapp
 
 ## 16:45 - 17:30 speed dating
 
-An opportunity to meet researchers from the INT =
+An opportunity to meet researchers from the INT:
 
 |                    | *website*                                             | contact      | e-mail                              |
 |:-------------------|-----------------------------------------------------|--------------|-------------------------------------|
@@ -73,13 +73,7 @@ An opportunity to meet researchers from the INT =
 | **Daniel Brown (U Oregon)**                   | Fanny Cazettes     | Etienne Thoret     | Matthieu Gilson    |
 | **Gaia Molinaro (UCBerkeley)**                | Frederic Chavane   | Anna Montagnini    | Fanny Cazettes     |
 
-- and for researchers, this program (scroll left to right if you don't find your name) :
 
-|               | Sophie Deneve                   | Nicolas Meirhaeghe              | Fanny Cazettes              | Guilhem Ibos              | Anna Montagnini                           | Frederic Chavane                          | Bjorg Kilavik             | Matthieu Gilson                 | Etienne Thoret                 | Laurent Perrinet                          |
-|:--------------|:--------------------------------|:--------------------------------|:----------------------------|:--------------------------|:------------------------------------------|:------------------------------------------|:--------------------------|:--------------------------------|:-------------------------------|:------------------------------------------|
-| 16:45 - 17:00 | **Divyansha Lachi (Georgia Tech)**  | **Jonathan Mc Cart (Georgia tech)** | **Daniel Brown (U Oregon)**     | **Benjamin Lyo (NYU)**        | **Patrick Zhang (UW)**                        | **Gaia Molinaro (UCBerkeley)**                | **Pavithra Rajeswaran (UW)**  | **Ti-Fen Pan (Berkeley)**           | **Jacob Yeung (Carnegie)**         | **Concetta Brusco (Albert Einstein college)** |
-| 17:00 - 17:15 |  **Patrick Zhang (UW)**             | **Benjamin Lyo (NYU)**              | **Ti-Fen Pan (Berkeley)**       | **Pavithra Rajeswaran (UW)**  | **Gaia Molinaro (UCBerkeley)**                | **Concetta Brusco (Albert Einstein college)** | **Jacob Yeung (Carnegie)**    | **Jonathan Mc Cart (Georgia tech)** | **Daniel Brown (U Oregon)**        | **Divyansha Lachi (Georgia Tech)**            |
-| 17:15 - 17:30 | **Jonathan Mc Cart (Georgia tech)** | **Pavithra Rajeswaran (UW)**        | **Gaia Molinaro (UCBerkeley)**  | **Patrick Zhang (UW)**        | **Concetta Brusco (Albert Einstein college)** | **Jacob Yeung (Carnegie)**                    | **Benjamin Lyo (NYU)**        | **Daniel Brown (U Oregon)**         | **Divyansha Lachi (Georgia Tech)** | **Ti-Fen Pan (Berkeley)**                     |
 
 ## 17:30 - 18:30 visit of labs
 
