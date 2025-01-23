@@ -54,7 +54,6 @@ An opportunity to meet researchers from the INT:
 | Guilhem Ibos       | <https://www.iboslab.com/>                            |              | guilhem.ibos@univ-amu.fr            |
 | Matthieu Gilson    | <https://matthieugilson.eu/>                          |              | matthieu.gilson@univ-amu.fr         |
 | Fanny Cazettes     | <https://www.fannycazettes.com/>                |              | fannycazettes.neuro@gmail.com |
-| *Maybe you ?*        |                                                     |              |                                     |
 
 - We will divide the time in three slots to have real face-to-face meetings: students will have this program - please keep the timing for everyone to have the same opportunities to talk ! 
 
