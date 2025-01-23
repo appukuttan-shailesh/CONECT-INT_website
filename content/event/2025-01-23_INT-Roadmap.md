@@ -14,8 +14,6 @@ tags:
 title: '2025-01-23 : INT-CONECT welcomes FADEX students'
 ---
 
-# *Welcome to INT for all FADEX students !*
-
 Welcome to the ***Institut de Neurosciences de la Timone***! We are thrilled to introduce you to our groundbreaking research that bridges experimental and theoretical neuroscience.
 
 Our visit today is organized by members of the Center for Computational Neuroscience (CONECT). You can explore our ongoing projects and initiatives at <https://conect-int.github.io/>.
