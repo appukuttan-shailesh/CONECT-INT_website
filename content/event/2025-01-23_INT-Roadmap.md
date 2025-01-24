@@ -38,7 +38,7 @@ For all questions, contact Laurent Perrinet at +33619478120 - or in the whatsapp
 
 ## 16:30 - 16:45 Short presentation of institute by the director
 
-## 16:45 - 17:30 speed dating
+## 16:45 - 17:30 speed meeting
 
 An opportunity to meet researchers from the INT:
 
@@ -74,7 +74,7 @@ An opportunity to meet researchers from the INT:
 
 ## 17:30 - 18:30 visit of labs
 
-At the end of the speed dating, we will self-organize 3 groups of less than 4 people and visit three labs:
+At the end of the speed meeting, we will self-organize 3 groups of less than 4 people and visit three labs:
 
 - Kinarm and Eye tracker  (first floor)
 - Virtual foraging  (first underground floor)
