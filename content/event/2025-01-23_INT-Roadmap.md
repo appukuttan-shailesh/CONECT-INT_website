@@ -44,16 +44,16 @@ An opportunity to meet researchers from the INT:
 
 |                    | *website*                                             | contact      | e-mail                              |
 |:-------------------|-----------------------------------------------------|--------------|-------------------------------------|
-| Sophie Deneve      | <https://lnc2.dec.ens.fr/fr/member/628/sophie-deneve> |              | sophie.deneve@univ-amu.fr           |
-| Etienne Thoret     |                                                     |              |                                     |
+| Sophie Deneve      | <https://lnc2.dec.ens.fr/fr/member/628/sophie-deneve> |              | [sophie.deneve@univ-amu.fr](mailto:sophie.deneve@univ-amu.fr)           |
+| Etienne Thoret     |                                                     |              |  [Etienne.Thoret@univ-amu.fr](mailto:Etienne.Thoret@univ-amu.fr)                                    |
 | Laurent Perrinet   | <https://laurentperrinet.github.io/>                  | +33619478120 | [laurent.perrinet@univ-amu.fr](mailto:laurent.perrinet@univ-amu.fr)        |
-| Bjorg Kilavik      | <https://kilavik.github.io/>                          |              |                                     |
-| Frederic Chavane   |                                                     |              |                                     |
-| Nicolas Meirhaeghe |                                                     |              |                                     |
-| Anna Montagnini    |                                                     |              |                                     |
-| Guilhem Ibos       | <https://www.iboslab.com/>                            |              | guilhem.ibos@univ-amu.fr            |
-| Matthieu Gilson    | <https://matthieugilson.eu/>                          |              | matthieu.gilson@univ-amu.fr         |
-| Fanny Cazettes     | <https://www.fannycazettes.com/>                |              | fannycazettes.neuro@gmail.com |
+| Bjorg Kilavik      | <https://kilavik.github.io/>                          |              |  [Bjorg.Kilavik@univ-amu.fr](mailto:Bjorg.Kilavik@univ-amu.fr)                                    |
+| Frederic Chavane   |                                                     |              |      [Frederic.Chavane@univ-amu.fr](mailto:Frederic.Chavane@univ-amu.fr)                                |
+| Nicolas Meirhaeghe |                                                     |              |  [Nicolas.Nicolas@univ-amu.fr](mailto:Nicolas.Nicolas@univ-amu.fr)                                    |
+| Anna Montagnini    |                                                     |              |   [Anna.Montagnini@univ-amu.fr](mailto:Anna.Montagnini@univ-amu.fr)                                   |
+| Guilhem Ibos       | <https://www.iboslab.com/>                            |              | [guilhem.ibos@univ-amu.fr](mailto:guilhem.ibos@univ-amu.fr)          |
+| Matthieu Gilson    | <https://matthieugilson.eu/>                          |              | [matthieu.gilson@univ-amu.fr](mailto:matthieu.gilson@univ-amu.fr)        |
+| Fanny Cazettes     | <https://www.fannycazettes.com/>                |              | [fannycazettes.neuro@gmail.com](mailto:fannycazettes.neuro@gmail.com) |
 
 - We will divide the time in three slots to have real face-to-face meetings: students will have this program - please keep the timing for everyone to have the same opportunities to talk ! 
 
