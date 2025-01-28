@@ -12,7 +12,7 @@ projects: []
 tags:
 - events
 title: '2025-02-27 : CONECT seminar by Victor Boutin'
-subtitle: '"FReverse Engineering Human Generalization using Artificial Intelligence."'
+subtitle: '"Reverse Engineering Human Generalization using Artificial Intelligence."'
 summary: 'CONECT seminar by Victor Boutin: "Reverse Engineering Human Generalization using Artificial Intelligence".'
 ---
 
