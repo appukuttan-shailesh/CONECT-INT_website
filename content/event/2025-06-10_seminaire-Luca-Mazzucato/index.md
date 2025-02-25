@@ -1,6 +1,6 @@
 ---
 authors:
-- Etienne Thoret
+- Fanny Cazettes
 date: 2025-06-10
 publishDate: 2025-02-25
 draft: false
