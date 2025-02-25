@@ -13,7 +13,7 @@ tags:
 - events
 title: '2025-06-10 : CONECT seminar by Luca Mazzucato'
 subtitle: '"Reverse Engineering Human Generalization using Artificial Intelligence."'
-summary: 'CONECT seminar by Victor Boutin: "Reverse Engineering Human Generalization using Artificial Intelligence".'
+summary: 'CONECT seminar by Luca Mazzucato: Title TBA.'
 ---
 
 
