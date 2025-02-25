@@ -1,7 +1,7 @@
 ---
 authors:
 - Etienne Thoret
-date: 2025-02-27
+date: 2025-06-10
 publishDate: 2025-02-25
 draft: false
 image:
