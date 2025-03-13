@@ -1,7 +1,7 @@
 ---
 authors:
 - Fanny Cazettes
-date: 2025-06-10
+date: 2025-06-13
 publishDate: 2025-02-25
 draft: false
 image:
@@ -17,8 +17,8 @@ summary: 'CONECT seminar by Luca Mazzucato: Title TBA.'
 ---
 
 
-* When: June 10th ***10:00 to 11:30*** 
-* Where: Salle Laurent Vinay, _Institut de Neurosciences de la Timone_, Marseille, France.
+* When: June 13th ***11:00 to 11:00*** 
+* Where: Salle Gastaud, _Institut de Neurosciences de la Timone_, Marseille, France.
 
 During this CONECT seminar, [Pr. Luca Mazzucato](https://www.mazzulab.com/ ) will present his work.
 
