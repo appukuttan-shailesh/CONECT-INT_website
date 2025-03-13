@@ -11,7 +11,7 @@ image:
 projects: []
 tags:
 - events
-title: '2025-06-10 : CONECT seminar by Luca Mazzucato'
+title: '2025-06-13 : CONECT seminar by Luca Mazzucato'
 subtitle: '"TBA."'
 summary: 'CONECT seminar by Luca Mazzucato: Title TBA.'
 ---
