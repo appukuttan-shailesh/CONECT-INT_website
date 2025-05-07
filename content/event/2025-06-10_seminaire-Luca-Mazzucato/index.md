@@ -13,7 +13,7 @@ tags:
 - events
 title: '2025-06-13 : CONECT seminar by Luca Mazzucato'
 subtitle: '"Neural mechanisms of optimal performance"'
-summary: 'CONECT seminar by Luca Mazzucato: Title TBA.'
+summary: 'CONECT seminar by Luca Mazzucato: "Neural mechanisms of optimal performance".'
 ---
 
 
