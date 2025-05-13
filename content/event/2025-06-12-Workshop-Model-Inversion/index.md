@@ -40,7 +40,3 @@ PROGRAM
 18:00 Glam Rock  :beers:  :peanuts: 
 
 
-
-{{% callout note %}}
-
-{{% /callout %}}
