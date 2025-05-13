@@ -31,11 +31,11 @@ PROGRAM
 
 14:00 Nina Baldy (TNG-INS) - Dynamic Causal Modeling in Probabilistic Programming Languages
 
-14:45 Pedro Garcia (BraiNets-INT) - A dynamic causal model to infer effective connectivity from meg induced responses (high-gamma-activity): a workflow for model bayesian inversion 
+14:45 Pedro Garcia (BraiNets-INT) - Dynamic Causal Modelling to infer effective connectivity from task-related MEG high-gamma activitiy (HGA): a workflow for Bayesian model inversion 
 
 15:30 Pause  :coffee:  :mate_drink: 
 
-15:45 Cyprien Dautrevaux (BraiNets-INT) - SBI for patch clamp recordings and neuronal conductance estimation
+15:45 Cyprien Dautrevaux (BraiNets-INT) - Simulation Based Inference (SBI) for patch clamp recordings and neuronal conductance estimation
 
 16:30 Jean-Didier Lemaréchal (BraiNets-INT) - Bayesian inference applied to neuronal models: methods & applications
 
