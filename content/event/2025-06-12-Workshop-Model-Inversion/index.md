@@ -31,11 +31,11 @@ PROGRAM
 
 15:30 Pause  :coffee:  :mate_drink: 
 
-15:45 Jean-Didier Lemaréchal (BraiNets-INT) - Bayesian inference applied to neuronal models: methods & applications
+15:45 Cyprien Dautrevaux (BraiNets-INT) - Dynamic Causal Modelling for ERPs propagation estimated from MEG
 
-16:30 Cyprien Dautrevaux (BraiNets-INT) - TBA
+16:30 Jean-Didier Lemaréchal (BraiNets-INT) - Bayesian inference applied to neuronal models: methods & applications
 
-17:15 Abolfazl Ziaeemehr (TNG-INS) - Virtual Brain Inference (VBI): A flexible and integrative toolkit for efficient probabilistic inference on virtual brain models
+17:15 Abolfazl Ziaeemehr (TNG-INS) - Virtual Brain Inference (VBI): A flexible and integrative toolkit for efficient probabilistic inference on virtual brain models 
 
 18:00 Glam Rock  :beers:  :peanuts: 
 
