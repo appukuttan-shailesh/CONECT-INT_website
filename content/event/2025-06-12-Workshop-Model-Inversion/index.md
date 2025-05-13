@@ -35,7 +35,7 @@ PROGRAM
 
 15:30 Pause  :coffee:  :mate_drink: 
 
-15:45 Cyprien Dautrevaux (BraiNets-INT) - Dynamic Causal Modelling for ERPs propagation estimated from MEG
+15:45 Cyprien Dautrevaux (BraiNets-INT) - SBI for patch clamp recordings and neuronal conductance estimation
 
 16:30 Jean-Didier Lemaréchal (BraiNets-INT) - Bayesian inference applied to neuronal models: methods & applications
 
