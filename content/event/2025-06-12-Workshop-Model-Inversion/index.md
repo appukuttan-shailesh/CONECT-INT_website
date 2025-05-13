@@ -11,7 +11,7 @@ image:
 projects: []
 tags:
 - events
-title: '2025-06-26 : Workshop on Model Inversion'
+title: '2025-06-12 : Workshop on Model Inversion'
 subtitle: '"Joint INT-INS workshop on model inversion techniques for neuroscience: linking neural models to brain data"'
 summary: '"Joint INT-INS workshop on model inversion techniques for neuroscience: linking neural models to brain data".'
 ---
