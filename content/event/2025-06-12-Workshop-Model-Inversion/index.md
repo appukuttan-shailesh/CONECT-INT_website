@@ -19,7 +19,7 @@ summary: '"Joint INT-INS workshop on model inversion techniques for neuroscience
 
 * When: Thursday June 12th ***14:00 to 18:00*** 
 * Where: Salle Laurent Vinay, _Institut de Neurosciences de la Timone_, Marseille, France.
-
+* Organisers: Andrea Brovelli (INT) and Meysam Hashemi (INS)
 And on Zoom : 
 [https://univ-amu-fr.zoom.us/j/98265637982?pwd=H3XzYziirf301CBX327rFFaDbCKHW4.1](https://univ-amu-fr.zoom.us/j/98265637982?pwd=H3XzYziirf301CBX327rFFaDbCKHW4.1)
 
