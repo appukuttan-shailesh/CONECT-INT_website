@@ -42,5 +42,5 @@ PROGRAM
 
 
 {{% callout note %}}
-TBA 
+
 {{% /callout %}}
