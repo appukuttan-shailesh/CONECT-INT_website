@@ -17,9 +17,9 @@ summary: '"Joint INT-INS workshop on model inversion techniques for neuroscience
 ---
 
 
-* When: Thursday June 12th ***14:00 to 18:00*** 
-* Where: Salle Laurent Vinay, _Institut de Neurosciences de la Timone_, Marseille, France.
-* Zoom link [https://univ-amu-fr.zoom.us/j/98265637982?pwd=H3XzYziirf301CBX327rFFaDbCKHW4.1](https://univ-amu-fr.zoom.us/j/98265637982?pwd=H3XzYziirf301CBX327rFFaDbCKHW4.1)
+* When: Thursday June 12th 2025 ***14:00 to 18:00*** 
+* Where: Salle Laurent Vinay (1st floor), Institut de Neurosciences de la Timone (INT).
+* Zoom link: [https://univ-amu-fr.zoom.us/j/98265637982?pwd=H3XzYziirf301CBX327rFFaDbCKHW4.1](https://univ-amu-fr.zoom.us/j/98265637982?pwd=H3XzYziirf301CBX327rFFaDbCKHW4.1)
 * Organisers: Andrea Brovelli (INT, AMU/CNRS) and Meysam Hashemi (INS, AMU/INSERM)
 
 > Have you ever asked yourself how to find the neural model that best describes your data? What a good question! For complex models, no easy solution exists. Generally, this issue is referred to as "model inversion", and it often represents an ill-posed problem in data science, where no unique solution is at hand. However, recent advances in ML and AI are providing interesting tools that can be used to perform model inversion and fit neural models to brain data.
@@ -31,7 +31,7 @@ PROGRAM
 
 14:45 Pedro Garcia (BraiNets-INT) - Dynamic Causal Modelling to infer effective connectivity from task-related MEG high-gamma activitiy (HGA): a workflow for Bayesian model inversion 
 
-15:30 Pause  :coffee:  :mate_drink: 
+15:30 Pause  :coffee: 
 
 15:45 Cyprien Dautrevaux (BraiNets-INT) - Simulation Based Inference (SBI) for patch clamp recordings and neuronal conductance estimation
 
