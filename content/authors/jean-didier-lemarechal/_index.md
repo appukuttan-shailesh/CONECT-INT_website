@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Matthieu Gilson
+title: Jean-Didier Lemarechal
 
 # Username (this should match the folder name)
 authors:
@@ -10,38 +10,29 @@ authors:
 superuser: false
 
 # Role/position
-role: Researcher in Computational Neuroscience
+role: Engineer in Computational Neuroscience
 
 # Organizations/Affiliations
 organizations:
 - title: Institut de Neurosciences de la Timone
-  url: https://www.int.univ-amu.fr/PERRINET-Laurent
 
 # Short bio (displayed in user profile at end of posts)
-bio: Computational Neuroscience for Cognition and Neuropahtologies
+bio: Model Development and Inference
 
 interests:
 - Computational Neuroscience
-- Network Dynamics
 - Machine Learning
-- Model Parameter Inference
+- Model Inference
 
 social:
 - icon: envelope
   icon_pack: fas
   link: 'jean-didier.LEMARECHAL [at] univ-amu.fr'
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-6726-7207
-- icon: external-link-alt
-  icon_pack: fas
-  link: https://matthieugilson.eu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: matthieu.gilson@univ-amu.fr
+email: jean-didier.lemarechal@univ-amu.fr
 
 user_groups:
 - CONECT
-- Animators
 
 ---
