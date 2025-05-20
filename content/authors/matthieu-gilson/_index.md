@@ -15,7 +15,7 @@ role: Researcher in Computational Neuroscience
 # Organizations/Affiliations
 organizations:
 - title: Institut de Neurosciences de la Timone
-  url: https://www.int.univ-amu.fr/PERRINET-Laurent
+  url: https://www.int.univ-amu.fr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Computational Neuroscience for Cognition and Neuropahtologies

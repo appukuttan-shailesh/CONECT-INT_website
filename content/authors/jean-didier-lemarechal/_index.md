@@ -29,7 +29,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'matthieu.gilson [at] univ-amu.fr'
+  link: 'jean-didier.LEMARECHAL [at] univ-amu.fr'
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-6726-7207
