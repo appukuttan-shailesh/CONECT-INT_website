@@ -35,9 +35,6 @@ social:
 - icon: external-link-alt
   icon_pack: fas
   link: https://brovelli.github.io/
-- icon: external-link-alt
-  icon_pack: fas
-  link: [https://brainets.github.io/](https://www.int.univ-amu.fr/recherche-int/equipes/brainets)
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: andrea.brovelli@univ-amu.fr
