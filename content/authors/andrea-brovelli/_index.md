@@ -26,15 +26,19 @@ interests:
 - Brain interactions
   
 social:
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=vsskO0AAAAAJ&hl=fr
+- icon: external-link-alt
+  icon_pack: fas
+  link: https://brovelli.github.io/
 - icon: github
   icon_pack: fab
   link: https://github.com/brovelli
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-5342-1330
-- icon: external-link-alt
-  icon_pack: fas
-  link: https://brovelli.github.io/
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: andrea.brovelli@univ-amu.fr
