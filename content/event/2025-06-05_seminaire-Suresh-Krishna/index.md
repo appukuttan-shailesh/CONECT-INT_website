@@ -26,5 +26,5 @@ During this CONECT seminar, [Suresh Krishna](http://m2b3.lab.mcgill.ca/) will  d
 
 
 {{% callout note %}}
-Suresh Krishna directs the m2b3 lab at McGill (http://m2b3.lab.mcgill.ca). The lab focuses on vision, hearing, eye-movements and higher-mental functions via behavior studies, neurophysiology and computational function. Since recently, his research program has begun to include an applied and translational component, in collaboration with clinicians, with interests including strabismus, epilepsy and autonomic disorders.
+Suresh Krishna directs the m2b3 lab at McGill ([http://m2b3.lab.mcgill.ca](http://m2b3.lab.mcgill.ca)). The lab focuses on vision, hearing, eye-movements and higher-mental functions via behavior studies, neurophysiology and computational function. Since recently, his research program has begun to include an applied and translational component, in collaboration with clinicians, with interests including strabismus, epilepsy and autonomic disorders.
 {{% /callout %}}
