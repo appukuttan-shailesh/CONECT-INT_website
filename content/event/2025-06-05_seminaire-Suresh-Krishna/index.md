@@ -22,7 +22,7 @@ summary: 'CONECT seminar by Suresh Krishna: "Peri-saccadic attention-shifts and 
 
 
 
-During this CONECT seminar, [Suresh Krishna](http://m2b3.lab.mcgill.ca/) will  discuss our results from humans and monkeys performing visual tasks while making both instructed and free eye-movements. Each eye-movement necessitates compensatory remapping and attentional shifts (that are likely linked). I will discuss the surprisingly key role they play in active vision during goal-directed visual search, and also touch upon our recent work connecting remapping to peri-saccadic mislocalization. If time permits, I will also discuss an additional project involving our investigation of  a fascinating circuit for the optokinetic response.
+During this CONECT seminar, [Suresh Krishna](http://m2b3.lab.mcgill.ca/) will  discuss results from humans and monkeys performing visual tasks while making both instructed and free eye-movements. Each eye-movement necessitates compensatory remapping and attentional shifts (that are likely linked). He will discuss the surprisingly key role they play in active vision during goal-directed visual search, and also touch upon his recent work connecting remapping to peri-saccadic mislocalization. If time permits, he will also discuss an additional project involving his investigation of  a fascinating circuit for the optokinetic response.
 
 
 {{% callout note %}}
