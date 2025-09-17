@@ -18,7 +18,7 @@ summary: 'CONECT seminar by Pau Vilimelis Aceituno: "Evidence for Target Learnin
 
 
 * When: September 23rdth ***14:00 to 15:00*** 
-* Where: Salle Laurent Vinay, _Institut de Neurosciences de la Timone_, Marseille, France.
+* Where: Salle Réunion R+2 Droite, _Institut de Neurosciences de la Timone_, Marseille, France.
 
 During this CONECT seminar, [Pau Vilimelis Aceituno](https://services.ini.uzh.ch/admin/modules/uzh/person.php?id=79844&back=../uzh/people) will present his work.
 
